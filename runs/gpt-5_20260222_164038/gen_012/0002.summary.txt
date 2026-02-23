@@ -1,0 +1,185 @@
+## Type of utopia
+A **civic-republic / social-democratic “high-trust infrastructure” utopia** built around: universal basic security, radical transparency of public power, tightly governed technology, and an economy that “pays the commons” through land/scarcity rents and shared windfalls—paired with strong exit rights so no institution can trap you.
+
+---
+
+## Core guarantees (universal baseline)
+- **“The Floor Follows You”**: every person is guaranteed:
+  - a lockable room/shelter access
+  - staple food and clean water
+  - basic healthcare access
+  - reliable public transit
+  - baseline electricity **and** baseline digital access/compute (“Watt & Word”)
+  - a monthly **Common Share** cash dividend that grows as the commons earns more
+- **Decency is unconditional**: basic survival and participation do not depend on employment, status, or “winning” scarcity contests.
+
+---
+
+## Governance and civic culture (how power is constrained)
+- **Reasons Before Rules**: any binding decision must come with:
+  - readable justification, sources, assumptions
+  - who was involved, what “success” means
+  - explicit uncertainty/error bars where relevant
+  - **stop triggers** and criteria for reversal
+- **Mirror panels by lottery**: randomly selected public reviewers publish disagreements on major decisions.
+- **Truth Bonds**: leaders/operators post financial bonds tied to the accuracy of forecasts and claims; missing declared bounds pays out to harmed people/public.
+- **Forecast Ledger**: systematic public forecasting of projects/outcomes; incentives for being accurate (not merely persuasive).
+- **Practice-based preparedness**: routine drills for worst-day scenarios (floods, compute shutdowns, system failures). Competence and rehearsal are civic norms.
+
+---
+
+## “Exit is cheap” (anti-coercion design)
+- **“Two lanterns” protocol**: at any public counter, invoking it triggers:
+  - immediate short-term shelter (e.g., three nights)
+  - an advocate/assistant you can replace (“fire”)
+  - protection from coercion/retaliation
+- **Pack-and-Go rights**: credentials, records, references, and essential data are:
+  - portable in open signed formats
+  - not hostage to employers, landlords, platforms, or institutions
+- **Graceful Uninstall law**: platforms/devices must allow simple export and dignified exit; fake compliance is punishable.
+
+---
+
+## Economy and distribution (how it is funded)
+The system funds universal basics by charging for **unearned or collectively-created value** and returning it to the public.
+
+- **Land as leased commons (not sold)**:
+  - long leases (60–90 years), renewable if maintained responsibly
+  - land value uplift (from transit, schools, safety, community) flows back to the commons
+  - **dormancy rent** penalizes leaving valuable space unused (reduces speculation and vacancy)
+- **Scarcity rents with time limits**:
+  - scarce privileges (curb space, radio spectrum, port berths, quiet soundspace at festivals, satellite shells, etc.) are auctioned transparently and **not owned permanently**
+  - revenues split into:
+    - **Common Share** (cash/basic security)
+    - **Place Funds** (reinvest locally where value arises)
+    - **Earth Share** (funds long-horizon resilience and global/collective goods)
+- **Windfall sharing by contract**:
+  - high-leverage sectors (advanced compute, reactors, elite labs) must accept windfall clauses above thresholds
+  - participation is enforced via access to cheap power/fast connectivity/procurement
+- **Pattern Dividend (innovation rewarded by adoption, not gatekeeping)**:
+  - creators of widely used designs/protocols (energy-saving building details, effective public-health routines) get paid as uptake spreads
+  - encourages open dissemination and practical improvement
+
+---
+
+## Built environment and housing (practical, fast, safe)
+- **Pattern-book building code**: slim set of proven building types (“safe envelopes”) rather than bespoke bureaucracy.
+- **Fast permitting**:
+  - in-pattern approvals in days
+  - out-of-pattern requires engineering seals and simulation via a civic “digital twin,” but decisions still occur quickly.
+- **Material “passports”**:
+  - buildings use trackable materials designed for disassembly, reuse, and lifecycle accountability.
+- **Anti-fragile infrastructure mindset**:
+  - public projects require funded reversal/rollback plans **before** launch
+  - “ending a pilot” is treated as success of governance, not scandal
+
+---
+
+## Technology and AI (powerful but bounded, inspectable, interruptible)
+- **Personal devices/stewards must be truly switch-offable**:
+  - physical off-switches that can be tested; faking “off” is illegal.
+- **Attention transparency and limits**:
+  - “nudges” must be labeled with motives, evidence, and uncertainty
+  - users can meter/thermostat how much persuasion or contention they receive
+  - systems that worsen mood pay levies; systems that improve wellbeing can get rebates
+  - interoperability is mandatory; large opaque entities must open interfaces/books or split
+- **High-risk compute governance**:
+  - training above a threshold must be registered
+  - independent “red teams” test and attack systems
+  - watchdogs monitor goal drift/category errors
+  - critical compute can be sequestered; **cuts/shutdowns are practiced** and legally enforceable (“knobs a court could turn”)
+  - “capability cards” and public logs accompany deployments
+
+---
+
+## Safety engineering as a civic norm (“keys turn together”)
+- Dangerous systems require **three separate authorizations**:
+  - **Maker key**: designer/operator accountable for claims and failures
+  - **Skeptic key**: independent paid critic incentivized to find flaws early
+  - **Ward key**: representatives of those who live with the risk
+- Public “promise cards” define:
+  - capability, limits, known risks
+  - rollback criteria and escrow funding
+  - review dates and performance grades
+  - public logs and bounty programs for finding issues
+
+---
+
+## Health, care, and bodily autonomy
+- **Outcome-based care purchasing**:
+  - pays for measurable life outcomes (“climb stairs without pain”), not billable minutes
+  - drug/device labels resemble nutrition labels: effect sizes, error bars, head-to-head comparisons
+- **Personal health models are private and user-controlled**:
+  - systems ask consent in human terms and at chosen times
+- **Consent with handles and reversibility**:
+  - major lasting interventions require safeguards (you + “recent past self” within a window; peer support)
+  - later “blue tile” mechanism supports reversal/return when possible
+  - “consent receipts” exist and are portable
+
+---
+
+## Work, skills, and social insurance
+- **Portable benefits spine**: health/disability/retirement/leave follow the person, not the job.
+- **Competence stamping replaces many licenses**:
+  - verified work traces/supervised runs
+  - reciprocity across regions using a **Skills Ledger**
+- **Tryfortnight**: two-week mutual trial period with protections (reduces hiring/firing trauma).
+- **Sabbatical right**: periodic half-pay seasons for learning/care/building/wandering without moral surveillance.
+- **Care work is valued equivalently**: eldercare hours bank like technical labor.
+- **Paid intergenerational mentoring (“Gray Corps”)**: retirees are resourced to teach and stabilize community skills.
+
+---
+
+## Social fabric and mental health (loneliness treated as infrastructure)
+- **Loneliness is measured like pollution** and addressed with targeted funding and proven interventions.
+- **Relationship education** is core curriculum: consent, apology, repair, leaving well; adult refreshers exist.
+- **Matchwrights**: licensed helpers incentivized for stability (not churn) help households form practical care contracts.
+- **Low-barrier community spaces**: social kitchens, repair circles, oral history nights—designed for belonging through shared activity.
+
+---
+
+## Children’s rights and education
+- A **portable child rights card/file** that no district can withhold, guaranteeing:
+  - literacy/numeracy and critical thinking (testing claims)
+  - practical making/mending competence
+  - exposure to other neighborhoods’ realities
+  - access to an outside trusted adult without permission
+  - limited “exit” protections (shelter rights if they can explain leaving)
+  - explicit bans on punishment by pain, humiliation, or isolation
+  - a default stance: **“We believe you.”**
+
+---
+
+## Environment and non-human stewardship
+- **Nature has legal advocates (“trustees with teeth”)** for corridors, runs, and habitats.
+- Public ecological metrics are visible and local (e.g., real-time nitrogen leakage numbers).
+- A **Sentience Atlas** updates how law treats non-human minds as evidence changes.
+- Earth Share funds long-horizon resilience goods: mangroves, seed banks, open drought maps, pathogen surveillance.
+
+---
+
+## Justice, accountability, and repair
+- **Harm Autopay**: when experiments or large decisions cause harm, repair funds pay without needing lawsuits first.
+- **Repair Escrows** accompany risky initiatives; payouts trigger when bounds are breached.
+- **No “pilot” without a funded stop**: reversibility is mandatory and budgeted.
+
+---
+
+## Everyday lived experience (what it feels like)
+- A city optimized for:
+  - **boring reliability** (transit works, utilities stable, systems tested)
+  - visible competence (public drills, transparent safety rituals)
+  - clear labeling of persuasion (nudges disclose intent/evidence)
+  - calm pacing and periodic **“Soft Evenings”** (reduced stimulation, warmer lighting, quieter modes, practiced analog fallbacks)
+- Civic participation is routine and practical (quiet councils set sound rules around owl nesting; local conflicts resolved via structured, visible consensus-building).
+
+---
+
+## Bottom line
+This utopia is not “perfect happiness” or abundance-without-tradeoffs; it is a **designed society where**:
+- basic security is guaranteed,
+- coercion is minimized through strong exit rights and portability,
+- markets exist but **unearned rents and windfalls** are socialized into public dividends and resilience,
+- powerful tech is treated like aviation/nuclear: transparent, audited, red-teamed, interruptible,
+- governance is evidence- and accountability-driven with enforced reversibility,
+- social and emotional wellbeing is treated as public infrastructure.

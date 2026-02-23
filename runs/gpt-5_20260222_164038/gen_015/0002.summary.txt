@@ -1,0 +1,206 @@
+## What kind of utopia this text describes (descriptive, non‑prose)
+
+### Core identity
+- **A “receipts-based” civic utopia**: public life is run like a transparent, testable system where policies and technologies must justify themselves with evidence, plain-language explanations, measurable outcomes, and built-in reversibility.
+- **High-trust outcomes without requiring blind trust**: institutions are designed so ordinary people can verify claims and trigger safeguards (e.g., hardware kill-switches, audits, public drills, visible fault trees).
+- **Technologically advanced but deliberately bounded**: sophisticated energy, computation, biotech, and urban systems exist, but they operate under strict governance (“cords on sharp tools”) and continuous public oversight.
+
+---
+
+### Daily life and experience
+- Streets are **quiet, green, and human-paced** (trams at conversation speed, vines over former car infrastructure, shade, fruit trees).
+- People receive **small, actionable notifications** rather than addictive feeds; nudges are labeled and defeatable.
+- There is an everyday feeling of **predictability and calm competence**:
+  - transit arrives,
+  - clinics have short waits,
+  - outages are rare and treated as learnable events,
+  - repairs and maintenance are routine, public, and tracked.
+
+---
+
+### Governance and civic decision-making
+- **“Reasons in daylight” rule** for binding decisions:
+  - plain-language purpose,
+  - data sources and methods,
+  - where models/automation assisted and limits of usefulness,
+  - falsifiable claims,
+  - stop date,
+  - reversal plan and dedicated funds.
+- **Mirror Juries**:
+  - citizen panels selected by lot (weighted toward affected people and good forecasters),
+  - tasked with writing the best opposing argument and stress-testing proposals.
+- **Experimental governance**:
+  - many initiatives are explicitly time-bounded trials,
+  - results are published with effect sizes,
+  - reversals are normalized and pre-funded.
+
+---
+
+### Safeguards for dangerous or powerful systems (“cords on sharp tools”)
+- Systems that can strongly affect **money, machines, matter, or minds** require:
+  - **four independent signatures**: Maker, paid Adversary, Local Steward, Citizen-by-lot.
+  - clear “capability cards” stating:
+    - what the system can do,
+    - failure modes,
+    - how to force safe failure,
+    - how to back out,
+    - last adversarial test notes,
+    - who responds when it breaks.
+- **Kill-switch culture**:
+  - courts and communities practice shutdown drills,
+  - cut-lines must work quickly (measured in seconds),
+  - reversibility is treated as a design requirement, not an afterthought.
+
+---
+
+### Social contract: guaranteed basics and freedom to leave
+- A universal baseline called **“The Floor”**:
+  - secure private space (“a room that locks with hush”),
+  - staple food, clean water,
+  - reliable transit,
+  - universal payment access (works everywhere, not tied to platforms),
+  - guaranteed electricity + bandwidth (“Watt & Word”).
+- A universal cash-like dividend: **Commons Share** paid quarterly.
+- **“Exits with dignity”**:
+  - leaving jobs, landlords, platforms, schools, or relationships is administratively easy,
+  - benefits are portable,
+  - an **Exit Float** provides time and cash buffer,
+  - visible civic help points connect you to assistance without humiliation.
+
+---
+
+### Attention, media, and persuasion norms
+- **Anti-manipulation design**:
+  - any influence attempt is labeled: who paid, why targeted, what metric they want to change, evidence basis.
+  - every nudge has an **easy off switch** and optional “ignore for a month.”
+- People can set **attention rations** (limits on ads, civic debate, new content, panic).
+- **Harm levy on attention systems**: feeds that worsen measured well-being pay a tax funding healthier alternatives.
+- **Right to paper / analog access**: essential services must be available without surrendering phone-based tracking.
+- **Right to smallness**: households/shops can operate “analog-first” without being excluded.
+
+---
+
+### Economic model: shared upside from shared assets (not charity)
+Funding comes from charging for collectively-created value:
+- **Ground rent via long leases**:
+  - individuals can own buildings and improvements,
+  - land value increases attributable to community investments flow back to the public.
+  - **dormancy rent** penalizes speculative vacancy.
+- **Auctions of scarce “time/space windows”**:
+  - curb access at rush hour,
+  - spectrum slices,
+  - freight slots, drone lanes, festival soundscapes, etc.
+- **Frontier tech windfall sharing**:
+  - very large compute, advanced labs, orbital infrastructure pay into public funds and safety guilds.
+- **Pattern Fund (paying for shared know-how)**:
+  - proven checklists, designs, recipes, lesson plans earn money when adopted,
+  - rewards dissemination of best practice rather than hoarding IP.
+- Receipts are publicly visible and broken into:
+  - **Commons Share** (to people),
+  - **Block Pot** (to local infrastructure repair),
+  - **Earth Tithe** (to ecological and global resilience projects).
+
+---
+
+### Work, skills, and fairness
+- **Competence-based credentialing**:
+  - many licenses are replaced with practical trials and public proof (“Proof Ledger”),
+  - credentials are portable across participating cities.
+- **Portable benefits spine**: health, disability, leave, retirement follow the person.
+- **Mentorship is paid and tracked** (“Tacit Ledger”).
+- Care work is treated as real work (counted, funded, recognized).
+- **Sabbaticals**: every seventh year includes paid time to rest/learn/repair life.
+
+---
+
+### Health system: outcomes, evidence labels, consent protections
+- Clinics focus on **measurable lived outcomes** (mobility, sleep, chronic markers).
+- Devices/drugs have **evidence labels** like food labeling:
+  - effect sizes by group,
+  - uncertainty,
+  - trade-offs.
+- Preventive monitoring (patches/strips) is common but framed as supportive, not punitive.
+- Neuro/closed-loop brain tools exist but require:
+  - strong consent,
+  - cooling-off period,
+  - pre-committed “anchor” preferences,
+  - peer support, nurse oversight.
+
+---
+
+### Data and privacy
+- Personal information sits in **user-controlled data pods** (“under your keys”).
+- Institutions can sell **answers, not identities**, using privacy-preserving proofs.
+- Schools cannot monetize attention.
+- Community experiments (e.g., humidifiers reducing coughs) share savings even when results are negative.
+
+---
+
+### Built environment and infrastructure
+- **Human-scale, mixed-use neighborhoods**:
+  - courtyard walk-ups, timber mid-rises, corner shops under flats,
+  - workshop courts and alley houses,
+  - designs optimized for stairs, shade, social contact, and low energy use.
+- **Fast permitting for approved patterns**:
+  - a “pattern book” and civic simulation (“civic twin”) speed safe construction.
+- **Energy system**:
+  - diversified mix: rooftops solar, wind, compact reactors, river/waste heat,
+  - microgrids that practice black-start regularly,
+  - reactors operate under extreme transparency (public inspection decks, fault trees, tours).
+- **Heat reuse**: district heat via waste-heat pipes.
+- Reliability is measured and published; outages are treated as postmortem events with clear fixes.
+
+---
+
+### AI / computation governance
+- High-end chips carry **traceability (“silicon visas”)** to prevent unaccountable deployment.
+- High-impact training runs must be **registered and evaluated** with public windows for testing and “break” attempts.
+- The most powerful systems are physically and institutionally separated from daily life (e.g., remote sites, islands, orbit).
+- Courts have practiced authority to **pause/shut down** major systems, with regular drills.
+
+---
+
+### Biotechnology governance
+- Community labs exist but are **pridefully constrained**:
+  - DNA order screening against “do-not-build” lists,
+  - safeguards that demonstrate risk control without doxxing individuals.
+- Public health uses wastewater genomics and rapid response infrastructure (tents, nurse-led outreach).
+
+---
+
+### Justice, regulation, and market structure
+- Safety roles are separated to prevent conflicts (responders ≠ investigators ≠ adjudicators).
+- **Bias bounties**: paid incentives to find discriminatory or skewed model behavior.
+- **Scale Sunlight**: above a certain size, systems must open interfaces or break up.
+- **Antitrust Launchpad**: when cartels are proven, a worker-owned competitor can be stood up quickly using open infrastructure and patient capital.
+- Patents are limited; prizes and open patterns are preferred except where development truly requires exclusivity.
+
+---
+
+### Migration, hospitality, and social cohesion
+- **Welcome Houses** at transit hubs provide:
+  - beds, showers,
+  - nurse support,
+  - documentation/printing help,
+  - trained “Doorcrew” who assist without stigma.
+- Neighborhoods include **pace mapping**:
+  - “fast,” “steady,” and “hush” zones (supporting neurodiversity, elders, rest, and varied lifestyles).
+- Conflict is handled through designed spaces and norms (if needs clash, add rooms rather than force conformity).
+
+---
+
+### Ecology and climate adaptation
+- Cities are interwoven with **wildlife corridors** and restored ecosystems.
+- Dams can be retired with **stipends and transition support**.
+- Managed retreat is supported via **retreat bonds** so relocation happens with dignity before disasters force it.
+- A publicly-updated “sentience map” can change rules for farming, fisheries, and habitat protection as evidence improves.
+
+---
+
+### Ethos and values (what makes it “utopian” here)
+- **Accountability is structural, not moralistic**: systems assume mistakes, build in detection, correction, and reversal.
+- **Transparency without spectacle**: public dashboards, audits, and metrics are normal and low-drama.
+- **Freedom through exit**: people are hard to trap (economically, digitally, socially).
+- **Competence and maintenance are honored**: repair, drills, postmortems, and steady improvement are civic pride.
+- **Restraint as a form of progress**: advanced tools exist, but power is tethered to human-readable rules and enforceable cut-lines.
+- **Dignity is operationalized**: privacy controls, paper alternatives, portable benefits, and non-humiliating aid are built into defaults.

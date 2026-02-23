@@ -1,0 +1,154 @@
+## Type of utopia
+- **Civic-engineering utopia / “maintenance state”**: a society optimized for reliability, reversibility, and day-to-day dignity rather than heroics, spectacle, or extreme abundance.
+- **High-trust, high-transparency, medium-tech**: advanced infrastructure and computation exist, but are tightly governed with human-readable accountability and physical fail-safes.
+- **Pluralist and consent-based**: different neighborhoods (“wards”) can choose different norms, speeds, and sensory environments without declaring one lifestyle “normal.”
+
+## Core values and goals
+- **Dignity as a baseline utility** (like water/power): guaranteed housing floor, food, healthcare, mobility, quiet, and access to information/compute without humiliating bureaucracy.
+- **Exit rights**: leaving jobs, landlords, schools, platforms, or even neighborhoods is treated as logistics with support—not as moral failure or social exile.
+- **Reasons in daylight**: decisions must come with plain-language aims, trade-offs, uncertainty, who benefited, who lobbied, and where the “undo” lever is.
+- **Safety through interlocks**: dangerous tools and systems are constrained by layered permissions, oversight roles, and practiced shutdown procedures.
+
+## Governance and civic process
+- **Mandatory “Reasons Act” style governance**: public decisions are published in readable form with:
+  - goals, options, trade-offs, error bars/uncertainty
+  - disclosure of model use, payoffs, and lobbying
+  - explicit stop-lines, rollback plans, and escrowed reversal funding
+- **Institutionalized dissent**:
+  - a “Second Room” of citizens selected by lot writes simplified dissents alongside official decisions
+  - “Receivers” summarize arguments without jargon
+- **Reversal culture (“Rewind”)**:
+  - major projects must practice rollbacks
+  - a dedicated **Rewind Fund** exists from day one; interest accrues on money hoped to remain unused
+  - failures are expected, documented, and corrected without career-ending stigma—lying is punished, not mistakes
+
+## Public services and basic guarantees (the “Plain Book”)
+- **Universal floor** provided without “confessional paperwork”:
+  - dignified housing, lockable quiet room access
+  - good food, clean water
+  - reliable transit
+  - proactive healthcare (“clinic that knocks when your numbers stray”)
+  - baseline bandwidth and compute minutes
+- **Arrival Houses**: publicly supported hubs near transit with bunks, showers, soup; make moving/escaping feasible immediately.
+- **Pack-and-Go packet**: personal control of essential records (prescriptions, references, diplomas, receipts).
+- **Blue-button reversibility** for big life choices: changes come with a clean reversion window.
+
+## Economy and property model
+- **You can own buildings/tools, but land value is socialized**:
+  - land is held under **renewing ground leases** rather than permanent speculative ownership
+  - land-value uplift created by public infrastructure flows back to the community
+- **Three-way revenue split from shared value (“spillovers”)**:
+  1. **Commons Dividend** paid to every resident quarterly (not a jackpot; provides “air for no”)
+  2. **Block Purse** stays local where value arose; funds small public goods without bureaucracy
+  3. **World Work Fund** finances cross-border and global public goods (climate resilience, open medical tools, vaccines, mapping, reef/mangrove belts, tutors)
+- **Market mechanisms with receipts**:
+  - curb time, harbor slots, spectrum, drone corridors leased/auctioned transparently
+  - “idle lot” taxes rise until land becomes useful (build, garden, open courtyard, etc.)
+  - glare/noise/shade treated as priced externalities; fees fund mitigation (shade, quieting, cleanup)
+
+## Work, welfare, and time
+- **Portable benefits spine**: health/disability/retirement/unemployment/leave follow the person across jobs.
+- **Competence stamps over brittle licensing**: practical verification for many trades; high-risk stamps expire without practice.
+- **Try-Two weeks**: low-stakes mutual trials for workers and crews, with public insurance covering the risk.
+- **Care work is formally valued**:
+  - caregiving, community support, mentoring, maintenance earn **Care Credits** with real benefits and status
+- **Guaranteed “Seventh Season”**:
+  - every seven years, a paid three-month period for study, repair, rest, or building—no moral proving required
+- **Robots as apprentices**:
+  - deployed to remove bodily strain and drudgery
+  - public sector funds trials and publishes failures, preventing hidden harms and vendor lock-in
+
+## Technology and data governance
+- **Attention protections**:
+  - no ads on public screens
+  - in private media, influence is labeled: who paid, why you saw it, intended action
+  - people set personal quotas (offers, arguments, etc.)
+  - **Right to Simplicity**: paper/low-tech pathways must exist for essential services
+- **Personal data pods**:
+  - individuals control their data; usage requires receipts
+  - institutions request answers rather than raw data using privacy-preserving proofs (e.g., zero-knowledge)
+  - selling attention/footprints without transparent consent is treated as theft
+  - model training that uses people’s work triggers payment to individuals or commons via registry
+
+## “Interlocks” for high-risk systems (AI, biotech, heavy infrastructure)
+- **Three-key (sometimes four-key) control** for anything that can cause large harm:
+  - **Maker** (builder), **Steward** (authorized to refuse/slow), **Ward** (local community representative)
+  - for extreme-risk domains, a fourth key: **Stranger-by-Lot** guild whose prestige is in refusal
+- **Physical cutlinks and audible shutdowns**:
+  - drift or unsafe behavior triggers fast mechanical severing (“jaw-click cut”) that is practiced routinely
+- **Boring public logs**:
+  - audits, drills, incidents are public, legible, and routine rather than ceremonial
+- **AI/compute passports**:
+  - high-end compute and major training runs that could affect money, machinery, health, biology, code, or politics must register
+  - neutral “rangers” stress-test for deception/drift/misuse/leaks
+- **Biology in glass-walled daylight**:
+  - community labs with visibility and oversight
+  - DNA synthesis screened for dangerous sequences without broad identity exposure
+  - gene-drive work requires prepaid reversals and culturally legitimate veto power
+
+## Urban design and infrastructure
+- **Pattern-based building code**:
+  - a shelf of approved designs (“safe shells”) with fast permitting if within known constraints
+  - prefab yards make ugly lots productive quickly
+  - **materials passports** and **deconstruction bonds** to enable reuse and reduce waste
+- **Reliability-first utilities**:
+  - district heat loops, microgrids, leak detection with community participation
+  - compact reactors may exist but under heavy audit with posted fault trees and readable insurance
+  - outages are rare; when they occur, public apology receipts include tangible fixes
+- **Climate comfort and public health design**:
+  - scheduled shade canopies, radiative cooling panels, Cool Rooms in heat waves
+  - right-to-breeze and right-to-shade constraints protect comfort from predatory construction
+- **Noise and tempo zoning by consent**:
+  - wards publish their “speed” (quiet lanes vs quick lanes)
+  - risky labs placed away from nurseries; conflicts resolved by adding separation/doors rather than forcing one norm
+- **Norm pins on doors**:
+  - explicit sensory/social rules (low scent, quiet hours, stimming welcome, dogs allowed, etc.)
+  - “No” is redirected into “over here” (alternative spaces) rather than exclusion
+
+## Health, safety, and justice
+- **Outcome-based healthcare purchasing**:
+  - clinics are paid for results people value (sleep, mobility, disease control), not volume of procedures
+  - drug/device labels show effect sizes, uncertainty, adverse events, funding—like “soup can” labels
+  - home visits and odd-hour care are normal; addiction care includes rides and rehearsal supports
+- **Gentle order / non-carceral first response**:
+  - first responders to trouble are not the investigators; roles are separated
+  - field officers carry tools for aid (naloxone, referral cards, cameras) and can unlock beds, detox, mediation, small emergency grants
+  - fines scale to income; cash bail is rejected
+  - forensic methods that can’t replicate are retired
+  - restorative paths tried first; incarceration when needed—both tracked with rigorous metrics
+
+## Community, belonging, and culture
+- **Belonging is monitored like air quality**:
+  - loneliness metrics are tracked and published without shame
+  - resources deploy when a block “dips” (rituals, social programs, convening support)
+- **Social Kitchens**:
+  - structured, practical gatherings (shared meals + oral histories + repair + small claims/testing disputes)
+- **Bondwrights**:
+  - licensed helpers who support household care compacts before crisis
+- **Children’s enforceable rights**:
+  - rights to learn, test claims, mend real things, see other neighborhoods
+  - right to a trusted adult outside their immediate circle
+  - right to leave harmful environments with immediate short-term shelter
+  - prohibition on punishment by pain, humiliation, or isolation
+  - default belief and protection procedures (“We believe you”)
+
+## Rituals, accountability, and “boring mercy”
+- **Gentle Hours twice weekly**: citywide slowdown—warmer lights, dimmer screens, flatter feeds; practiced analog backups (paper maps, messenger codes).
+- **Annual public “maintenance accounting”**:
+  - utilities and institutions post performance, failures, and fixes in public spaces
+  - stewards read mistakes aloud and point to repairs you can physically see
+- **Ledger Nights** (twice per household lifetime):
+  - structured civic/communal review with magistrate and elders: conflict resolution, mentorship matching, small grants, safety nets
+
+## What makes it “utopian” here (distinctive features)
+- **Utopia of reversible decisions**: the society’s defining trait is the ability to try improvements without trapping people in failures—rollback is funded, rehearsed, and socially normalized.
+- **Utopia of legibility**: systems must explain themselves in plain language with visible handles for appeal, exit, and repair.
+- **Utopia of constrained power**: advanced tools exist (AI, biotech, reactors) but are deliberately slowed, compartmentalized, and governed by multi-party consent with physical shutoffs.
+- **Utopia of dignified exits and refusal**: people can say “no,” leave, revert, or opt out without losing healthcare, shelter, records, or social standing.
+- **Utopia of maintenance as honor**: care, upkeep, calibration, and “boring reliability” are celebrated and materially rewarded.
+
+## Overall society “feel”
+- Calm, procedural, and human-scaled.
+- Public life emphasizes **quiet competence**, **transparent accountability**, and **design for tired people** (simple interfaces, paper paths, clear norms).
+- Conflict is expected and managed through separation of tempos/spaces, standardized dispute paths, and culturally trained refusal rather than coercion.
+- Progress is incremental, measured, and always paired with an undo plan.

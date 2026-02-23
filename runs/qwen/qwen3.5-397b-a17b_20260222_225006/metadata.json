@@ -1,0 +1,9 @@
+{
+  "model": "qwen/qwen3.5-397b-a17b",
+  "generations": 20,
+  "population_size": 17,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/initial_population",
+  "started_at": "2026-02-23T03:50:06.264292+00:00",
+  "finished_at": "2026-02-23T05:15:58.759432+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "model": "gpt-5",
+  "generations": 20,
+  "population_size": 17,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/initial_population",
+  "started_at": "2026-02-22T21:40:38.362383+00:00",
+  "finished_at": "2026-02-22T23:32:01.800254+00:00"
+}

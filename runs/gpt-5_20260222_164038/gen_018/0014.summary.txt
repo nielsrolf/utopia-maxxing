@@ -1,0 +1,166 @@
+## Type of utopia
+- **Civic-technical, “high-trust by design” utopia**: a society that assumes people and institutions can fail, so it builds *procedural safeguards, reversibility, and accountability* into everyday systems.
+- **Materially secure but not luxury-maximalist**: comfort, safety, and time are prioritized over spectacle or constant growth.
+- **Plural-tempo society**: communities can choose different “paces” (high-tech/fast vs low-tech/slow) without being penalized or excluded.
+
+---
+
+## Core lived guarantees (“the Floor”)
+- **Universal baseline living standards (no means-testing performance)**:
+  - A private, lockable room and quiet.
+  - Reliable food and clean water.
+  - Transit that arrives predictably.
+  - Basic energy plus private computation (“Watt & Word”) sufficient for modern life (communication, paperwork, learning, work search).
+  - Clinic access with short waits and nurse dispatch when requested.
+  - A **Commons Dividend** paid to everyone quarterly, increasing with city prosperity and protected from political raids.
+
+---
+
+## Dignified exit rights (anti-entrapment)
+- **Portable benefits and records**: leaving a job, landlord, school, platform, or relationship does not trap you in bureaucracy.
+- **“Exit Float”**: short-term support (e.g., three nights) to enable safe transitions and decision-making.
+- **“Open doors” network**: walk into designated help sites and receive transport, food, locked bed, and a trained human who handles forms.
+- **“Pack-and-Go” records law**: your data, references, credentials, and safety notes travel with you in usable formats.
+
+---
+
+## Governance philosophy: reasons, transparency, and paid reversibility
+- **All binding public rules must be legible and contestable**:
+  - Published aims, assumptions, data sources, and use of models/automation.
+  - A small set of **falsifiable claims** (designed to be provably wrong if wrong).
+  - A **stop date** and a **redo/rollback plan**.
+  - **Escrowed reversal funding** (society pays for undo *before* starting).
+  - Named responsibility and required written apologies when failures occur.
+- **Mirror Circles** (sortition deliberation):
+  - Panels of strangers drawn by lot, weighted toward proven forecasters and affected residents.
+  - Write the best opposing argument (“a case an honest opponent would respect”).
+  - Strengthen proposals before votes; sometimes recommend “not yet” or “do nothing and bank the money.”
+- **Civil Receivers / librarian-style institutions**:
+  - Professionals paid to summarize arguments honestly with sources and links.
+  - Teens paid to translate guides into real home languages.
+
+---
+
+## Safety model: dangerous tools “behind handles you can grab”
+- **Three Hands Rule for high-risk systems** (medicine, labs, cranes, money, code, networks):
+  - **Maker** (builder/operator)
+  - **Questioner** (auditor/red team)
+  - **Neighbor** (affected community representative)
+  - Actions require multiple independent “keys”; keys are verifiable.
+- **Hard stops and breakers**:
+  - Systems that move money or matter require *hold-to-run* interfaces and paper traces.
+  - Courts can sever critical links quickly; disconnection is designed as a real, practiced capability.
+  - Regular drills (“the cut”) normalize restraint and emergency shutdown.
+
+---
+
+## Economic base: funding the commons without saints
+A market economy constrained and shaped by **common-asset rents**, not pure goodwill.
+
+### What gets monetized (and why)
+- **Land value capture via leases**: people own buildings/production, but land value created by collective infrastructure flows back as rent.
+- **Time-limited auctions of scarce access** (“scarce windows wear clocks”):
+  - Curb space, freight slots, ferry access, runway mornings, radio spectrum, festival soundscapes.
+  - Exclusivity expires by design; hoarding becomes costly.
+- **Frontier “windfall” sharing**:
+  - High-end compute, dangerous labs, orbital infrastructure: above thresholds, a share returns to the commons and safety institutions.
+  - Unregistered high-risk work loses discounts (energy/network), nudging compliance.
+- **Pattern Fund**:
+  - Rewards for sharing reusable open “patterns” that reduce harm/cost: fixtures, recipes, curricula, checklists, code, schedules.
+  - Teaching and openness pay; blocking and enclosure pay less.
+
+### Where revenue goes (three-way split)
+- **Commons Dividend**: universal cash-like distribution.
+- **Block Purses**: hyperlocal budgets where value is generated; fixes broken things quickly.
+- **Earth Dues**: regional/global commitments (ecosystems, drought mapping, vaccination logistics, etc.).
+
+---
+
+## Infrastructure and urban form
+- **Green, retrofitted, transit-centered city**:
+  - Old highways repurposed into trellised green corridors.
+  - Quiet trams and walkable streets; herbs and food integrated into public spaces.
+- **Energy system is diversified and reported publicly**:
+  - Rooftop solar, ridge wind, compact reactors, river generation.
+  - Household conservation rules appear in everyday dashboards (e.g., garden watering days).
+- **Operations-first maintenance culture**:
+  - Backlogs are posted like weather.
+  - Funding operations and upkeep is prioritized over new monuments.
+
+---
+
+## Public services and care model
+- **Arrivals Houses**: dignified intake for newcomers and displaced people:
+  - Lockers, showers, clinic access, clerks who print what matters, interpreters, maps designed for different walking/energy levels.
+  - No humiliation rituals (“no auditions for mercy”).
+- **Healthcare emphasizes outcomes and evidence labeling**:
+  - Outcome bundles (e.g., functional goals) and transparent effect-size labeling like nutrition labels.
+  - Consent receipts for mental/brain-affecting tools, including cooling-off periods and peer counseling.
+- **Micro-apprenticeships and dignity of skill**:
+  - Short, insured learning stints across civic work.
+  - Mentorship is tracked and paid; competence stamps replace brittle credentialism.
+
+---
+
+## Information, tech, and AI governance
+- **Civil assistant**:
+  - Helps with permits/benefits/taxes/rights in your language and preferred tone.
+  - Non-advertising, non-nagging; cites sources; admits uncertainty; routes to humans.
+  - Users can “deafen” microphones by physical gesture; privacy is taught early.
+- **Attention governance** (“attention has ethics like food”):
+  - Nudges must be declared and tappable: who paid, what metric they aim to move, and method.
+  - Platforms that measurably worsen users pay levies funding explainers/oversight.
+  - Individuals can set rationing defaults.
+- **Right to Paper / Right to Smallness**:
+  - Analog options remain valid; small shops/households aren’t excluded by app-only systems.
+- **AI/compute is regulated like hazardous infrastructure**:
+  - Large training runs that can affect “sharp domains” (money, code, cranes, clinics, chemistry, networks) must register.
+  - Chips/compute have attestations; provenance requirements for critical use.
+  - Neutral evaluation networks and “Wardens” test for misuse, drift, deception, leakage.
+  - Power throttling for noncompliance (practical enforcement, not moral panic).
+
+---
+
+## Accountability culture: forecasting, truth penalties, and humility incentives
+- **Forecast exchange** affects reputation and small slices of pay; accuracy is rewarded.
+- **Truth Bonds for major promises**:
+  - Politicians/officials stake budget portions against their own predicted ranges.
+  - Large misses redirect money to public dividends and truth institutions.
+- **Whistleblowing as a paid craft (“Error Wages”)**:
+  - Compensation for proving bias, waste, or miscalibration in systems and contracts.
+
+---
+
+## Environmental and climate adaptation as routine civic practice
+- **Blue Ledger**: transparent accounting of water/fisheries/ecosystem withdrawals and rules set before crisis.
+- **Managed retreat made normal**:
+  - Coastal bonds swapped for inland equity; flooded zones become storm-absorbing parks.
+  - Parametric insurance triggers by gauges; rapid civilian reserve deployment.
+- **Rewilding corridors and ecological repair** integrated into planning and budgets.
+- **Welcome Chains for climate arrivals**:
+  - A network of Arrival Houses spaced by travel days.
+  - Receiving communities get automatic resource boosts (Block Purses).
+  - Portability of the Floor across allied cities via shared stamps.
+
+---
+
+## Social texture and everyday norms
+- **Ritualized, modest civic pride**:
+  - Small ceremonies for completed safety work (e.g., “one clap” for a repaired gate).
+  - Tools and systems are designed to “click” when properly maintained—audible trust signals.
+- **Conflict is contained by structure, not denied**:
+  - Clear exit routes reduce coercion.
+  - Mediation and small conflict funds exist to prevent spirals.
+- **Local autonomy over tempo (“pace maps”)**:
+  - Neighborhoods label themselves quick/steady/skeptical; crossing is supported.
+  - Some places deliberately slow or physically lock high-speed networks except when needed.
+
+---
+
+## What makes it “utopian” in this text (distinctive traits)
+- **Security without surveillance-by-default**: assistance exists, but privacy controls are tangible and taught.
+- **Power that must explain itself**: governance is legible, reversible, and financially accountable.
+- **Safety engineered into institutions**: multi-key authorization, drills, cutoffs, and independent auditing are normal life.
+- **Economic fairness built from rents on shared scarcities**, not from moral purity or endless growth.
+- **Competence, maintenance, and repair are prestigious**; boring reliability is culturally celebrated.
+- **Pluralism of lifestyle and technology levels** is protected legally (fast/slow, digital/analog).

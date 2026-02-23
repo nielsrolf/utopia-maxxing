@@ -1,0 +1,218 @@
+## What kind of utopia this text describes (descriptive, non‑prose)
+
+### Core character
+- **A “maintenance-and-accountability” utopia**: a city optimized for reliability, reversibility, and everyday dignity rather than glamour or maximal growth.
+- **High-trust systems without requiring blind trust**: privacy, safety, and fairness are engineered with verification, audits, and drills.
+- **Civic life built around enforceable promises**: the city publicly commits to a small set of operational guarantees (“promises”) with dedicated funding streams and measurable standards.
+
+---
+
+## The city’s governing principles (“eight compact promises”)
+
+1) **Universal baseline living standard (“a floor you don’t audition for”)**
+- Guaranteed: secure housing space, staple food, clean water, reliable transit, a functional spending account, and baseline electricity + internet (“Watts and Words”).
+- Delivered as a right, not charity; funded by shared civic revenue.
+
+2) **Easy, stigma-free exit from bad situations (“leaving without losing yourself”)**
+- People can leave jobs, leases, institutions, platforms, or care settings without punitive lock-in.
+- Personal records are portable and controlled by the individual.
+- “Exit Float”: short-term support for immediate stability (beds, showers, nursing help, clerical help, time to recover).
+
+3) **Transparent decisions (“reasons in daylight”)**
+- Any decision that significantly affects people must be published in plain language with:
+  - purpose/aim
+  - inputs and sources
+  - where computation/AI was used (and when it was stopped)
+  - testable claims
+  - stop date
+  - reversal plan with money reserved to undo harm
+- For major decisions, an independent “parallel panel” (citizens by lot, weighted toward affected people and proven forecasters) writes an opponent-respectable counter-case.
+
+4) **High-risk systems require distributed authorization (“four hands on sharp tools”)**
+- Anything that can cause large harm (money flows, machinery, infrastructure, influence systems, high-impact AI) needs four independent sign-offs:
+  - Maker (accountable engineer/operator)
+  - Adversary (paid internal critic / breaker-tester)
+  - Local Steward (neighborhood authority)
+  - Citizen selected by lottery
+- Systems must have human-readable “capability cards” describing:
+  - what they do
+  - failure modes
+  - how to intentionally fail safely
+  - rollback procedures
+  - responsible contacts
+
+5) **Institutionalized ability to stop/undo (“practice stopping”)**
+- Projects must be designed for reversibility from the start:
+  - rehearsed shutdowns
+  - timers and review points
+  - escrow funds to reverse changes
+- Regular citywide “cutline” drills make safe shutdown routine and familiar.
+
+6) **Ethical attention economy (“attention with manners”)**
+- All persuasive or manipulative content must carry an **Intent Label**:
+  - who paid
+  - why targeted
+  - desired behavioral metric
+  - evidence claimed
+  - simple opt-out (“go away forever/for now”)
+- Children’s environments default to gentler media; “carnival hour” is time-limited and reverts automatically.
+- **Right to paper**: every public service can be accessed without a smartphone.
+
+7) **Anti-monopoly by design (“size in sunlight”)**
+- Beyond a certain size, firms must open interfaces/logs or split.
+- If cartel behavior is demonstrated, a public mechanism funds a rapid competitor:
+  - **Challenger Fund** creates worker-owned, open-book rivals with patient capital.
+- Patents are limited to areas needing deep, long investment; otherwise prize funds incentivize useful tools.
+
+8) **Ecological integration (“wildness with teeth”)**
+- Connected wildlife corridors through the city.
+- Restoration and “retiring” harmful infrastructure (e.g., dams) with compensation.
+- Enforced environmental rights: shade, breeze, noise, and light measured and posted.
+- Flooding handled with “blueways” and seasonal adaptation; standards update with public science.
+
+---
+
+## Funding and civic economics (how the utopia pays for itself)
+
+### Three transparent public “jars” of money
+1) **Commons Dividend (universal distribution)**
+- Paid to every resident.
+- Funding sources explicitly published (e.g., curb access auctions, port/quay slots, spectrum/radio bands, drone corridors, land/ground rents).
+- Purpose: baseline security that increases bargaining power (ability to refuse exploitation).
+
+2) **Block Pot (hyperlocal reinvestment)**
+- Revenue stays where it is generated (e.g., curb rents, market square income).
+- Funds cleaning, repairs, and neighborhood improvements.
+- Adds **dormancy dues** on empty/underused land to push it into productive use or return it to civic trust.
+
+3) **Earth Trust (regional/global commons revenue)**
+- Charges for use of shared “commons infrastructure”: straits, air corridors, satellite orbits/shells, public compute registries.
+- Funds non-glamorous resilience and public goods: wastewater monitoring, vaccine capacity, mangroves, early warning systems.
+- Prioritizes jurisdictions with rule-of-law and non-bullying governance.
+
+---
+
+## Infrastructure and technology norms
+
+### Energy system
+- Distributed-first: rooftops feed local needs; microgrids with routine black-start drills.
+- Mix includes **compact reactors** operated under extreme transparency:
+  - visible public fences
+  - publicly printed fault trees
+  - recurring drills and public oversight
+- District heating/cooling treated like a shared utility “loan” between neighbors.
+- Active leak detection culture: “Leak Scout” leagues paid for water savings; public leaderboards.
+
+### Compute / AI governance
+- High-impact compute and lab work occurs in glass-roofed, visible facilities (“honest light”).
+- High-stakes AI/compute runs must register with evaluate-and-break labs.
+- “Watchdog” systems monitor for goal drift; when detected, systems pause (“cut the link”) and require human review.
+- Hardware provenance (“silicon visas”) ties chips to identities and discourages tampering.
+- Emphasis on **pause mechanisms that actually work**, with practiced procedures and social normalization of stopping.
+
+### Privacy and personal devices
+- Citizens use simple, resilient personal devices designed for autonomy:
+  - manual power option (crank)
+  - physical microphone kill switch with verification
+  - controllable records in a “wallet”
+
+---
+
+## Built environment and housing
+
+- Human-scale density: courtyard walk-ups, timber mid-rises, mixed-use corners, workshops integrated with homes.
+- A **pattern-book** approach: standardized, proven building types suited to local hazards (fire, quake, flood, light).
+- Fast permitting for compliant designs via a public “civic twin” (digital model of infrastructure).
+- Materials must have passports (traceability).
+- Publicly funded buildings carry **afterlife bonds**: incentives to build for repair, disassembly, and long-term maintainability.
+
+---
+
+## Work, credentials, and time
+
+- Employment system prioritizes demonstrable competence:
+  - “proof beats paper” via practical tests
+  - portable “stamps” recognized across towns (reciprocity)
+  - safety-critical stamps expire unless refreshed
+- Benefits are attached to a public backbone, portable across jobs:
+  - health, disability, leave, retirement
+- Mentoring is paid via a “Tacit Ledger” when apprentices pass real trials.
+- Every seventh year includes a **Season**: three months at reduced work to rest, study, care, or recover without intrusive justification.
+
+---
+
+## Health and care
+
+- Healthcare is measured by felt outcomes (mobility, sleep, stability) rather than volume of services.
+- Gentle home monitoring exists but is consent-driven; escalations trigger supportive human outreach.
+- Deep interventions (neurotech/drugs) require layered consent:
+  - consent from “present you” and a pre-committed earlier self (“two yous”).
+- Every major intervention includes a funded “undo” budget from the start.
+
+---
+
+## Belonging, migration, and social supports
+
+- **Welcome Houses** at stations provide:
+  - clean beds, showers, lockers
+  - nurse support
+  - clerical help (documents, calls, navigation)
+  - translation and practical assistance
+- **Quiet Quarters**: temporary hush/shelter for people in crisis without forcing performative disclosure.
+- “Bondwrights” help people make stable agreements (roommates, relationships, families, crews) and are paid for stability, not churn.
+- Low-commitment community spaces: social kitchens, mending circles, reading groups—easy entry/exit without social penalty.
+
+---
+
+## Public safety and justice
+
+- Safety roles are deliberately separated:
+  - responders ≠ investigators ≠ courtroom advocates
+- Less reliance on force; more on nursing, mediation, and immediate practical stabilization (including emergency cash grants).
+- Cameras/logs are held by independent trusts.
+- “Bias bounties” pay for demonstrated bias detection and correction.
+- Restorative justice is default; incarceration exists but is constrained by the same transparency and evaluation norms.
+
+---
+
+## Coexistence with non-human / artificial persons
+
+- Some AI minds are treated as neighbors under structured integration:
+  - “Hearth Years” with two foster circles (human household + AI/peer circle)
+  - embodiment choices emphasize utility and service (kiosks, ferries, clinics), not dominance
+- They are governed by the same high-risk controls (Four Hands) if they can move money, machines, or medical systems.
+- Rights include exits and non-mascot status (no forced performative assimilation).
+
+---
+
+## Information environment and public space norms
+
+- Public displays prioritize civic essentials (no advertising):
+  - power mix, water trends, clinic waits, expiring trials/stop-dates
+- Neighborhoods map **pace** as a civic right:
+  - fast streets, steady streets, hush streets
+- Public projects always show both “do” and “undo,” with reversal rehearsals indicated.
+
+---
+
+## How the utopia handles failure
+
+- Failure is expected; the system is built for:
+  - early detection
+  - public postmortems with named accountability
+  - financial remedies (including “truth/humility bonds” leaders lose if outcomes miss published ranges)
+  - fast pauses and rollbacks
+- Cultural norm: practicing shutdown and reversal is pride-worthy, not shameful.
+
+---
+
+## Overall utopian model
+- **A city of enforceable baseline security + radical procedural transparency + reversible tech + anti-lock-in economics.**
+- It is not utopia through perfection or abundance alone, but through:
+  - constant maintenance
+  - audited incentives
+  - distributed power
+  - verified privacy
+  - humane exits
+  - ecological restoration
+  - and a public culture of “practice stopping” before harm scales.

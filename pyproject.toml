@@ -1,0 +1,18 @@
+[project]
+name = "utopia-maxxing"
+version = "0.1.0"
+description = "Evolutionary utopia optimization using LLMs"
+requires-python = ">=3.11"
+dependencies = [
+    "localrouter==0.2.20",
+    "supabase>=2.0.0",
+    "httpx>=0.27.0",
+    "trafilatura>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "embedding-visualizer>=0.1.0",
+    "playwright>=1.58.0",
+    "sentence-transformers>=5.2.3",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = []
