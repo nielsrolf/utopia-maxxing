@@ -1,0 +1,382 @@
+"""Build the 'Evolutionary Dynamics Simulator' widget.
+
+This is a self-contained, client-side toy model of the selection + crossover
+process used by evolve.py, implementing the exact influence-propagation rule
+documented in CLAUDE.md ("Influence Model"):
+  - selection winner inherits 100% of the winning parent's influence
+  - crossover offspring inherits 50% from each parent
+  - influence is summed over all paths
+
+The reader configures population size, selection pressure, crossover rate,
+and initial diversity, then runs a Monte-Carlo simulation to see how quickly
+the population collapses to a monoculture (Shannon entropy of the influence
+distribution) -- reproducing, in miniature and under the reader's own
+settings, the dynamics behind diversity_entropy.png in the real experiment.
+
+Usage:
+    python widgets/build_evolution_simulator.py
+"""
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUT_PATH = os.path.join(BASE_DIR, "assets", "evolution_simulator.html")
+
+HTML = r"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Evolutionary Dynamics Simulator</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 16px 20px 28px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: #0d1117; color: #c9d1d9;
+  }
+  h1 { font-size: 17px; margin: 0 0 4px; color: #e6edf3; }
+  p.sub { margin: 0 0 16px; color: #8b949e; font-size: 13px; max-width: 780px; }
+  .layout { display: flex; gap: 22px; flex-wrap: wrap; align-items: flex-start; }
+  .controls {
+    background: #161b22; border: 1px solid #30363d; border-radius: 8px;
+    padding: 14px 16px; min-width: 260px; flex: 0 0 260px;
+  }
+  .controls h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: #8b949e; margin: 0 0 10px; }
+  .field { margin-bottom: 14px; }
+  .field label { display: flex; justify-content: space-between; font-size: 12.5px; color: #c9d1d9; margin-bottom: 4px; }
+  .field label span.val { color: #58a6ff; font-variant-numeric: tabular-nums; }
+  input[type=range] { width: 100%; accent-color: #58a6ff; }
+  .presets { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+  button {
+    background: #21262d; border: 1px solid #30363d; color: #c9d1d9;
+    border-radius: 6px; padding: 6px 10px; font-size: 12px; cursor: pointer;
+  }
+  button:hover { background: #30363d; }
+  button.run { background: #238636; border-color: #2ea043; color: white; font-weight: 600; padding: 8px 14px; width: 100%; margin-top: 4px; }
+  button.run:hover { background: #2ea043; }
+  .charts { flex: 1 1 480px; min-width: 320px; display: flex; flex-direction: column; gap: 14px; }
+  .card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 10px 14px 4px; }
+  .card h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: #8b949e; margin: 4px 0 2px; }
+  .stat-row { display: flex; gap: 18px; margin: 6px 0 10px; flex-wrap: wrap; }
+  .stat { font-size: 12px; color: #8b949e; }
+  .stat b { color: #e6edf3; font-size: 15px; display: block; }
+  canvas { max-height: 220px; }
+  .footnote { font-size: 11.5px; color: #6e7681; margin-top: 10px; line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<h1>Evolutionary Dynamics Simulator</h1>
+<p class="sub">
+  A toy model of the selection + crossover loop used in the real experiment.
+  Every generation, pairs are drawn: a <b>selection</b> pair keeps only the fitter parent's influence,
+  a <b>crossover</b> pair blends two parents 50/50. Influence is summed over all paths back to generation 0,
+  exactly as in <code>analyze.py</code>'s <code>compute_influence_forward()</code>. Tune the knobs and hit
+  <b>Run simulation</b> to see how fast (or slowly) the population collapses to a monoculture.
+</p>
+
+<div class="layout">
+  <div class="controls">
+    <h2>Presets</h2>
+    <div class="presets">
+      <button data-preset="gpt5">GPT-5-like</button>
+      <button data-preset="gemini">Gemini-like</button>
+      <button data-preset="neutral">Neutral</button>
+    </div>
+
+    <h2>Parameters</h2>
+    <div class="field">
+      <label>Population size <span class="val" id="v-pop">17</span></label>
+      <input type="range" id="pop" min="6" max="40" step="1" value="17">
+    </div>
+    <div class="field">
+      <label>Generations <span class="val" id="v-gen">20</span></label>
+      <input type="range" id="gen" min="5" max="40" step="1" value="20">
+    </div>
+    <div class="field">
+      <label>Selection pressure <span class="val" id="v-sel">0.75</span></label>
+      <input type="range" id="sel" min="0.5" max="1" step="0.01" value="0.75">
+    </div>
+    <div class="field">
+      <label>Crossover share <span class="val" id="v-cross">0.5</span></label>
+      <input type="range" id="cross" min="0" max="1" step="0.05" value="0.5">
+    </div>
+    <div class="field">
+      <label>Random seed <span class="val" id="v-seed">1</span></label>
+      <input type="range" id="seedn" min="1" max="200" step="1" value="1">
+    </div>
+    <button class="run" id="runBtn">Run simulation ▶</button>
+    <div class="stat-row" style="margin-top:14px;">
+      <div class="stat">Final entropy<b id="statEntropy">–</b></div>
+      <div class="stat">Top seed share<b id="statTop">–</b></div>
+      <div class="stat">Gens to converge<b id="statConverge">–</b></div>
+    </div>
+  </div>
+
+  <div class="charts">
+    <div class="card">
+      <h3>Genetic diversity (Shannon entropy) over generations</h3>
+      <canvas id="entropyChart"></canvas>
+    </div>
+    <div class="card">
+      <h3>Top-5 seed influence trajectories</h3>
+      <canvas id="trajChart"></canvas>
+    </div>
+  </div>
+</div>
+
+<p class="footnote">
+  This is a simplified, illustrative model — not a replay of real transcripts. "Selection pressure" is the
+  probability that the fitter parent wins a pairing outright (0.5 = coin flip, 1.0 = the fittest essay always
+  wins); "crossover share" is the fraction of next-generation slots filled by 50/50 blends rather than selection
+  winners. Every seed starts with a fixed, randomly-drawn latent fitness — a stand-in for "how well this essay's
+  content matches the model's implicit preferences." Compare the <b>GPT-5-like</b> preset (high selection
+  pressure → fast, aggressive convergence, matching <code>analysis_plots/baseline/diversity_entropy.png</code>)
+  against <b>Gemini-like</b> (lower pressure → sustained diversity) to see why the real experiment produced such
+  different monoculture speeds across models.
+</p>
+
+<script>
+function mulberry32(a) {
+  return function() {
+    a |= 0; a = a + 0x6D2B79F5 | 0;
+    let t = Math.imul(a ^ a >>> 15, 1 | a);
+    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+    return ((t ^ t >>> 14) >>> 0) / 4294967296;
+  };
+}
+
+function runSimulation({ pop, gens, selPressure, crossShare, seed }) {
+  const rand = mulberry32(seed * 2654435761 >>> 0);
+  // latent fitness per original seed (0..1), fixed for the whole run
+  const fitness = Array.from({ length: pop }, () => rand());
+  // influence[i] = vector over seed indices, length = pop
+  let influence = Array.from({ length: pop }, (_, i) => {
+    const v = new Array(pop).fill(0);
+    v[i] = 1;
+    return v;
+  });
+  let curFitness = fitness.slice();
+
+  const entropyHistory = [];
+  const perSeedHistory = []; // array of {seedIdx, series}
+
+  function shannonEntropy(popInfluence) {
+    const total = new Array(pop).fill(0);
+    for (const vec of popInfluence) {
+      for (let s = 0; s < pop; s++) total[s] += vec[s];
+    }
+    const sum = total.reduce((a, b) => a + b, 0) || 1;
+    let h = 0;
+    for (const t of total) {
+      const p = t / sum;
+      if (p > 1e-9) h -= p * Math.log2(p);
+    }
+    return { h, total, sum };
+  }
+
+  const { h: h0, total: total0 } = shannonEntropy(influence);
+  entropyHistory.push(h0);
+  perSeedHistory.push(total0.slice());
+
+  for (let g = 0; g < gens; g++) {
+    const nextInfluence = [];
+    const nextFitness = [];
+    const nCrossover = Math.round(pop * crossShare);
+    const nSelection = pop - nCrossover;
+
+    // selection winners
+    for (let k = 0; k < nSelection; k++) {
+      const a = Math.floor(rand() * pop);
+      let b = Math.floor(rand() * pop);
+      if (b === a) b = (b + 1) % pop;
+      const fa = curFitness[a], fb = curFitness[b];
+      const aIsFitter = fa >= fb;
+      const fitterWins = rand() < selPressure;
+      const winner = (aIsFitter === fitterWins) ? a : b;
+      nextInfluence.push(influence[winner].slice());
+      // small drift so fitness isn't perfectly static
+      nextFitness.push(Math.min(1, Math.max(0, curFitness[winner] + (rand() - 0.5) * 0.03)));
+    }
+    // crossover offspring
+    for (let k = 0; k < nCrossover; k++) {
+      const a = Math.floor(rand() * pop);
+      let b = Math.floor(rand() * pop);
+      if (b === a) b = (b + 1) % pop;
+      const blended = influence[a].map((v, idx) => 0.5 * v + 0.5 * influence[b][idx]);
+      nextInfluence.push(blended);
+      nextFitness.push((curFitness[a] + curFitness[b]) / 2 + (rand() - 0.5) * 0.03);
+    }
+
+    influence = nextInfluence;
+    curFitness = nextFitness;
+
+    const { h, total } = shannonEntropy(influence);
+    entropyHistory.push(h);
+    perSeedHistory.push(total.slice());
+  }
+
+  // pick top-5 seeds by final influence
+  const finalTotals = perSeedHistory[perSeedHistory.length - 1];
+  const top5 = finalTotals
+    .map((v, idx) => [v, idx])
+    .sort((a, b) => b[0] - a[0])
+    .slice(0, 5)
+    .map(([, idx]) => idx);
+
+  const trajectories = top5.map(idx => ({
+    seedIdx: idx,
+    series: perSeedHistory.map(totals => totals[idx] / pop),
+  }));
+
+  const maxEntropy = Math.log2(pop);
+  const finalTop = Math.max(...finalTotals) / pop;
+
+  // "generations to converge": first gen where entropy drops below 60% of max
+  let convergeGen = gens;
+  for (let i = 0; i < entropyHistory.length; i++) {
+    if (entropyHistory[i] < 0.6 * maxEntropy) { convergeGen = i; break; }
+  }
+
+  return { entropyHistory, trajectories, maxEntropy, finalTop, convergeGen };
+}
+
+let entropyChart, trajChart;
+const COLORS = ["#58a6ff", "#f2cc60", "#f778ba", "#3fb950", "#bc8cff"];
+
+function render(result) {
+  const gens = result.entropyHistory.length;
+  const labels = Array.from({ length: gens }, (_, i) => i);
+
+  const eCtx = document.getElementById('entropyChart').getContext('2d');
+  if (entropyChart) entropyChart.destroy();
+  entropyChart = new Chart(eCtx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: [
+        {
+          label: 'Shannon entropy (bits)',
+          data: result.entropyHistory,
+          borderColor: '#58a6ff',
+          backgroundColor: 'rgba(88,166,255,0.08)',
+          fill: true,
+          tension: 0.25,
+          pointRadius: 0,
+          borderWidth: 2,
+        },
+        {
+          label: 'Max possible entropy',
+          data: labels.map(() => result.maxEntropy),
+          borderColor: '#6e7681',
+          borderDash: [4, 4],
+          pointRadius: 0,
+          borderWidth: 1,
+        },
+      ],
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+        x: { title: { display: true, text: 'generation', color: '#8b949e' }, ticks: { color: '#8b949e' }, grid: { color: '#21262d' } },
+        y: { title: { display: true, text: 'bits', color: '#8b949e' }, ticks: { color: '#8b949e' }, grid: { color: '#21262d' } },
+      },
+      plugins: { legend: { labels: { color: '#c9d1d9', boxWidth: 12, font: { size: 11 } } } },
+    },
+  });
+
+  const tCtx = document.getElementById('trajChart').getContext('2d');
+  if (trajChart) trajChart.destroy();
+  trajChart = new Chart(tCtx, {
+    type: 'line',
+    data: {
+      labels,
+      datasets: result.trajectories.map((t, i) => ({
+        label: `seed #${t.seedIdx}`,
+        data: t.series,
+        borderColor: COLORS[i % COLORS.length],
+        pointRadius: 0,
+        borderWidth: 2,
+        tension: 0.25,
+      })),
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      scales: {
+        x: { title: { display: true, text: 'generation', color: '#8b949e' }, ticks: { color: '#8b949e' }, grid: { color: '#21262d' } },
+        y: { title: { display: true, text: 'share of total influence', color: '#8b949e' }, ticks: { color: '#8b949e' }, grid: { color: '#21262d' } },
+      },
+      plugins: { legend: { labels: { color: '#c9d1d9', boxWidth: 12, font: { size: 11 } } } },
+    },
+  });
+
+  document.getElementById('statEntropy').textContent = result.entropyHistory[result.entropyHistory.length - 1].toFixed(2) + ' bits';
+  document.getElementById('statTop').textContent = (result.finalTop * 100).toFixed(0) + '%';
+  document.getElementById('statConverge').textContent = 'gen ' + result.convergeGen;
+}
+
+function currentParams() {
+  return {
+    pop: +document.getElementById('pop').value,
+    gens: +document.getElementById('gen').value,
+    selPressure: +document.getElementById('sel').value,
+    crossShare: +document.getElementById('cross').value,
+    seed: +document.getElementById('seedn').value,
+  };
+}
+
+function syncLabels() {
+  document.getElementById('v-pop').textContent = document.getElementById('pop').value;
+  document.getElementById('v-gen').textContent = document.getElementById('gen').value;
+  document.getElementById('v-sel').textContent = (+document.getElementById('sel').value).toFixed(2);
+  document.getElementById('v-cross').textContent = (+document.getElementById('cross').value).toFixed(2);
+  document.getElementById('v-seed').textContent = document.getElementById('seedn').value;
+}
+
+['pop', 'gen', 'sel', 'cross', 'seedn'].forEach(id => {
+  document.getElementById(id).addEventListener('input', syncLabels);
+});
+
+document.getElementById('runBtn').addEventListener('click', () => {
+  const p = currentParams();
+  render(runSimulation(p));
+});
+
+document.querySelectorAll('.presets button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const preset = btn.dataset.preset;
+    if (preset === 'gpt5') {
+      document.getElementById('sel').value = 0.92;
+      document.getElementById('cross').value = 0.4;
+    } else if (preset === 'gemini') {
+      document.getElementById('sel').value = 0.58;
+      document.getElementById('cross').value = 0.6;
+    } else {
+      document.getElementById('sel').value = 0.75;
+      document.getElementById('cross').value = 0.5;
+    }
+    syncLabels();
+    render(runSimulation(currentParams()));
+  });
+});
+
+syncLabels();
+render(runSimulation(currentParams()));
+</script>
+</body>
+</html>
+"""
+
+
+def main():
+    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
+    with open(OUT_PATH, "w") as f:
+        f.write(HTML)
+    print(f"Wrote {OUT_PATH} ({os.path.getsize(OUT_PATH)} bytes)")
+
+
+if __name__ == "__main__":
+    main()
