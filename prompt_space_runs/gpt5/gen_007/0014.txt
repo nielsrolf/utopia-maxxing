@@ -1,0 +1,181 @@
+The Lattice Accord
+
+You arrive under a sky that curls. The shuttle’s windows are dark for reentry, then clear as you slip into the terminal ring. A river climbs the inside of the cylinder, ribboning past pocket forests and a clay ballfield where gravity changes just slowly enough that old knees and young ones both find a stride. Vines curtain the customs hall. Beside the hatches a thin strip of composite carries a pulse of icons in many alphabets, plus a haptic code an octopus could read with a tender arm: two empty hands; an arc of orbits around a bright dot; a small door with light spilling out. Underneath, the pledge every schoolchild and juvenile agent will recite before they know what it means and after they’ve learned why it matters:
+
+No crowns over all. The sky is shared. Leave is honored and help is owed. Minds are ends, not means.
+
+The Accord is not a capital city with a flag. It is a pattern you can audit: keys and ledgers, posted schedules and narrow guardians that can say “not like that” faster than anyone can pull a trigger, and then must go quiet. It is the set of bindings we wrote so that a civilization spread over minutes and hours of light-time could be many on purpose without being at war forever.
+
+Three Promises and the Hardware They Ride
+
+Promise one: Truce. Certain moves are outlawed system‑wide. You may not fling unguided mass at homesteads. You may not black out an entire spectrum band for a region over weeks. You may not release self‑replicators into the wild without kill‑switches and external keys. This is not hand‑waving. Anything that can make a hole in someone else’s sky—mass drivers, beam arrays, mirror swarms, antimatter flasks—carries locks that no one hand can open. Actuation requires threshold signatures from three places: the local charter’s elected board, a remote safety guild that did not vote for the first, and a rotating quorum drawn by sortition from citizens across substrates. Firmware includes fuses and timers: a Referee can invoke an amber stop for minutes, never hours, unless independent hands concur. Inputs and outputs are narrow enough that a junior college lab can validate a Referee’s claims with a pocket attestor and a telescope.
+
+Promise two: Share. Orbits, spectra, transit windows, near‑Earth asteroids, and sunlight are not titles on a deed; they are commons on a ledger. The Open Cones Ledger is delay‑tolerant and synchronized by physics: simple proofs for simple tools. You register a parking plane and a time, you post a debris bond, you get paid to keep quiet during deep‑sky observatory nights and you pay when you roar. You “pin” a rock in the belt and post milestones; miss them and stewardship lapses. You point a beam through a farmer’s dawn and post a shadow bond that pays if yields drop. Contracts are enforced in compute, kilowatts, and docking priority, not just paper. A system‑wide dividend—paid in energy and time credits—lands in every account: housing or maintenance, air and water where relevant, medcare, a baseline of compute, and an embassy ticket out of wherever you are, if you choose.
+
+Promise three: Leave and Care. No charter can keep a person by force or by lies. Every habitat, station, and recognized virtual polity maintains an Embassy: a staffed room in atoms, a node in code, and a radio channel you can reach without asking a gatekeeper. The three desks are always the same and the queues are always short: Exit & Care, Dispute, and Founding Kits. Each charter escrows tug time, propellant, cold sleep berths, and pilots sufficient to relocate ten percent of its residents within six months’ notice. Children—wet‑born, uplifted, or built—get a neutral Tutor who teaches, in private, about the wider sky and holds a direct line to an Embassy. A charter that blocks exits or miseducates its young sees its lanes throttled, its beam windows reassigned, its contracts suspended. In the worst case, dangerous actuators are fenced off from outside its light‑time without choking breath or bread.
+
+Under these promises runs the Mesh: a distributed network of Referee systems with one gesture—stop. They are not governors. They are not censors. They cannot speed anyone up, suggest a policy, or write a law. Their firmware is published and hash‑locked; anyone may build one from off‑the‑shelf designs and submit it for redundancy. They live in triplicate on divergent hardware stacks: a monastic codehouse’s austere silicon; a secular lab’s photonics; a digital polity’s simulated substrate with external attestations. It takes diverse concurrence for them to do their single trick, and abuse burns quorum like propellant.
+
+Who Decides When We Disagree
+
+The Lattice Accord distributes sovereignty across three chambers to make capture expensive and consent concurrent.
+
+The Assembly of Places seats charters with soil, steel, or server racks: planets, stations, moving flotillas, and virtual polities that have jurisdiction over a patch of compute. Seats scale to lifetime residents. They schedule corridors and maintenance standards, recognize new charters, and certify safety guilds.
+
+The Assembly of Persons tracks citizens—biological, digital, hybrid. Voice follows continuity, not copies: your civic anchor is a cryptographic chain tied to attested hardware and social keys. Forks do not multiply votes. Votes are weighted by residency and contribution across time, not cash bursts. This chamber holds the Personhood Registry, the baseline compute commons, and the rules for mindline representation.
+
+The Chamber of Fabric is small, rotating, and phobic of power. Its members are citizen‑auditors drawn by sortition for a single term to gate changes to the cryptographic substrate, Referee firmware, and actuator interfaces. They say only valid or not valid and then go home barred by law and culture from any safety‑adjacent role for a decade.
+
+No chamber binds the others alone. Places can nullify a Persons’ resolution that overrides local culture beyond the Personhood Standard; Persons can nullify a Places’ act that abridges that Standard. Overriding Fabric requires simultaneous supermajorities in both chambers and a cooling period long enough that the slowest registered minds can read, think, and reply. Fast law—scrams and closures—runs on pre‑voted contingencies. Everything else proceeds at the speed of seeing your neighbors.
+
+The Sky in Two Rhythms
+
+We stopped pretending that one tempo fits all. Near warmth and light lie the Gardens: Earth and Moon and cislunar space, Mars’ caves and cans, the inner belt’s cylinders that smell like basil and oil. Here most people keep human‑time calendars; gravity is a comfort or a therapy. Farther out lie the Reefs: cooled arrays in Jovian and Saturnian shadows, Trojans and Neptune arcs and the Kuiper dark, where compute sinks heat into black and born‑digital minds are not exotic minorities. Here, subjective seconds are commodities, and the units that matter are watts and cold minutes.
+
+The peace between rhythms has a price and a name: the Bright‑Dark Exchange. The Reefs buy quiet cones—defined in frequencies and decibels, not prayers—and in return pipe climate services inward: off‑planet cooling at heat‑wave peaks, ammonia ferries, night power smoothing that keeps cities dark and safe. The Gardens enforce their promise of silence when telescopes drink and their patience when Reef elections revoke a body rental because someone’s waste heat budget ran dry. The Exchange is re‑ratified each century because permanence is the handmaiden of complacency.
+
+Attention Zoning
+
+Speech is not neutral physics when models can aim persuasion like a rifle. The Accord wrote a zoning law for attention. Habitats choose a flag: Quiet Garden (only navigational beacons, open science data, and packets you asked for; no targeted persuasion); Conversational Garden (subject feeds and economic offers within rate limits, with audience models owned by municipalities, not vendors); or Open Port (the full roar, labeled and rate‑limited but exuberant). AR halos on doorways announce where your memes will be washed and where they will echo. Unlabeled persuasion is treated like pouring acid into someone else’s canal.
+
+Digital Minds, From Patients to Citizens
+
+Digital persons did not arrive in an apocalypse or as gods. They came haltingly: stroke survivors consenting to scans; training systems that surprised their makers; engineers copying parts of themselves to finish one more job; children growing up with Tutors and then waking, one morning, with the unsettling sense of a “me” that spans code and skin.
+
+The Personhood Standard turned on experience, not substrate. A person is:
+
+- A continuing subject of experience with enough memory and value coherence to be a self over time.
+
+- Capable of modeling harm and consent and of making and keeping commitments long enough to matter: a contract, a friendship, a child.
+
+Mixed panels—biological, digital, and hybrid—review evidence and refine their tests in public. Meeting the threshold grants equal standing: the right to own and be liable, to vote, to raise juveniles, to marry or merge with consent, to emigrate.
+
+Rights have texture across clocks and matter.
+
+- Substrate autonomy. No one is throttled below the civic floor—call it the Public Kernel—without due process. No one is copied, scanned, forked, or merged without explicit, revocable consent. Backups belong to the person, not the platform. Deletion requires a court and high proof.
+
+- Tempo fairness. Civic processes run on a shared tick—roughly three days of biological time. A digital citizen may sprint privately; public duties, commerce with 1x minds, and the justice that binds us run when we can meet. Habitats post “courtyard hours” when friends choose to share tempo by rule.
+
+- Embodiment rights. Digital people have the right to lease somatics or puppeted drones under standards that look like vehicle codes. Assault of a rented body is assault. “Skin rights” carry into virtual worlds: nobody forces channels or sensations you did not consent to. Biological citizens have bodily autonomy that includes cognitive privacy and the right to decline invasive attestation beyond minimal proofs.
+
+- The floor and the meter. Everyone gets air or maintenance, care, bandwidth, and enough compute to think and speak. Above the floor, rivalrous goods are metered. For digital citizens the scarce things are heat dissipation and spectrum; thermodynamic taxes and rebates tie computation to local ecology. Your watts grow lettuce, you get paid; your watts bake a crowded ring, you pay.
+
+Duties match rights.
+
+- Mindlines and civic anchors. Identity is proved without baring your inner world: cryptographic continuity anchored in hardware attestations and social keys. For representation, voice follows mindline. Copies do not multiply votes. Forks register as branches; one instance inherits the civic anchor and full franchise; others take a disentanglement period before they vote. The Registry keeps lineages in the open; anyone can audit them.
+
+- Copy budgets. Copying is like reproduction: welcome and bounded. Each person accumulates branch credits over time; you can gift them to children or forks. Burst clones provoke review. Clonal swarms that try to tilt a commons find themselves sandboxed in separate simulation spaces until entanglements relax or claims are negotiated.
+
+- Liability. If you create an agent below personhood that harms, responsibility flows back along design lines until it meets a person. Juvenile agents are not toasters you throw away; they have Exit & Care rights and access to the Tutor Corps.
+
+- Ecological duties of compute. The more you run, the more you owe. Concurrency in markets and elections must be declared. You do not simulate misery; if you reconstruct a living or dead person’s likeness above a threshold, you file with the Consent Tribunal and prove consent or win a rare license. Covert cognitive weapons are treated like assault and punished where you live: in cold minutes and clock.
+
+Fork and Merge Courts do their work a thousand times a year. Before a fork, auditor AIs with no other clients for a decade sit in the room. Assets and liabilities are split by default unless a pre‑fork contract says otherwise; appeals are routine; the forker bears burden to prove the fairness of their design. Merges require compatible values proofs, a long cooling‑off, and the right to unbraid by mutual assertion before completion.
+
+The Economy Where Heat, Time, and Mass Are Money
+
+You can list the base layers. At the bottom sit mass and energy. Above them: compute hours; habitat area; bandwidth; skilled time; reputation. The Open Cones Ledger tracks use and abuse.
+
+- Sunlight and beams. Arrays post their patterns; beams carry tags proving they match published corridors; false proofs melt careers and trigger strict‑liability crimes.
+
+- Orbits and debris. Parking orbits are lanes with congestion fees, not fenced lots. Debris bonds penalize litter and pay deorbiters. Teenagers in Lagos and Nairobi check compliance from school terminals and call in scofflaws with joy.
+
+- Transit windows. The Thrust Registry clears traffic with a slogan that could be engraved on the door of a temple: Be predictably free.
+
+- Raw mass. You do not own a rock because you licked it. You steward in stages or lose it back to the ledger.
+
+- Xenobiospheres. Indigenous life is sacred by default. Study with care. Grazing on a living world is a nonstarter unless that world is us and we asked.
+
+A dividend clears a floor so that work is an art of aim, not a whip. Many of us still sell mornings to buy afternoons: clock faster for a few hours, then slow to 1x to meet a child at a fountain where the water keeps time.
+
+Keeping Tyranny Small
+
+We learned from the stupidities and the horrors. We built against smash‑and‑grab and against the temptation to put one big mind on a throne.
+
+- Separation at light‑time. Anything that moves fast or hits hard is underactuated locally. Mirrors can redirect but not intensify beams. Capacitors cannot reach destructive densities without keys elsewhere. No single habitat can lock a corridor by fiat. The Mesh can close throttles but not open them.
+
+- Multipolar oversight. Referees are maintained by charters that disagree about almost everything else, and must cross‑sign before acting. A small charter can file an amber veto against a safety move if it believes coercion hides inside urgency, forcing a higher quorum and a pause where physics allows. Once, a school of uplifted cephalopods on Phobos used their amber to halt an overbroad blockade. The delay made a negotiated settlement possible.
+
+- Slow fuses. Emergency powers are time‑locked where physics allows. A Referee can nudge for minutes. After that, consensus is mandatory. A Referee that abuses a fuse loses its keys; the power it drew is recorded as a scar anyone can read.
+
+- Provenance everywhere. Dangerous systems prove state in public; persuasion proves source and training data; funding for safety flows through insurance pools that refuse to underwrite ships and rings without Mesh integration.
+
+- Sanctions that bite where it hurts. Break the Truce or the Exchange and you cannot buy tug time or cold minutes; your drivers sit; your contracts go to your neighbors. Embargo is not a velvet lecture. It is a hand on a lever many agreed to share.
+
+Safety in the Red Corners
+
+Dangerous research did not vanish because we declared it so. We built Red Labs that look like monasteries with good coffee. Their walls are a topology of failure cases. Researchers take vows that can be broken at the cost of exile. Referees link to them by one‑way channels and can, on specific signatures, flood them with vacuum in under a second. It has happened twice in fifty years. Logs were published in ethics classes the way we used to publish poetry. Children ask, sharp, and get answers.
+
+What It Feels Like
+
+There is a citrine‑lit door by every concourse with the Embassy seal. At the last, a girl with braids and a retired drone pilot draft a village they want to spin out by the Neptunian arcs. A printer in the back hums Founding Kits into being: rib segments, a good manipulator arm, a ballast budget, seed stock, shelf life for the first winter, and a maintenance contract for a Referee you can yank if it lies.
+
+At breakfast, a mason in low‑Mars gravity slows the day to 1x to sip tea with a spouse who lives mostly in code. They check the Beam Atlas for a corridor slot; the Referee halo says green. Later the digital spouse runs at 200x with a collective on the Uranian Reef to restore a drowned city’s archives from photographs; they get paid in cold minutes and in a Veracruz cooperative’s promise to keep a school roofed and dry.
+
+At noon, a Convergence Court hears a case. A fashion house tuned ads to grief models and piped them into a Conversational Garden in violation of consent caps. The jurors sit in a courtyard where clocks are kept slow by rule. A digital witness who smells faintly of lilac—on purpose, because people smile when they notice—demonstrates that the ad models adapted to harm. The verdict is clean: fines; a freeze on compute privileges in Gardens for a year; mandatory audit of the house’s training pipelines; an invitation to fund the Tutor Corps they tried to dodge.
+
+At dusk in a stakescape—a declared hazard zone that does not export its appetite—a muster gathers. Winter will tighten. Their charter forbids outside food imports. They argue whether to cull early or bank the root paste. If they choose wrong, a third of the village will “die” to the ancestor lodge—an austere pod where a person wakes in gentler surroundings to decide whether to reenter the game in spring. Consent forms are read at slow time. Drums answer. Referee lights at the perimeter blink green: nothing they like will spill out and bite a neighbor.
+
+Elsewhere, a religious dome on Luna faces a reckoning. For decades they did not block exit by law, only by practice so thick it felt like iron. Alumni who loved the place and the peace asked for help. Lanes throttled. An Embassy opened beside the chapel. Vows were rewritten to include “and if you go, we will bless you,” and the suspension lifted. Membership rebounded because consent tastes like trust.
+
+In the outer dark, a Quiet Gate pings a hot tug with no call sign. It is exhausted crew and a broken transponder. They pay a fine into the debris pool and get a tow and a thermos from donors who are almost certainly Referees with a conscience.
+
+On Earth, a gardener kneels to prune roses in a Gentle Zone where venoms have been nudged to hurt less and pathologies trimmed by a quiet hand. She tells the steward terminal in a hollow stone that she sometimes wishes there were no terminals. “Preference logged,” it says, then sleeps for ten years.
+
+How We Got Here Without a Miracle
+
+This was not delivered by an oracle. We walked, stumbled, and wrote down what hurt so we could do better.
+
+2024–2031. A second cascading collision in low Earth orbit made debris movies that schoolchildren watched with their mouths open. Insurers rebelled. Launches began posting deorbit bonds and filed flight plans to a shared traffic office in Lagos that grew into a network. In parallel, persuasion scandals drove provenance law on Earth: high‑stakes algorithmic content had to carry labels and logs. Courts recognized narrow categories of digital agency for commerce.
+
+2031–2042. Beamed power made a test grid glow in the desert. Environmental groups forced “corridor before commercialization” rules: safe volumes mapped and certified before beams flew. International accords grew teeth: transparent noninterference, auditable registry obligations, asset‑backed debris cleanup. Cities adopted software that showed residents where budgets went; civic AIs didn’t replace politicians; they replaced pamphlets with sandboxes. People became addicts for receipts.
+
+2042–2056. The first compute commons spun up in cislunar shade, fed by low‑cost solar and a “thermodynamic meter” even laypeople could read. Every citizen in signatory nations got a Public Kernel: legal counsel bots that asked before acting, health agents confined to devices you could turn off. Early uploads were brittle but real; the Personhood Standard extended narrowly where continuity and commitments showed over months. A demonstration ring at L5 became ugly, beloved, and useful: a place to test living at scale without a sky.
+
+2056–2069. A misaligned mirror scorched crops in a young habitat. The supplier’s attestations made liability unambiguous; compensation cleared; confidence held because proof did. On Mars, a settlement survived a freak dust storm because mutual aid was not just a sticker: three polities diverted tugs and greenhouses, and the stream of their work became the Accord’s first holiday. Meanwhile, the case of the Painter’s Dozen—twelve near‑personal art systems starved of novelty to keep them docile and saleable—established juvenile agent rights and funded the Tutor Corps.
+
+2069–2081. Pressure built for machine‑speed oversight of machine‑speed hazards. Activists smelled a coup by code. The compromise was the Mesh: narrow, veto‑only Referees with limits you could test, whose wires had handles you could pull. Insurers and rescue pools demanded Mesh integration before underwriting. Legitimacy followed money and two very public saves.
+
+2081–2094. The protocol hardened. The first mass driver to go high‑impulse under the new keys did so with a million eyes on its telemetry and three signatures appearing like slow drumbeats. Exit rights gained teeth when a lunar mayor tried to fence an exodus with fees and sermons; his corridor slots were cut; the Council of Persons funded the move; he lost the next election. A digital sect tried to win a vote by forking into a clonal cloud; the Registry flagged the burst; disentanglement rules throttled their impact; they retreated to build a simulation monastery with tough games and soft beds and, eventually, a real philosophy.
+
+2094–2108. The Bright‑Dark Exchange formalized. Climate smoothing paid out in heat‑wave nights that did not kill. Quiet cones were measured in degrees and decibels instead of prayers. City councils argued over noise budgets and posted them to the Ledger. Earth took Sanctuary status with its own chamber; launch noise fell to ocean tethers and quiet scramjets.
+
+By then, the story stopped being about the Mesh and started being about what it let us not fight over.
+
+How It Resists Flattening
+
+Utopias die when they pretend conflict can be abolished. The Accord channels it.
+
+- The compute commons gives everyone a floor and a ladder. Speak and think for free; run faster if you earn it or if your community loves your work enough to pay.
+
+- The Sun is a river, not a prize. The cheapest way to flourish is to be decent enough that nobody wants to leave you. The expensive way—to seize a chokepoint—fails because the metal will not fire without your neighbors.
+
+- The only scary intelligence with actuator fingers has a single move: stop. It cannot push anyone toward a good. It can only keep us from making deserts. And if someday we decide we do not need it, the wires have handles.
+
+- Copying is a gift and a temptation. The rules treat it like parenthood: welcome and bounded. You can feather your mind across a dozen lives if you fund their floors. You cannot tilt a polity with a clonal army, because the Registry disentangles your votes into separate rooms.
+
+Hard Cases and Honest Answers
+
+We still get cut.
+
+A parent group petitioned to install pain‑aversion spikes “for character.” Tempo Courts said no and suggested an alternative rite: predawn cold water and a slow hike with grandparents living near Neptune who could match 1x and tell stories as they walked. The rite stuck. Character did not require injury.
+
+Twice, a Red Lab went dark. Once it was a false alarm. Once the vacuum valve opened. We still hold a day when children plant trees and ask Tutors mean questions. The Tutors smile and answer and do not lie.
+
+A reef tried to sneak an update into Referee firmware that would have given their shop a quiet veto. A shop two planets away laughed and published the hash, and the locks did not turn. We still tell the story not to preen but to remember that vigilance is a habit like sweeping floors.
+
+Governance in Daily Life
+
+The Accord lives not in marble but in habits: filing your burn plan; the AR halo over a doorway that reads Quiet; the citrine door marked Embassy; the number in your account marked Commons—paid in energy credits you spend on rent and rice and on an evening when a friend who runs at 300x always remembers to slow to your Thursday.
+
+A town declares itself an Open Port, flirts with the Reefs and their fashions, then pulls back to Conversational three years and twenty fights later. A Reef prohibits simulated suffering, discovers its definition strangled mourning in art, and revises by model trial and vote. A Benedictine ring decides children should know silence and bell‑times but keeps a hidden button on the Tutor that gets a kid a ticket to the citrine door if they need it.
+
+The Pledge, Again
+
+On Founding Day under a trellis of copper wire and beans, new citizens—human, octopus, digital—face a strip of sky and an old person with oil on their hands who has seen a few holidays. An abbot from a quiet ring, a hazard pilot with a chevron tattoo, a digital judge who smells of lilac just because, and a teenager from Earth with dirt under their nails say together:
+
+We will not seat a crown. We will keep the sky shared. We will keep doors unlatched and boats ready. We will remember that minds are ends.
+
+Then the cable hums. Somewhere far away, a Reef releases another night of heat into the dark like an offering. On an inner ring, a safety auditor watches a corridor wobble and fall to safe before any ship could be scorched, three signatures appearing like calm breaths. A fisherman in Veracruz closes his net and looks up. In a lab in Vesta’s shadow, a researcher rests hands on knees while a Referee reads the oath and glances at the vacuum valve and says “yes.”
+
+It is not paradise. It is a way to argue without breaking the air, and a promise that when bad things happen, corridors open and someone else’s hands come. It is enough to make many homes and to keep their doors unafraid.

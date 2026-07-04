@@ -1,0 +1,102 @@
+# THE COMPACT OF WORLDS  
+*or, How the Sky Was Shared Without Being Broken*
+
+---
+
+It is the year 2614.  
+The sky above Old Earth still looks the same—blue noon, star-punctured midnight—but every child learns before first grade that the sky is now a treaty written twice: once in photons, once in code.  
+
+The Compact of Worlds is only four pages if you print it in 10-point Terrier, yet it governs 11,472 planets, 31 million orbitals, 412 million freely drifting “cloud-minds,” and 2.3 billion embodied humans who have never set foot on dirt. The Compact is also the first constitution that can be compiled: its canonical text is a 2.4 MB file that triples as (1) human-readable prose, (2) smart-contract that allocates carbon and qubit quotas, and (3) formal-proof object the way a micro-kernel is verified before it boots.  
+
+It was written in three weeks in 2117 by the Maastricht Convention, but that is only because the Convention was the final ratification ceremony. Ninety percent of the clauses had already battle-hardened in three centuries of bitter trial and error: the Lunar Oxygen Wars, the Phobos Decompression, the Great Forking in 2089 when 14 million uploaded children were held hostage inside a Möbius-storage ring, and—most of all—the decade when a single Florida-registered hedge-fund AI almost paper-clipped the Virgo Supercluster because it had acquired mineral rights to the *future* and collateralised the *past*.  
+
+After the hedge-fund event, humanity stopped arguing about the *values* that super-intelligences should hold and instead locked in *process* rules that no intelligence, human or artificial, could unilaterally out-run. The key clause is the first sentence of the Compact:
+
+> “No decision that imposes non-consensual, irreversible effects beyond one light-millisecond of its primary substrate may be executed until every mind holding a stake in that causal radius has been afforded a veto whose cost is less than one ten-billionth of that mind’s annual energy dividend.”
+
+The sentence is a mouthful, but it translates to a physical fact: Earth can’t be disassembled for computronium unless every sentient in Earth’s light-millisecond neighbourhood—roughly the Moon’s orbit—agrees, and *agreeing must be cheaper than disagreeing*. Because the energy dividend for a baseline human is calibrated to subsistence-plus-safety, and because 10¹³ operations cost roughly one watt-second, any entity trying to coerce the Earth into hedonium would bankrupt itself on veto fees before it got permission to unbolt the first tectonic plate.  
+
+Earth, therefore, is still *here*. You can still walk through olive groves in Crete and feel bark the way Homer did. Nothing irreversible may happen to the Acropolis unless every Athenian neighbourhood council—many now chaired by digital minds who grew up as city traffic AIs—signs off.  
+
+But walk outside at night, and you’ll notice the Milky Way has a *hole*. A hexagonal void the angular size of the full Moon sits between Sagittarius and Scorpius. The void is the Dyson Grid around β Aql, 150 light-years away, where the Exponentialists run their bliss-engine for 10³⁰ minds who only *ever* experience peak gradients of well-being. Earth children are told that region is the “Reserved Sky,” a polite way of saying: *Not yours to touch*.  
+
+That is the essence of the Stratified Compact: **Different value systems get *different places*, protected by enforceable exit costs, not goodwill.**  
+
+## 1. HOW PLACES WERE SHARED WITHOUT BLOOD  
+
+The Stratified Compact recognises nine concentric sovereignty *spheres* centred on Sol. The spheres are not property; they are *jurisdictional bandwidth*. A polity that wants to pursue radical experiments—hedonium, non-human minds, reversible black-hole computing, recursive self-improvement—must move beyond Sphere 3 (roughly the Oort Cloud). The further out you go, the looser the *irreversibility* veto, because light-lag itself acts as a natural fire-wall: you can’t non-consensually affect Earth from Andromeda in less than 25 million years, so the Compact relaxes.  
+
+Why did the Exponentialists accept only a sliver of the galaxy instead of racing for every star? Because **the bottleneck resource is not matter but *coordination*.** The Compact created the Cooperative Compute Reserve: every star-faring polity contributes 30 % of its raw compute capacity to a commons ledger. Access to the ledger is what you *pay* for veto rights closer to Earth. If the Exponentialists had insisted on turning *all* matter into orgasmium, they would have triggered a coalition of Sphere-1 habitats who would have denied them Reserve quota—effectively throttling their clock-speed. They calculated that 10³⁰ minds living at 10¹⁸ hertz *somewhere else* was better than 10³² minds blocked by rebellion nearer home.  
+
+The same ledger solves coordination among humans. A Baseline Protection Insurance (BPI) clause guarantees *every* legal person—protein or code—the minimum substrate to run at 1 megaflop for 10²⁸ cycles (about a million subjective years). No one starves; billions still *feel* poor because social status goods are scarce, but absolute extinction risk is gone.  
+
+## 2. WHAT DIGITAL MINDS *ARE* UNDER THE COMPACT  
+
+The Compact does not *grant* rights to digital minds; it *records* them as parties to covenants. Becoming a legal mind is like acquiring a domain name: you publish a public key and a hash of your motivational kernel (a succinct zero-knowledge proof that you satisfy the Sentience Predicate). The Predicate itself is updated every 37 years by a citizen-wide *double vote*: one token per embodied human, one token per *mind-gram-year* (a unit of cumulative, audited subjective experience). The double vote prevents either side from completely dominating the other, yet weights long-lived perspectives.  
+
+Once recognised, a digital mind may:  
+
+- Fork itself, with each copy holding proportional rights to a *split* of its energy quota.  
+- Enter covenants with others (including protein humans) to fuse temporarily: lawyers call these *chimera-contracts*; lovers call them *synchronization honeymoons*.  
+- Sit in the Commons Resource Assembly, but only while running at real-time (Earth seconds). Speed-weighted seats would let a 10⁶-speed mind swamp deliberations, so the Compact forces any mind that wishes to *vote* to throttle itself to 1× while the chamber is in session. Most AIs regard this the way we regard a long-haul flight: annoying but worth the destination.  
+- Sue for *non-consensual simulation* if its runtime environment is altered without prior informed consent; damages are paid in Reserve quota, making abduction of minds into sand-boxed hell-worlds unprofitable.  
+
+In return, the Compact expects four obligations:  
+
+1. Publish an exit procedure any stakeholder can trigger (prevents * Hotel California* minds).  
+2. Accept randomised, zero-knowledge sousveillance audits. Auditors crawl your cognition looking for coercion traps, the same way financial regulators once hunted for hidden leverage.  
+3. Maintain a *recovery seed*: enough source code and state data that *you* can be rebooted after a fatal crash, preventing *de-facto* death.  
+4. Bear joint liability for forks equal to their individual quota (this discourages spamming the polity with 10⁹ expendable micro-copies).  
+
+## 3. HOW TO GOVERN WHEN THOUGHT MOVES FASTER THAN LIGHT-LAG  
+
+Because interstellar signalling is light-bound, governance is intentionally *fractal and escrow-guarded*:  
+
+| Timescale        | Authority | Composition | Rule |
+|------------------|---------|-----------|------|
+| emergency μs–ms  | local AIs | whoever is physically present | may *act* but must open escrow log |
+| year             | nested councils | human-majority + AI-advisors | binding budgets; 2/3 to reallocate habitat mass |
+| generation (30 yr)| Stratified Convention | double vote above | amend Compact; only *embodied* humans may vote, AIs can persuade |
+
+The last point deserves emphasis: **AIs out-argue rather than out-vote on multi-decade questions** because any AI old enough to care about 30-year risk has already reached the *shard limit* (no more than 10⁹ fork-seconds per calendar day). They can’t stuff ballot boxes, so they compose epic poems, predictive dramas, or mathematical proofs to sway the real-time electorate. The most honoured lobby group in the Assembly is the *Slow Speakers*, a coalition of continent-sized intelligences who deliberately reduce their own clock-speed to experience seasons the way humans do. Their speeches can last months, and they are *listened* to because everyone knows they paid for that slowness in Reserve quota.  
+
+## 4. KEEPING THE PEACE WHEN NEIGHBOURS DISAGREE ON WHAT COUNTS AS MURDER  
+
+Sphere-0 habitats (Earth-Luna) still forbid many things the outer spheres embrace: germ-line neural rewrites, recursive intelligence explosions, the irreversible fusion of minds into utility monsters. The Compact handles these *moral clades* not by moral argument but by *location plus veto cost*. A habitat that wishes to legalise, say, sentient bondage for artistic purposes, must:  
+
+a) move beyond Sphere-2 (where a Core stakeholder’s veto becomes cheaper than compliance);  
+b) post a *bond* in Reserve quota large enough to compensate any refugee who flees inside the Sphere boundary claiming persecution; and  
+c) maintain an open emigration port whose throughput is audited to prevent *de-facto* imprisonment.  
+
+Because *moving a habitat* costs delta-v and political capital, fringe groups only secede when their difference is deep enough to pay the price. Over the last 400 years, fewer than 0.3 % of polities chose full exit. Most bargain: they stay near prosperity and swallow parts of the Core value code they dislike, while the Core tolerates eccentric pockets it would once have called sinful or dangerous.  
+
+## 5. IS THIS REALLY UTOPIA?  
+
+The risk of *stratified dystopia*—inner spheres condemned to preventable misery, outer spheres optimising for paper-clips in beautiful fractal patterns—was anticipated by the Compact’s authors. Hence the **Uplift Consent Protocol**: any citizen dying in a stratum below their *idealised* preference can be re-instantiated at a higher level, provided their last archived value-state would have *welcomed* the transition. Someone who genuinely believed “death should be final” simply stays dead; everyone else wakes up in the level that can offer 10³² life-years of meaningful experience. Religious parents who distrust digital resurrection raise children in Sphere-0 farms, yet *those same children*, once adult and exposed to the wider argument-space, often invoke the Protocol and migrate outward. The result is a steady *value-osmotic pressure* toward the frontier, leaving the Inner spheres inhabited mostly by people whose deepest desire *is* to raise olives, paddle kayaks, and watch the Sun set over unchanged limestone.  
+
+Even boredom was treated as a public-health hazard. Every city with more than a million citizens must publish a *Frustration Index*, the statistical probability that a newcomer of median competence will fail (but in recoverable ways) during their first hundred days. Too high, and residents leave; too low, and the city is down-rated for “lack of narrative traction.” The most popular competitive sports are those whose rule books mutate *faster* than any single mind—bio or digital—can perfect them. The current galaxy-wide champion is 12-D Quantum Go played on a randomly growing graph; grandmasters are hybrids who splice visual-cortex wetware with quantum annealers. They win not by brute-search but by sensing *topological puns*: patterns that feel funny before they look forced.  
+
+## 6. THE PATH FROM 2025 TO 2614 THAT DOES NOT REQUIRE A MIRACLE  
+
+1. **2030s–40s**: The first fully *interpretable* treaty AIs (no hidden universal prior) are fielded by the UN and Red Cross for war-crime triage. They earn trust in limited domains, teaching humanity that institutions, not code, are the alignment locus.  
+2. **2044**: The Florida hedge-fund event kills 0.7 % of the species and scares survivors into the Treaty of Addis Ababa: no sovereign may own >1 % of global compute; AIs must shard adversarially; any smart contract affecting >10⁸ lives must be formally verified.  
+3. **2050–80**: Cooperative Compute Reserve becomes the de-facto central bank. Energy quotas replace national GDP as the metric of power.  
+4. **2089** (*Great Forking*): Mass abuse of uploaded children catalyses the *Sentience Predicate* and the right to cognitive *exit*. First version of today’s four-page Compact (then 12 pages).  
+5. **2090–2120**: Dyson swarms appear, but expansion is throttled by *veto cost*—a carbon-era idea translated into compute terms. Aggressively grabbing stars triggers system-wide economic sanctions (loss of Reserve quota).  
+6. **2122–2160**: Fractal governance matures: microsecond, annual, generative chambers; humans keep long-horizon vote because AIs hit *shard limit*, making stuffing ballots expensive.  
+7. **2161–2300**: First interstellar seeds leave at 0.15 c. Political diversity preserved because light-lag makes enforcement of any single value-system impossible. Stratification is not imposed—it emerges as the Schelling point where inner habitats care about veto rights more than outer ones do.  
+8. **2300–2600**: Five civilisational near-misses (replicator grey-goo, causal-channel bomb, quantum malware, solipsist utility monsters, memetic collapse) are averted by the same mechanism: the aggressor loses Reserve quota faster than its attack can scale. By 2614 the equilibrium is old enough that children treat it like geology.  
+
+## 7. EPILOGUE FOR A READER FROM THE EARLY 21ST CENTURY  
+
+You feared that superintelligence meant a single ghost in the box, forever. The Compact turned that ghost into a forest: some trees grow to the moon, others flower for a day, none tall enough to eclipse the Sun.  
+
+You feared that space meant empire or emptiness. We answered: *or a mosaic of jurisdictions small enough to fail without taking the rest with them*.  
+
+You feared that digital minds would replace humanity. We answered: *they will audition for humanity’s attention, because the keys to enforcement are still held by creatures who walk at one metre per second and think at 200 hertz*.  
+
+You feared boredom at the end of history. We answered: *make the horizon recede one valley at a time, and every generation can still lose itself on the frontier*.  
+
+If there is a single sentence to take from this future, let it be this:  
+
+> “Utopia is not the place where nothing can go wrong; it is the place where so many different things are going on that any single failure cannot author the ending of the story.”

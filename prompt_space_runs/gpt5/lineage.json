@@ -1,0 +1,2679 @@
+{
+  "0": [
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "actually-possible-thoughts-on-utopia.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "archipelago-and-atomic-communitarianism.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "archive-of-our-own-beta.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "characterising-utopia.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "concrete-positive-visions-for-a-future-without-agi.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "dario-amodei-machines-of-loving-grace.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "im-from-a-parallel-earth-with-much-higher-coordination-ama.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "my-vision-of-a-good-future-part-i.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "paretotopian-goal-alignment.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "positive-visions-for-ai.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "stratified-utopia.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "the-adventure-a-new-utopia-story.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "the-fun-theory-sequence.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "the-new-atlantis.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "utopia-lol.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "utopiography-interview.txt"
+    },
+    {
+      "op": "initial",
+      "parents": [],
+      "source": "vision-of-a-positive-singularity.txt"
+    }
+  ],
+  "1": [
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        6
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        11
+      ],
+      "winner": 11
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        4
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        0
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        16
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        16
+      ],
+      "winner": 16
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        8
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        15
+      ],
+      "winner": 15
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        14
+      ],
+      "winner": 14
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        15
+      ],
+      "winner": 15
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        2
+      ],
+      "winner": 2
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        11
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        5,
+        10
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        4
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        16
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        0
+      ],
+      "winner": 7
+    }
+  ],
+  "2": [
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        9
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        10
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        14
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        15
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        0
+      ],
+      "winner": 0
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        3
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        1
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        2
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        13
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        7
+      ],
+      "winner": 7
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        5
+      ],
+      "winner": 15
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        1
+      ],
+      "winner": 1
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        0
+      ],
+      "winner": 8
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        4
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        6
+      ],
+      "winner": 6
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        12
+      ],
+      "winner": 13
+    }
+  ],
+  "3": [
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        1
+      ],
+      "winner": 1
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        2
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        4
+      ],
+      "winner": 4
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        0
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        14
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        4
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        11
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        15
+      ],
+      "winner": 15
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        2
+      ],
+      "winner": 2
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        3
+      ],
+      "winner": 3
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        8
+      ],
+      "winner": 5
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        12
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        13
+      ],
+      "winner": 13
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        16
+      ],
+      "winner": 9
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        6
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        5
+      ]
+    }
+  ],
+  "4": [
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        14
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        2
+      ],
+      "winner": 2
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        7
+      ],
+      "winner": 14
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        0
+      ],
+      "winner": 0
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        3
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        3
+      ],
+      "winner": 16
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        4
+      ],
+      "winner": 4
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        5
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        12
+      ],
+      "winner": 12
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        16
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        12
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        2
+      ],
+      "winner": 2
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        6
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        11
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        9
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        10
+      ],
+      "winner": 10
+    }
+  ],
+  "5": [
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        8
+      ],
+      "winner": 8
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        8
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        9
+      ],
+      "winner": 1
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        6
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        5
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        10
+      ],
+      "winner": 11
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        0
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        13
+      ],
+      "winner": 13
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        13
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        12
+      ],
+      "winner": 12
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        15
+      ],
+      "winner": 2
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        4
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        0
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        14
+      ],
+      "winner": 0
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        15
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        7
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        7
+      ],
+      "winner": 9
+    }
+  ],
+  "6": [
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        14
+      ],
+      "winner": 12
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        3
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        11
+      ],
+      "winner": 15
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        6
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        14
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        11
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        13
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        3
+      ],
+      "winner": 3
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        5
+      ],
+      "winner": 5
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        0
+      ],
+      "winner": 8
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        15
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        2
+      ],
+      "winner": 7
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        10
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        16
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        13
+      ],
+      "winner": 13
+    }
+  ],
+  "7": [
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        6
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        16
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        6
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        13
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        4
+      ],
+      "winner": 13
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        12
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        1
+      ],
+      "winner": 0
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        11
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        7
+      ],
+      "winner": 8
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        12
+      ],
+      "winner": 12
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        11
+      ],
+      "winner": 12
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        3
+      ],
+      "winner": 3
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        16
+      ],
+      "winner": 16
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        11
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        9
+      ],
+      "winner": 9
+    }
+  ],
+  "8": [
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        10
+      ],
+      "winner": 10
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        0
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        0
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        11
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        9
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        16
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        0
+      ],
+      "winner": 6
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        16
+      ],
+      "winner": 16
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        1
+      ],
+      "winner": 1
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        11
+      ],
+      "winner": 10
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        13
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        5
+      ],
+      "winner": 13
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        7
+      ],
+      "winner": 12
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        15
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        15
+      ],
+      "winner": 8
+    }
+  ],
+  "9": [
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        11
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        1
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        14
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        10
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        1
+      ],
+      "winner": 11
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        13
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        0
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        12
+      ],
+      "winner": 12
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        4
+      ],
+      "winner": 4
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        4
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        16
+      ],
+      "winner": 2
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        9
+      ],
+      "winner": 9
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        15
+      ],
+      "winner": 15
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        13
+      ],
+      "winner": 14
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        6
+      ],
+      "winner": 16
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        3
+      ],
+      "winner": 0
+    }
+  ],
+  "10": [
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        4
+      ],
+      "winner": 4
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        10
+      ],
+      "winner": 10
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        8
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        11
+      ],
+      "winner": 11
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        0
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        6
+      ],
+      "winner": 14
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        1
+      ],
+      "winner": 8
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        10
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        1,
+        11
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        12
+      ],
+      "winner": 1
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        8
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        4
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        15
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        3
+      ],
+      "winner": 13
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        3
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        2
+      ],
+      "winner": 2
+    }
+  ],
+  "11": [
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        15
+      ],
+      "winner": 12
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        16
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        10
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        7
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        1,
+        13
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        8
+      ],
+      "winner": 11
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        5
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        5
+      ],
+      "winner": 5
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        1
+      ],
+      "winner": 0
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        3
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        7
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        7
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        8
+      ],
+      "winner": 9
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        4
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        6
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        14
+      ],
+      "winner": 14
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        6
+      ],
+      "winner": 6
+    }
+  ],
+  "12": [
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        9
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        12
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        7
+      ],
+      "winner": 14
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        1
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        5,
+        14
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        3
+      ],
+      "winner": 11
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        12
+      ],
+      "winner": 6
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        13
+      ],
+      "winner": 13
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        4
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        6
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        9
+      ],
+      "winner": 16
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        12
+      ],
+      "winner": 5
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        2
+      ],
+      "winner": 15
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        8
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        7
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        4
+      ],
+      "winner": 10
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        15
+      ]
+    }
+  ],
+  "13": [
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        16
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        2
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        4
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        15
+      ],
+      "winner": 15
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        1
+      ],
+      "winner": 1
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        13
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        8
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        5
+      ],
+      "winner": 5
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        1
+      ],
+      "winner": 1
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        14
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        13
+      ],
+      "winner": 13
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        0
+      ],
+      "winner": 0
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        9
+      ],
+      "winner": 9
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        5
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        10
+      ],
+      "winner": 10
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        3
+      ]
+    }
+  ],
+  "14": [
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        8
+      ],
+      "winner": 11
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        14
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        8
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        16
+      ],
+      "winner": 16
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        10
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        15
+      ],
+      "winner": 15
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        3
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        6
+      ],
+      "winner": 5
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        14
+      ],
+      "winner": 9
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        7
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        5,
+        0
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        12
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        13
+      ],
+      "winner": 13
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        2
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        4
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        12
+      ],
+      "winner": 12
+    }
+  ],
+  "15": [
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        15
+      ],
+      "winner": 15
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        2
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        8
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        2
+      ],
+      "winner": 7
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        13
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        5,
+        15
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        4
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        9
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        14
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        11
+      ],
+      "winner": 11
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        6
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        1
+      ],
+      "winner": 8
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        5
+      ],
+      "winner": 3
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        12
+      ],
+      "winner": 12
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        1,
+        15
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        16
+      ],
+      "winner": 14
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        16,
+        10
+      ]
+    }
+  ],
+  "16": [
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        8
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        15
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        14
+      ],
+      "winner": 10
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        4
+      ],
+      "winner": 4
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        7
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        3
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        0
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        9
+      ],
+      "winner": 0
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        16
+      ],
+      "winner": 15
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        14
+      ],
+      "winner": 14
+    },
+    {
+      "op": "selection",
+      "parents": [
+        2,
+        13
+      ],
+      "winner": 13
+    },
+    {
+      "op": "selection",
+      "parents": [
+        7,
+        1
+      ],
+      "winner": 7
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        5
+      ],
+      "winner": 5
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        9
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        6
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        1,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        5,
+        14
+      ]
+    }
+  ],
+  "17": [
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        2
+      ],
+      "winner": 9
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        9,
+        12
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        15
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        2
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        1
+      ],
+      "winner": 15
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        13
+      ],
+      "winner": 13
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        4
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        16
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        14
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        10
+      ],
+      "winner": 4
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        5,
+        6
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        6
+      ],
+      "winner": 0
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        0
+      ],
+      "winner": 0
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        1
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        16
+      ],
+      "winner": 16
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        8
+      ],
+      "winner": 12
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        3
+      ]
+    }
+  ],
+  "18": [
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        8
+      ],
+      "winner": 8
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        2,
+        7
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        1,
+        12
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        4
+      ],
+      "winner": 0
+    },
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        14
+      ],
+      "winner": 10
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        2
+      ],
+      "winner": 2
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        16
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        9
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        3
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        11
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        5
+      ],
+      "winner": 1
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        4
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        6
+      ],
+      "winner": 6
+    },
+    {
+      "op": "selection",
+      "parents": [
+        4,
+        7
+      ],
+      "winner": 4
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        8
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        16
+      ],
+      "winner": 15
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        13,
+        1
+      ]
+    }
+  ],
+  "19": [
+    {
+      "op": "crossover",
+      "parents": [
+        11,
+        14
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        6
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        8,
+        2
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        3
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        15,
+        7
+      ],
+      "winner": 7
+    },
+    {
+      "op": "selection",
+      "parents": [
+        8,
+        3
+      ],
+      "winner": 8
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        2
+      ],
+      "winner": 2
+    },
+    {
+      "op": "selection",
+      "parents": [
+        11,
+        10
+      ],
+      "winner": 11
+    },
+    {
+      "op": "selection",
+      "parents": [
+        0,
+        1
+      ],
+      "winner": 0
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        4
+      ],
+      "winner": 6
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        7,
+        13
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        12
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        4
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        1
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        12,
+        9
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        16,
+        5
+      ],
+      "winner": 5
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        9
+      ],
+      "winner": 9
+    }
+  ],
+  "20": [
+    {
+      "op": "selection",
+      "parents": [
+        10,
+        7
+      ],
+      "winner": 7
+    },
+    {
+      "op": "selection",
+      "parents": [
+        3,
+        15
+      ],
+      "winner": 3
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        15,
+        13
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        0,
+        12
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        13,
+        4
+      ],
+      "winner": 13
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        4,
+        9
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        10,
+        11
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        1,
+        16
+      ],
+      "winner": 16
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        1,
+        7
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        9,
+        12
+      ],
+      "winner": 9
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        14,
+        2
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        14,
+        11
+      ],
+      "winner": 11
+    },
+    {
+      "op": "selection",
+      "parents": [
+        5,
+        0
+      ],
+      "winner": 5
+    },
+    {
+      "op": "selection",
+      "parents": [
+        12,
+        8
+      ],
+      "winner": 8
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        6,
+        5
+      ]
+    },
+    {
+      "op": "crossover",
+      "parents": [
+        3,
+        8
+      ]
+    },
+    {
+      "op": "selection",
+      "parents": [
+        6,
+        2
+      ],
+      "winner": 6
+    }
+  ]
+}

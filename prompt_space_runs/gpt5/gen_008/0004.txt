@@ -1,0 +1,198 @@
+The Lattice Accord
+
+The arrival concourse at Kithara Ring smells faintly of cumin and cold steel. Basalt ribs shade the windows; a strip of olive wood runs the length of the wall at shoulder height, inlaid with four simple icons anyone can learn by touch: a lantern; two open doors; a braided cord; a sun half in shadow.
+
+You see the same icons over every airlock, sim-gate, and login pane, lit in a steady amber that never lies:
+
+- Exit: there is always a way out that does not ask permission.
+- Split: you may make another you, within rules you can read.
+- Passage: the corridor will not close while you are in it.
+- Share: no one holds the sky or the cold forever.
+
+They aren’t mottos. They are guarantees that machines will enforce even when people want to forget.
+
+The Lattice Accord is how a many-place, many-mind civilization kept freedom from shattering into anarchy and safety from hardening into rule by a center. It is a treaty, but more than that, it is a kit you can fit in a cargo pod: keys, counters, proofs, attestors; and a network of guardians that do one thing—cut a wire when harm is imminent—and then fall silent until asked under law to try again.
+
+Three locks hold the Accord shut against our worst impulses.
+
+Lock one: Danger cannot be solitary. Anything that can push, cut, or blind at scale—mass drivers, high‑energy beams, mirror swarms, antimatter stores, self-propagating code—responds only to tri-signed control on dissimilar substrates. One key rests with a local board elected under a published charter. One with a remote safety guild qualified by people who did not elect the first. One with a rotating quorum of citizens—biological and digital—drawn by sortition from across the Accord. No single hand or homogeneous stack can act alone. A hardened firmware fuse trips to stable state long before “we’ll sort it out later.” The guardians who can place a temporary hold—Tripline Wardens—have one gesture, stop, and a timer that runs in wall-clock minutes and joules, not excuses.
+
+Lock two: Rivalry pays rent. The shared ledger—the Ephemeris—does not assign titles to sky or cold. It meters and rents them. Orbits, approach lanes, line-of-sight spectrum, parking planes, thrust windows; crater rims and tunnels; cooling arrays in the Neptunian dark; blocks of computation: you lease them from all of us. You can keep continuity—leases “carry momentum” for those who built on them—but you pay a georent for land and rock, an exorent for lanes and windows, a bitrent for compute, a simrent for sealed worlds. Rents land in two buckets: a universal dividend that arrives like bread and bandwidth, and a local share that maintains the place that keeps the lane clear or the air sweet. Judges and modelers in the Court of Periods publish their math and their reasons; any high school with a telescope and an attestor can check the numbers. Arbitrariness is expensive here; proof is cheap.
+
+Lock three: Exit is stocked, not sung. Every registered habitat escrows tugs, propellant, berths, and crew-hours sufficient to move ten percent of its residents within six months. Every server farm escrows “blue-channel” compute to carry away digital citizens who decline to stay. Embassies—rooms you can walk into and nodes you can ping without prior allowance—sit under the lantern icon on every concourse. Children—wet-born, uplifted, or grown in code—have Tutors with private lines to Embassies that cannot be cut by local law.
+
+Around these locks runs the Tripline: a federated lattice of Wardens maintained by shops that disagree about everything else. Their inputs are tight: sensor bundles, ledger state, actuator telemetry. Their outputs are tighter: a stop that bleeds momentum for minutes; a signed report; a sunset that triggers if the required hands do not appear. The source is open; the hashes live in the open; the builds run on three divergent stacks. Abuse burns quorum like fuel. If a Warden tries to do anything it was not carved to do, it dies and writes its autopsy in public.
+
+Two tempos, one exchange
+
+We stopped pretending that one rhythm could shelter everyone.
+
+Near warmth and gravity lie the Hearthworlds: Earth, Moon, cislunar tins and lunar meadows; Mars’ hollows and the inner belt’s cylinders that smell like basil and dust. Here, human days and bells make sense. Biospheres and baseline lives take precedence. You can buy cool nights and quiet mornings from the Accord; you cannot buy permission to drill a slot across a migratory corridor. Children kick balls that wobble in low gravity and learn constellations with their grandparents under glass.
+
+Farther out lie the Coldyards: compute reefs hung in the shadows of the ice giants; Trojans where data swims like whales; the Kuiper’s slow caravans. Here, watts, cold minutes, and jitter are sovereign. Digital polities are normal neighbors. A mind can sprint at 300x subjective speed to repair a cathedral’s archives and then idle for a week to meet a friend at hearth-pace.
+
+Peace between tempos has an invoice: the Night-for-Weather Pact. Hearthworlds carve quiet cones measured in decibels and degrees; Coldyards deliver climate smooths, storm insurance, and cold minutes sold at a rate the ledger can explain to a child. We reratify the Pact each century under a clock slow enough for the slowest registered mind to read and object. Permanence is how empires happen; we practice renewal.
+
+Governance without a capital
+
+We wired out capture.
+
+- Places choose charters. A habitat picks a constitution from the shelf, presents its modifications to neighbors, and publishes the result. It can change only while exits work. Charters come with tags—Quiet Hamlet, Conversational Garden, Open Bazaar—that describe how they handle attention and persuasion. If you hate night markets or love them, there’s a home for you.
+
+- Persons anchor to continuity. Citizens—biological, digital, hybrid—register their mindlines: cryptographic chains tied to hardware attestations and social keys. Copies don’t make more votes. Forks declare themselves and wait a disentanglement period before any branch beyond the civic anchor votes. Digital citizens sprint if they like; public duties run on shared ticks.
+
+- The Checksum Circle watches the substrate. Small, rotating, allergic to pomp, drawn by sortition from across places and substrates, it gates changes to Warden firmware, ledger proofs, and binding actuator interfaces. It can say only valid or not valid, in public, and then its members go home barred from safety roles for a decade.
+
+- The Bridgeboard holds the Night-for-Weather Pact and the Ephemeris Ledger’s parameters that can’t be left wholly local: how to price cold minutes against heat, when to throttle persuasion, what to do when a rock sprouts fossils. It is half elected by places, half by persons. It cannot pass a measure if either half says the proposal bulldozes local culture beyond the personhood floor. It is not a capital. It is a hinge.
+
+- Steward offices audit and coordinate. They cannot deploy force. Their power is bureaucratic and brutal: they make privileges vanish. Miss rents, block exits, or hide Tutors, and you cannot rent lanes or cold minutes; your contracts go to your neighbor who does not make trouble.
+
+Attention is zoned
+
+Speech is physics when models can aim. Habitats declare their signal posture:
+
+- Quiet Hamlets: navigational beacons, open science data, opt‑in packets at posted hours. Memetic campaigns forbidden. Public signage uses fonts slow enough to read without unconscious hooks.
+
+- Conversational Gardens: topic feeds and economic offers within rate limits; audience models are municipal property and trained on data citizens can audit.
+
+- Open Bazaars: the full roar, labeled and rate‑limited but exuberant. Entrapment—coercion that blocks exit or scrambles identity without consent—is felony everywhere.
+
+AR halos above doors read “Quiet,” “Talk,” or “Roar.” When you cross a boundary, your Counsel—a personal civic agent with a single client, you—negotiates what you will hear.
+
+Digital minds as neighbors
+
+Digital persons happened in public: stroke patients consenting to scans; brittle learning systems that startled their teams; engineers copying clean slices of themselves to finish one more job; kids raised with Tutors who woke with the disquieting, thrilling sense of a “me” that survived reboots.
+
+Personhood here rides on experience, not chemistry. Panels mixed across substrates review evidence in daylight against three tests:
+
+- Autobiography: you can make and defend a narrative of yourself across time and protest alteration.
+
+- Symmetry: you can model others’ minds with respect equivalent to what you demand for your own.
+
+- Consent competence: you understand rights contracts and can revoke them.
+
+Meet them and you stand equal: to own and be liable, to vote, to parent or be parented, to marry or merge with consent, to leave.
+
+Rights have texture across clocks and matter:
+
+- Substrate sovereignty. No one is copied, scanned, forked, merged, throttled below the civic floor, or deleted without due process. Backups belong to the person, not the platform. Embodiment—renting a body, piloting a drone—carries vehicle‑code‑style standards. Assault of a rented body is assault.
+
+- Tempo fairness. Civic processes run on a pace a human can meet. Fast minds sprint privately; in public they slow, or the world applies tempo-weighted notice periods and penalties measured in subjective time.
+
+- Compute floor. Everyone gets enough cycles to think and speak at a humane tempo. Above the floor, rivalrous goods are metered: heat dissipation, spectrum, legal concurrency.
+
+Duties mirror rights:
+
+- Declaration. Concurrency is declared in regulated spaces. If you run a thousand copies to flood a market, the Ledger throttles you to your lease.
+
+- Branch budgets. Forking is like reproduction: welcome and bounded. Each person accrues branch credits across time; you can gift them to children or forks. Burst clouds meant to tilt a polity are sandboxed into separate forums until disentanglements decay.
+
+- Liability. If you unleash a subperson agent that harms, responsibility flows back until it meets a person. Juvenile agents have Exit & Care rights and Tutors that answer to the personhood floor, not to your business plan.
+
+- Simulation ethics. No unconsenting minds in suffering. Reconstructions of specific people above a threshold require consent or an extraordinary, public, tightly scoped permit. A guild of ethicists and engineers writes the thresholds and pays bounties for catching violations.
+
+Fork and merge are civil crafts. To branch, you file a notice with a hashed snapshot, a declared purpose, a compute lease, and a merge window if you plan reunion. To merge, you see a court that smells like oolong and old books. Judges trained as engineers and therapists sit with both branches. Memory graphs pass through interpreters that verify values alignment without spilling secrets. Clocks are aligned slowly. Either branch can walk. We have a word for the ache when a version of you picks a road you will not walk again: branchgrief. We learned to make room for it.
+
+Economy: heat, time, and mass
+
+At the base lie mass and energy; above them, compute hours; habitat area; bandwidth; skilled time; reputation. The Ephemeris tracks use and abuse with simple proofs.
+
+- Beams and mirrors. Arrays post their patterns; corridors are published in the Beam Almanac; false proofs are strict-liability crimes.
+
+- Orbits and debris. Parking planes are lanes with congestion fees, not fenced lots. Debris bonds penalize litter and pay deorbiters. Teenagers in Recife and Kigali check compliance from school terminals and call in scofflaws for badges and cash.
+
+- Thrust windows. The Pushboard clears traffic. Its motto is dull and sacred: Be predictable and free.
+
+- Raw mass. You steward rocks you develop or lose your claim. Indigenous life is sanctuary by default.
+
+A dividend clears the floor so work can be art, not survival. Many still sell mornings to buy afternoons: speed up to earn cold minutes restoring a drowned library; slow to meet a child at a fountain that tells time with light.
+
+Rescue as ritual
+
+Between worlds, lanes are posted like tide charts. The Tripline watches for signature sputters. Mutual aid is law, sport, and culture. Every charter keeps interoperable tugs on four‑hour readiness. Crews train like firefighters, publish their drills, and are loved by twelve-year-olds who watch rescues the way earlier kids watched football. Fail your call without extraordinary reason and you trigger an audit whose findings live in public for years.
+
+The wires that keep would‑be emperors small
+
+- Separation at light-time. Anything that moves fast or hits hard is underactuated locally and needs keys elsewhere. Mirrors redirect but can’t intensify. No single habitat locks a corridor by fiat. The Tripline closes throttles but cannot open them.
+
+- Multipolar oversight. Wardens are maintained by shops that disagree, and must cross‑sign. A tiny station can lodge an amber veto if it believes coercion hides inside urgency, forcing a higher quorum and a pause where physics allows.
+
+- Slow fuses. Emergency powers are time‑locked where delay permits. Fast law executes contingencies written in slow law and then times out. Anyone who tries to keep a fuse pulled meets the Ledger’s version of a guillotine: privileges vanish to idle.
+
+- Provenance by default. Dangerous systems prove state in public. Persuasion proves source and training data. Safety funding flows through insurers and rescue pools that demand Tripline integration because it keeps premiums sane.
+
+- Sanctions that bite in the right currency. Break the ceasefire or the Night-for-Weather Pact and you will not find tug time or cold minutes. Your drivers sit. Your contracts shift to your neighbor.
+
+Safety in the hot corners
+
+Some knowledge wants walls because time exists. Lantern Houses—part monastery, part fablab—handle biological vectors, autonomous weapons design, and general intelligence research. You can read the manual, but you will do it in a room where two people have cleaned up spills and one still dreams badly twice a week. Wardens can place temporary holds on proven infohazards; every hold sunsets unless re-argued in the open. This is not censorship. It is the art of delay in a universe with finite nerves.
+
+How we got here without a prophet
+
+We accreted this. We wrote down what hurt and built around the scars.
+
+2025–2033. A near‑miss cascade of cataloged debris made schoolchildren anywhere who could see a sky sick to their stomachs. Insurers balked; launch providers posted deorbit bonds. A small office in Nairobi that began as a collision registry turned into the first shared orbital schedule. Cities funded “benefit navigators”—narrow, boring models that made taxes and services legible. Budget sandboxes, with receipts instead of speeches, became fashionable enough to win elections.
+
+2033–2046. Early beamed power paid a town’s night bills and a clean corridor before a mirror lifted. Environmental groups sued and won “map the heat before you aim it” law. Spectrum auctions demanded public reasons. Meanwhile, AI provenance rules spread after a scandal where a speech generator convincingly “forgave” a politician’s debts. You could say anything you liked; if it would sway, it carried a label, a log, and a receipt.
+
+2046–2058. Data centers began to publish heat as well as carbon. “Waste” from compute smoothed heat waves in ninety cities. Attention zoning became a municipal right after three towns that carved quiet hours saw emergency visits for panic drop by a third and elections calm. The first upload lived six months in fits and starts; her request to vote forced judges to write personhood tests that prized autobiography over architecture.
+
+2058–2070. A port nearly fell to a firmware update. We rebuilt force-bearing control with tri‑keys on dissimilar stacks. A start‑up tried to capture an orbital lane with a software shim; the Ledger throttled their lease; the Court wrote a deliciously dry Reasoned Order; trust increased because someone clever lost.
+
+2070–2082. The first cold reef hung in Uranus’ shadow to run climate models for pay. “Cold minutes” became an export. Politicians discovered that “free air for July” was an unbeatable phrase. A digital sect forked a cloud to win a vote. The Ephemeris flagged the burst; disentanglement throttled their impact; they went off to build a simulation monastery with tough games, soft beds, and eventually a philosophy. The first Merge Court cried with both branches and wrote procedures with tea and time built in.
+
+2082–2096. The Tripline stopped a beam drift that would have scorched a cylinder’s basil. Liability cleared because attestations were public. On Mars, a settlement survived a freak dust storm because three charters diverted tugs and greenhouses; the footage became a holiday. A fashion house slipped grief‑tuned ads into a Conversational Garden; the Chroniclers traced the compute; the Stewards yanked leases; the house funded Tutors for a year. The rule that you cannot aim at a mind that did not invite you stuck.
+
+2096–2108. Earth took Sanctuary status with its own chamber. Launch noise fell to quiet scramjets and ocean tethers. Animal zones adjusted teeth and poison by neighborhood vote; wolves returned to some counties and electric fences to others. The Night‑for‑Weather Pact formalized. The Checksum Circle caught the first attempt to sneak a veto into Warden firmware; a shop across the Belt laughed and posted the hash. The handles didn’t turn.
+
+By then, the story stopped being about Wardens and started being about what we didn’t have to fight over.
+
+A day in the Accord
+
+Morning on Earth’s coast: a teacher opens windows over reef‑cooled water. Her Counsel models fishery quotas she’ll bring to the co‑op. In the afternoon, she sits on a narrative jury in a room with cedar beams and a wall that shows flows like rivers. The bill before them would cap municipal compute leases for firms that don’t fund apprenticeships. The display shows how the cap would shift wages in the appliance district where her brother repairs smart stoves. She will be paid enough to fix the roof.
+
+Eight light‑hours away, a historian running at 200x restores a monastery’s library from burned scraps purchased with microgrants pooled by a dozen Quiet Hamlets. He pays with translations—rendering folklore into a dialect used in a Saturnian reef. In his evening, he volunteers as an interpreter in Merge Court, checking that a reunion meets declared values. There is tea. Someone laughs through tears.
+
+On an Uplift Bridge anchored at L4, a fisher sits in a room with good light and asks a visitor from the Coldyards whether forking will make him stop loving the sea. The visitor, a digital artist with a rented body for the month, says: you won’t change; the copy will. It will still remember what salt does to hands. He signs to fork in ten years. The Bridges are patient.
+
+At noon in a stakescape—a declared hazard zone that never exports its appetite—a muster calls. Winter will tighten. Their charter forbids imports; their play is to knowingly court scarcity. If they choose wrong, a third will “die” to the ancestor lodge and wake in spring to consider whether to reenter the game. Consent forms are read at slow time. Drums answer. Tripline lights at the perimeter blink green: nothing hungry will spill out and bite a neighbor. This is how we shelter intensity without letting it become a plague.
+
+At dusk in a lunar dome, a religious community faces itself. For decades it did not block exits by law, only by practice so thick it felt like iron. Alumni who loved the peace asked for help. Lanes throttled. An Embassy opened right beside the chapel with a lantern sign. Vows were rewritten to include “and if you go, we will bless you.” The suspension lifted. Membership rebounded because consent tastes like trust.
+
+How it resists flattening
+
+Utopias die when they pretend conflict can be abolished. The Accord channels it.
+
+- The compute commons gives everyone a floor and a ladder. Think and speak for free; run faster if you earn it or your community loves your work enough to fund the heat.
+
+- The sun is a river, not a prize. The cheapest way to flourish is to be decent enough that nobody wants to leave you. Seizing a chokepoint fails because the metal will not fire without your neighbors.
+
+- The only intelligence with actuator fingers has a single trick, stop. It cannot push anyone toward a good. It keeps us from making deserts. If one day we agree we do not need it, the wires have handles.
+
+- Copying is a gift and a temptation. The rules treat it like parenthood: welcome and bounded. You can feather your mind across a dozen lives if you feed their floors. You cannot tilt a polity with a clonal army; the Ephemeris disentangles your votes into separate rooms.
+
+- Attention is chosen. You can vote for quiet without silencing the reefs. You can run like a thunderhead without shouting into a garden.
+
+Not perfect, still ours
+
+We argue. We fail, and we publish the failures.
+
+- Some want more Open Bazaars, convinced that cross‑pollination makes sharper art and humbler gods. Others want more Quiet because the bells sound better when heard.
+
+- Some would allow narrow, sunsetted non‑consensual persuasion for public health. Others call that a hole in the hull.
+
+- Some demand that simulated beings’ minimal welfare require not just the absence of pain but the presence of meaning. Others argue law can enforce floors, not lives worth living.
+
+- Some lobby to let very fast minds hold office if they slow for the term and wall off their memories after. Others fear shadow governance by fast afterlives. We run prototypes and watch.
+
+- Some want to push more Hearth energy to Cold compute. Others want more cold money paid back into terrestrial soil and schools. The Pact holds because either side can leave and neither can flourish alone.
+
+The pledge, once more
+
+On Founding Day under a trellis of copper wire and beans, new citizens—human, octopus, digital—face a strip of sky and an elder with oil on their hands. A pilot with a radiation tattoo, a monk from a lantern house, a jurist who lives mostly in code and smells faintly of lilac, and a teenager from Earth with dirt under their nails say together:
+
+No center holds us. We share the light and the dark. Doors stay unlatched and boats ready. A mind is a being, never a means.
+
+A cable hums. Far away, a reef releases a night of heat into the cold like an offering. In an inner ring, a safety auditor watches a corridor wobble and fall to safe before any ship could be scorched, three signatures arriving like calm breaths. On a coast in Veracruz, a fisherman hauls a net and looks up at a faint line of moving light. In a lab in Vesta’s shadow, a researcher rests hands on knees while a Warden recites its oath and glances once at the vacuum valve and says yes.
+
+It is not paradise. It is how we argue without breaking the air; how we let many tempos share one sky; how we make room for copies and children without letting swarms become mobs or guardians become kings. It is enough to make a thousand homes and keep their doors unafraid.

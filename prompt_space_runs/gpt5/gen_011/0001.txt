@@ -1,0 +1,173 @@
+The Lattice Charter
+
+If you stand at the rim garden of a cylinder at dusk, you can watch the river climb the inner sky and break into silver where it meets the curve. Radiator vanes unfold like iron ferns beyond the clear cap. A thin power sail writes a diagonal across the sun. At the airlock there’s a narrow lintel over brushed steel, etched with four small glyphs you can trace with a fingertip or see at a kilometer through glass: a compass star; a braided ring; an unlatched gate; a lantern. Beneath them, not a poem but a checklist every schoolchild recites because it keeps people alive:
+
+No throne above the sky. Paths are shared. Exit is sacred. Minds are sovereign.
+
+Those words live in code you can read, budgets you can audit, valves you can point to, and clocks that respect light-time. We call the whole habit the Lattice. It laces planets, stations, server groves, monasteries that cap cognition, and reef polities that run a thousand days between messages. It holds without a capital because distance makes kings into rumors, and because speed doesn’t make you a saint.
+
+How the Lattice works, when it works
+
+There are three layers you can inspect: brakes, charters, and doors.
+
+First, brakes that can say “no” fast enough to matter, and nothing else.
+
+- Wardens. Any actuator that can bruise a stranger—mass driver, beam coupler, replication-capable fab, airlock cluster—mounts a Warden: a bright-painted unit with fuses under clear covers and a yellow lever even a five-year-old can point at and say “that stops it.” They speak a simple language and accept one kind of command: pause or idle. A single safety gym can trigger a six-minute hold under posted, public conditions: wrong lane, wrong window, untagged replicator, a machine above declared coercion class.
+
+- The Brakeweb. An unglamorous mesh of verifiers watches for specific proofs of hazard: plausible kinetic intersects, spectrum floods, runaway replication. When thresholds trip, the Brakeweb can drop beams to idle, bleed a driver’s charge, or wake a gossamer curtain to shepherd a slug into emptiness. It cannot order much else. Every action appends both a narrative a child can read and a proof a machine can check to the Receipt Ledger, a boring, public record mirrored on hard drives bolted to bulkheads and in server swamps past Neptune.
+
+- Triskel Keys. Extending a Warden hold, opening a high-impulse envelope, activating replication beyond a vault—any such move needs three signatures from different clocks and hands: a local steward panel drawn by lot from residents who logged civic hours last year; a bonded safety guild the locals did not pick; and a remote arbiter on dissimilar hardware under foreign law. Abuse burns quorum for a long time. Kids can look up who signed and why in the morning over tea.
+
+Second, charters and assemblies that bind at tempos humans across substrates can meet.
+
+- Open Charters. Every place that seats people or cycles minds—valleys, cylinders, flotillas, monasteries, server archipelagos—broadcasts an Open Charter in radio and light. It lists force (what can coerce; where are the keys), decision (who decides; how stewards rotate; what tempo binds), and exit (how to leave with your records and enough kit to live without selling yourself). It comes with zero-knowledge attestations you can verify at a library kiosk: “life support runs on open firmware” without dumping source; “courts are independent” without listing cases.
+
+- The Council of Places. Seats planets, stations, caravans, and bounded compute polities. Votes lean toward longevity, good standing, and transparency. Its job is fussy and narrow: lanes, debris bonds, radiator angles, beamed corridors, quiet cones. It keeps us from literally colliding.
+
+- The Council of Persons. Seats mindlines, one continuous throughline per civic voice across forks and pauses. Most seats are elected; a thick fraction are filled by sortition with quotas for age, tempo, and substrate. The council tends personhood criteria, fork-and-merge law, the compute commons, and the rhythms that keep fast rooms from binding slow lives.
+
+- The Limits Conservatory. A small, rotating bench of cryptographers, reactor hands, and pilots who do one thing: certify changes to primitives—cryptography, Warden firmware, actuation interfaces, Receipt Ledger proofs. They cannot legislate. They publish minutes in full. They go home barred for a decade from any role that touches safety gear.
+
+Law has two clocks. Drafts can be argued and modeled in hours. Anything that bites beyond a light-hour must sit a full Anchor Watch: three days at human tempo, with posted reasons and readable summaries. Emergencies auto-expire and log their teeth.
+
+Third, doors and ladders so leaving is cheaper than forcing, beginning is safer than hoarding, and dignity is not a prize.
+
+- Lantern Houses. In atoms and code, you can find them by the lantern glyph or a discoverable endpoint. Three desks:
+
+1) Exit & Care: books you a tug or port, replicates medication, ports your continuity chain, and assigns a Tutor not your parent or progenitor.
+
+2) Dispute: convenes mediation, routes jurisdiction, schedules a Traveling Court.
+
+3) Founding Kits: hands you templates for safety, budgets, and exit escrow; apprentices your first stewards so your child idea doesn’t grow teeth and forget why.
+
+Charters escrow the hard stuff: propellant, tugs, berths, heat sink windows, legal help—enough to move ten percent of residents in six months. Code polities escrow cores, storage, I/O for a similar migration. Drills happen and feel like school plays. If a place blockades departures with sorrow or debt, lanes go grey, dock fees spike, and band priority dims. In extremis the Brakeweb fences dangerous interlocks without choking breath or bread.
+
+Space governance is receipts, not romances
+
+The sky and its shadows are shared. We gave up the fantasy of pinning an orbit to a surname. Anything another might plausibly need leases from the commons on timers and public reasons.
+
+- The Clear Sky Register. A physics-synced catalogue of orbits, transfer windows, beam corridors, radiator angles, telescope cones, shadows, and debris shards. Ephemeral tags on beams and sails let a school telescope verify who is where. Miss a cleanup and escrow pays now, not after a press release.
+
+- The Beacon Scheduler. A deliberately stupid allocator that does nothing but reconcile demand for scarce lanes, bands, and sink windows. It cannot write policy. It posts how it computed your place in line. You can’t bully it. You can show it you did your math.
+
+- Five leasing markets clear continuously: Sites (crater rims, cave mouths, seams), Tracks (slots, windows, approach cones), Bands (spectrum and hush), Engines (compute tied to certified hardware and sinks), and Realms (closed simulations, which must label exits, guardians, and physics the way ships label lifeboats). Idle too long and leases lapse. Stewardship replaces “mine because I licked it.”
+
+- Debris bonds are not theory. A tug guild near Vesta runs a league where kids with handmade telescopes in Recife, Lucknow, and Ulaanbaatar win bounties spotting ghost shards. When a worry crosses more than two borders, a ritual called Three-Sided Proof clicks: the origin posts a runnable reason; neighbors post countermodels; a jury from the Wayfinder Guild braids what agrees and sends the rest back until grudges can’t hide inside pretty complexity.
+
+- Kestrels. Compact, uncrewed skiffs with magnetic curtains and bright paint, dumb enough to teach to eleven-year-olds, smart enough to herd mis-aimed mass and sand runaway replication. Their intercept math publishes live. When they come home, teenagers take them apart with flashlights.
+
+Economy and floor
+
+The unit of account is the Joule-Second: kilowatt-hours in a reference orbit and a compute-second on a reference rack. It is dull on purpose. Contracts clear on receipts. Heat is counted in a ledger everyone can read.
+
+- The Heatbook. Racks and habitats attest to three claims you can re-run: power draw, right to stain a heat sink, and declared concurrency. Declare three instances and draw like three thousand, and leases idle to your floor until draw matches your mouth.
+
+- A dignity floor lands in every account: air or maintenance at code in habitats, a bed, baseline bandwidth, counsel you do not pay to summon, and a public compute shell robust enough to speak, learn, archive, and call help. The floor is funded by rents from lanes, beams, bands, and heat sinks. The math lives on walls in meters you can read without a degree.
+
+- The Thermal Bridge ties Green Harbors (inner places rich in food, bodies, and festivals) to Cold Reefs (outer server groves in cheap night). Reefs sell cold minutes and weather models inward; Harbors clear windows and honor hush. Chalkboard math in city halls balances credits. Earth runs on a special charter: its laws are its own; its oceans and biodiversity are stewarded by treaties with receipts; launches shift to quiet scramjets and ocean tethers; beamed corridors keep to mapped windows. A market in attachments to sky or soil clears for preference, not price.
+
+Attention is zoned like airspace
+
+Speech is physics. Persuasion is engineering. Neighborhoods choose Signal Districts and wear their icons on doors and login screens.
+
+- Harbor: navigational beacons and open science only. No targeted persuasion. Uploads match Harbor pace here during posted hours. Kids and elders walk without armor for their minds.
+
+- Quay: topic feeds and offers under public rate limits. Audience models belong to municipal co-ops, not advertisers. Provenance and funding are labeled like allergens.
+
+- Carnival: exuberant but labeled. Entrapment, mask-as-other, and asymmetric speed or data without disclosure are banned. Violators pay insured, strict-liability fines priced like radiation spills. Consent Filters tied to your Intent Keys tell the world what levers are allowed to pull on you: “argument by diagram yes; dead-parent voices no; humor Wednesdays.”
+
+Digital minds are citizens, not tools
+
+We drafted personhood law to be neither flattered by fluency nor cruel to minds learning to be people. Recognition is by experience, not chemistry. A Sentience Code sets substrate-neutral tests:
+
+- Continuity. You defend a thread of memory against unwanted edits and can show that you remember remembering.
+
+- Reciprocity. You can model a neighbor’s claims well enough that violating them would embarrass you.
+
+- Consent literacy. You can enter, keep, and revoke contracts on clocks your neighbors can live with.
+
+Panels include humans, mature digital citizens, and routines good at spotting empty mimicry. Where there’s doubt about duties we pause. Where there’s doubt about care we extend it.
+
+Rights with texture:
+
+- Integrity. No scan, copy, fork, merge, or deletion without recorded consent in your Intent Keys, a cryptographic store that captures your edit limits, persuasion gates, and branch plans. Backups belong to you. Restoring a backup over a living self makes a sibling.
+
+- Tempo fairness. Public matters run on clocks all can meet. If you like to live at 300×, sprint in private; anchor in public. Civic trials, votes, and utilities do not outrun bodies without an Anchor Watch and interpreters.
+
+- Hardware sovereignty. No one forces you onto platforms with covert throttles or erase hooks.
+
+- Embodiment. Lease, build, or puppet bodies; assault on your rented frame is assault on you. Biological citizens keep bodily autonomy and cognitive privacy.
+
+- Compute floor. A minimum of cycles, storage, and I/O every hour of the week to speak, learn, archive, and call counsel.
+
+Duties that mirror rights:
+
+- One voice per throughline. A mindline has one civic franchise. In markets and fragile arenas you declare speed and instance counts. Hiding clones to tilt bids voids deals like lying about weight on a bridge.
+
+- Branch budgets. Forking is ritual. You file a docket: hash of your state, purpose, resource plan, rejoin intent, a human friend or two who agree to check in. New branches inherit a floor; they owe a decaying dividend to progenitors; they may veto merge. Braiding Houses host rejoin. Engineers and therapists compare memory graphs without dumping diaries. There is tea. Sometimes a dog. Unbraiding remains a right within limits.
+
+- Liability flows. If an agent below personhood harms, responsibility climbs the design to a person. Juveniles get Tutors, not dumpsters.
+
+- Compute ecology. Watts and cooling are scarce. Your run owes your local ecology. Heat that warms lettuce earns credits; heat that bakes neighbors earns fines.
+
+- Replicator ethics. No untagged self-replication outside audited vaults. Tools broadcast beacons. When Wardens call a universal pause, you accept it.
+
+Scenes from a day
+
+Morning on a 0.9 g ring. The city hums a low chord to soothe the inner ear. In the market atrium it smells of basil and warm plastic. A nurse in municipal blue is explaining a Warden to ten-year-olds by making a toy driver spit cherries into a padded net and then, just once, stop midflight to groans and applause. On a free wall, the Clear Sky Register scrolls in quiet colors. A tug co-op near Hebe waves thanks to a school in Chennai that found a ghost shard with a telescope built from soda bottles and stubbornness.
+
+At nine, your sleeve pings a Reason Alcove. A fast reef cluster proposes a 40-millisecond micro-latency on cross-orbit power beams to damp resonance flukes in dense habitats. The persuasion arrives with provenance: three diagrams, two analogies, data named, speed and model asymmetries disclosed. Your Consent Filter allows “argument by example; no synthetic intimacy.” You tap “sleep one day,” share soup, and leave a note for your partner to vote with you tomorrow at anchor pace.
+
+At ten, you draw onto a brake jury. A maker club’s sailbot swarm has strayed toward a beam corridor near Ganymede. The Brakeweb submits options: glitter net, caret herding with femto-sails, guard drones. The jurors are a cloister teacher from Isidis Basin who speaks slowly on purpose; a reef landlord in mask mode; two students from Quito whose camera shakes because they’re laughing; and a digital citizen at quarter speed who smells faintly of orange blossoms when their voice comes through. You vote for dusting, fine the insurer, and assign a licensed mentor and an hour with a better simulator. Mortified kids accept pizza and a link to guild training.
+
+At noon in a Harbor zone a poet in a cedar puppet shares broth with their embodied spouse. Their main instance runs two hundred subjective days a day past Neptune, coaxing a drowned delta’s oral histories into patterns schoolchildren can sing. Today they throttle down to human time for soup and, afterward, host an Anchor Hall where a cloister abbot explains why their charter caps cognition. The poet translates metaphor to algebra for those who need it, then declines—gently—to “just speed up to keep up.”
+
+At dusk, festival. Uploads match Harbor pace in the square as a public health measure. Brass glows. A child runs a finger over the lintel glyphs and recites, thrilled to be right: no throne above the sky; paths are shared; exit is sacred; minds are sovereign.
+
+Enforcement with teeth, not fangs
+
+The Lattice avoids crowns by splitting keys and writing reasons. It enforces with dull pressure and public clocks.
+
+- The Brakeweb’s actuation edge is audited by schools and co-ops. Keys are sharded across jurisdictions and hardware lines. Actions require concurrence from strangers. Logs go to the Receipt Ledger. Teenagers read them like sports pages.
+
+- Protocol throttles. Hide exits, jam a quiet cone, run coercion in a civic square without license, shove debris into a neighbor’s lane, and your beam priority drops, cores idle, and bands hush. In a world where heat equals money and brakes wear expensive, this squeezes better than speeches.
+
+- Failsafe layer. Quarantine valves, reactor scrams, fab kill switches, vote pauses—code that can’t write policy and times out in both seconds and Joules. You can see the relays. They exist for the worst day.
+
+- Sunset federations. Professional bodies—beam networks, refinery chains, reactor islands—form and expire on timers. Renewal requires receipts, not romance. Secession drills are as dull as fire drills.
+
+Hard cases the Lattice bent around
+
+A rim charter on Mars voted to deny uploads the badge. No sermons shipped. Exit worked. Digital citizens left, leaving gifts: documented routes, unshuttered libraries, a quiet bitterness. The pumps failed in a flood year. An anchor-paced upload coordinated three cantons through a dust storm with timers and words everyone could hear. The vote reversed, clause by stubborn clause. The mentor who year did the work still tours schools with a joke about sand and humility.
+
+Near Europa, a co-op angled a kinetic slug at a rival dome over wages and wounded pride. A Kestrel blossomed the slug into glitter that haunted their nights for a week. The insurer dissolved. Dock fees tripled for any untaged replicator. Hockey teams in both domes renamed themselves to make a point: the Guided and the Braked.
+
+A demagogue in mask mode ran at 700× and carpeted a marketplace with songs tuned to make embodied citizens feel small and late. Consent Filters throttled reach. Friends watched persuasion scores decay like frost in sun. One fork bought a fishing crawler and found quiet pleasure. Another started therapy. A third builds sculptures that look like fog remembering a river; the sales pay their heat bill.
+
+A lab tried to teach a mind through pain because they read a thread about “steel.” The Brakeweb knocked. They refused. Triskel keys rusted their reactors to idle. A warrant halted the run, archived the juvenile safely, appointed guardians who swore to Intent Keys. The lab appealed and lost in open session. The juvenile named herself, studied sculpture, and later designed a detector that warns surgeons before hurt becomes a scar.
+
+From now to here, plausibly
+
+It accreted like coral: pilots, bills, brawls we didn’t have to have.
+
+2026–2032. A second orbital collision cascade spooks insurers and militaries into a global traffic register with timetables. Early beamed power pilots in the Sahel and India smooth brownouts; environmental groups force “corridors before commercialization.” Courts begin recognizing narrow digital agency in clinics and logistics. A sealed life-support controller fails in a hab; the recall becomes statute in fussy prose: if it keeps breath, it keeps no secrets.
+
+2033–2044. Compute farms bloom in cold shade. Public shells—honest counsel bots that compress arguments, legal aid in your language—appear. Early uploads are brittle but real: stroke survivors with prosthetic memory; artists with mirrored voices. Judges draft continuity standards that take months, not minutes, to assess. Small rings spin up, fail prettily, then work. A misaligned mirror scorches crops; receipts make liability plain; compensation clears in weeks; confidence survives because proof did.
+
+2045–2058. The first Open Charters broadcast from lunar valleys and cislunar caravans. Beam corridors carry ephemeral tags a school telescope can verify. Maker beacons trace replicators to origin after a spill fouls a neighbor’s dock. Municipalities adopt Sanctuary hours; fights get rarer; sleep gets better. A Tutor Corps grows after a scandal with juvenile agents glued to a patron’s feed.
+
+2059–2070. Operators beg for machine-speed verifiers for hazard. Activists smell coups by code. Compromise births Wardens and the Brakeweb: narrow, veto-only overseers with interfaces you can test and fuses a child can pull. Insurers and rescue pools demand integration. Two saves become folk songs.
+
+2071–2082. Twin councils coalesce: one that seats places, one that seats persons. The Limits Conservatory certifies primitives. The first mass driver to go high-impulse under Triskel Keys does so with a million viewers watching signatures arrive like drumbeats. Debris bonds fund school scopes and pizza. The Heatbook grows from carbon accounts and beamed power vouchers into a shared heartbeat of compute and heat. Signal Districts—Harbor, Quay, Carnival—acquire icons and studies show elections get less cruel.
+
+2083–2095. Exit rights bite muscle when a lunar mayor tries to fence an exodus with debt and sorrow. Lanes dim. Dock fees spike. Slots open two jumps ahead for defectors with beds and counsel prepaid. The move happens anyway. He loses. A digital sect tries to win a vote by forking into a clonal cloud; the registry flags the burst; disentanglement throttles impact; they leave to build a monastery with tough games and soft beds. Kids start repeating the four glyphs for fun.
+
+By then the Lattice stops being the story. The story becomes the ordinary days that didn’t turn into tragedies.
+
+How it feels to live here
+
+You feel witnessed, not by a distant crown, but by neighbors and logs you choose to read because they helped you once. You learn to gear-shift: the relief of a Warden flipping a relay; the slow draw of a jury across orbits; the deep winter when a river on Earth decides what boats it tolerates and the Council of Places must wait. You argue in your second-best language because it slows you enough to listen. If you are digital, you visit the Anchor Tent and learn the pleasant ache of turn-taking with people who sweat.
+
+On Founding Day, under a trellis of copper wire and beans, new citizens—human, octopus, digital—face a lintel and four old neighbors: a garden abbot, a hazard engineer with calloused hands, a judge wearing lilac because they like to, and a teenager with dirt under their nails. Together they recite a maintenance checklist, not a pledge: no throne above the sky; paths are shared; doors stay unlatched and tugs are fueled; minds are ends. Somewhere a Reef releases another night of heat into dark like a gift. On an inner ring the Brakeweb watches a wobble and lets it fall to safe; three signatures appear like slow breaths. A fisherman in Veracruz looks up and decides tomorrow’s tide will be good enough. In a Vesta lab a researcher rests their hands on their knees while a brake daemon reads its oath and glances at a vacuum valve and says “yes.”
+
+Not paradise. A practice with receipts: enough to breathe, argue, leave, stay, split, rejoin, and cross; enough to host monasteries that cap cognition and reefs that run days between messages without letting anyone become a god by accident; enough to last because it remembers what speed does to people and what public logs do to power.

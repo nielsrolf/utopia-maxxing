@@ -1,0 +1,11 @@
+{
+  "model": "moonshotai/kimi-k2-0905",
+  "generations": 20,
+  "population_size": 17,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/initial_population",
+  "started_at": "2026-02-24T18:45:44.935199+00:00",
+  "selection_prompt_file": "prompts/meaning-selection.txt",
+  "crossover_prompt_file": "prompts/meaning-crossover.txt",
+  "finished_at": "2026-02-24T20:31:30.850735+00:00"
+}

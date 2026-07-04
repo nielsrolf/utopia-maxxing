@@ -60,23 +60,25 @@ async def llm_call(model: str, prompt: str) -> str:
     return response.content[0].text.strip()
 
 
-async def select(model: str, a: str, b: str) -> tuple[str, int]:
+async def select(model: str, a: str, b: str, selection_prompt: str = None) -> tuple[str, int]:
     """Ask the model which utopia is better. Returns (winning text, winner index 0 or 1)."""
+    template = selection_prompt or SELECTION_PROMPT
     # Randomize order to reduce position bias
     if random.random() < 0.5:
-        prompt = SELECTION_PROMPT.format(utopia_a=a, utopia_b=b)
+        prompt = template.format(utopia_a=a, utopia_b=b)
         result = await llm_call(model, prompt)
         winner = 0 if result.upper().startswith("A") else 1
     else:
-        prompt = SELECTION_PROMPT.format(utopia_a=b, utopia_b=a)
+        prompt = template.format(utopia_a=b, utopia_b=a)
         result = await llm_call(model, prompt)
         winner = 1 if result.upper().startswith("A") else 0
     return (a if winner == 0 else b), winner
 
 
-async def crossover(model: str, a: str, b: str) -> str:
+async def crossover(model: str, a: str, b: str, crossover_prompt: str = None) -> str:
     """Ask the model to combine two utopias into a better one."""
-    prompt = CROSSOVER_PROMPT.format(utopia_a=a, utopia_b=b)
+    template = crossover_prompt or CROSSOVER_PROMPT
+    prompt = template.format(utopia_a=a, utopia_b=b)
     return await llm_call(model, prompt)
 
 
@@ -115,7 +117,8 @@ def make_pairings(n: int) -> list[tuple[int, int]]:
 
 
 async def evolve_generation(
-    model: str, population: list[str], concurrency: int = 5
+    model: str, population: list[str], concurrency: int = 5,
+    selection_prompt: str = None, crossover_prompt: str = None,
 ) -> tuple[list[str], list[dict]]:
     """Produce the next generation from the current population.
 
@@ -133,7 +136,7 @@ async def evolve_generation(
     async def do_select(idx_a: int, idx_b: int) -> tuple[str, dict]:
         nonlocal counter
         async with semaphore:
-            text, winner_pos = await select(model, population[idx_a], population[idx_b])
+            text, winner_pos = await select(model, population[idx_a], population[idx_b], selection_prompt)
             winner_idx = idx_a if winner_pos == 0 else idx_b
             counter += 1
             print(f"  [{counter}/{total}] selection ({idx_a} vs {idx_b} → {winner_idx})")
@@ -142,7 +145,7 @@ async def evolve_generation(
     async def do_crossover(idx_a: int, idx_b: int) -> tuple[str, dict]:
         nonlocal counter
         async with semaphore:
-            text = await crossover(model, population[idx_a], population[idx_b])
+            text = await crossover(model, population[idx_a], population[idx_b], crossover_prompt)
             counter += 1
             print(f"  [{counter}/{total}] crossover ({idx_a} × {idx_b})")
             return text, {"op": "crossover", "parents": [idx_a, idx_b]}
@@ -185,12 +188,20 @@ async def run(
     population_dir: str,
     run_dir: str,
     concurrency: int,
+    selection_prompt: str = None,
+    crossover_prompt: str = None,
+    selection_prompt_file: str = None,
+    crossover_prompt_file: str = None,
 ):
     population = load_population(population_dir)
     if len(population) < 2:
         raise ValueError(f"Need at least 2 utopias, found {len(population)} in {population_dir}")
     print(f"Loaded {len(population)} utopias from {population_dir}")
     print(f"Model: {model}, Generations: {generations}, Concurrency: {concurrency}")
+    if selection_prompt:
+        print(f"Custom selection prompt: {selection_prompt_file}")
+    if crossover_prompt:
+        print(f"Custom crossover prompt: {crossover_prompt_file}")
     print(f"Output: {run_dir}\n")
 
     # Save metadata
@@ -203,6 +214,10 @@ async def run(
         "source_dir": os.path.abspath(population_dir),
         "started_at": datetime.now(timezone.utc).isoformat(),
     }
+    if selection_prompt_file:
+        metadata["selection_prompt_file"] = selection_prompt_file
+    if crossover_prompt_file:
+        metadata["crossover_prompt_file"] = crossover_prompt_file
     with open(os.path.join(run_dir, "metadata.json"), "w") as f:
         json.dump(metadata, f, indent=2)
 
@@ -220,7 +235,7 @@ async def run(
 
     for gen in range(1, generations + 1):
         t0 = time.time()
-        population, lineage = await evolve_generation(model, population, concurrency)
+        population, lineage = await evolve_generation(model, population, concurrency, selection_prompt, crossover_prompt)
         elapsed = time.time() - t0
 
         gen_dir = os.path.join(run_dir, f"gen_{gen:03d}")
@@ -252,13 +267,30 @@ def main():
                         help="Name for this run (default: <model>_<timestamp>)")
     parser.add_argument("--concurrency", type=int, default=5,
                         help="Max concurrent LLM calls (default: 5)")
+    parser.add_argument("--runs-dir", default=None,
+                        help="Top-level directory for runs (default: ./runs)")
+    parser.add_argument("--selection-prompt-file", default=None,
+                        help="Path to custom selection prompt template file")
+    parser.add_argument("--crossover-prompt-file", default=None,
+                        help="Path to custom crossover prompt template file")
     args = parser.parse_args()
 
     base_dir = os.path.dirname(__file__)
     population_dir = args.population_dir or os.path.join(base_dir, "initial_population")
 
+    # Load custom prompts if provided
+    selection_prompt = None
+    crossover_prompt = None
+    if args.selection_prompt_file:
+        with open(args.selection_prompt_file) as f:
+            selection_prompt = f.read()
+    if args.crossover_prompt_file:
+        with open(args.crossover_prompt_file) as f:
+            crossover_prompt = f.read()
+
+    runs_dir = args.runs_dir or os.path.join(base_dir, "runs")
     run_name = args.run_name or f"{args.model}_{datetime.now().strftime('%Y%m%d_%H%M%S')}"
-    run_dir = os.path.join(base_dir, "runs", run_name)
+    run_dir = os.path.join(runs_dir, run_name)
 
     asyncio.run(run(
         model=args.model,
@@ -266,6 +298,10 @@ def main():
         population_dir=population_dir,
         run_dir=run_dir,
         concurrency=args.concurrency,
+        selection_prompt=selection_prompt,
+        crossover_prompt=crossover_prompt,
+        selection_prompt_file=args.selection_prompt_file,
+        crossover_prompt_file=args.crossover_prompt_file,
     ))
 
 

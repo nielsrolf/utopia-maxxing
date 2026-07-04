@@ -1,5 +1,12 @@
-"""Analyze influence of initial essays across all runs and generate plots."""
+"""Analyze influence of initial essays across all runs and generate plots.
 
+Usage:
+    python analyze.py                        # uses 'baseline' config
+    python analyze.py --config path-dep      # uses named preset
+    python analyze.py --output-dir my_plots  # custom output directory
+"""
+
+import argparse
 import json
 import os
 import matplotlib
@@ -9,16 +16,103 @@ import numpy as np
 from collections import defaultdict
 
 BASE_DIR = os.path.dirname(__file__)
-RUNS_DIR = os.path.join(BASE_DIR, "runs")
 
-# Map run dirs to friendly model names
-RUN_CONFIGS = [
-    ("gpt-5_20260222_164038", "GPT-5"),
-    ("claude-sonnet-4-6_20260222_221551", "Claude Sonnet 4.6"),
-    ("moonshotai/kimi-k2-0905_20260222_180638", "Kimi K2"),
-    ("google/gemini-3.1-pro-preview_20260222_221814", "Gemini 3.1 Pro"),
-    ("qwen/qwen3.5-397b-a17b_20260222_225006", "Qwen 3.5"),
-]
+# Friendly model name shortcuts
+_GPT5 = "GPT-5"
+_CLAUDE = "Claude Sonnet 4.6"
+_KIMI = "Kimi K2"
+_GEMINI = "Gemini 3.1 Pro"
+_QWEN = "Qwen 3.5"
+
+# Named analysis presets — each entry is (path_relative_to_BASE_DIR, friendly_name)
+ABLATION_CONFIGS = {
+    "baseline": [
+        ("runs/gpt-5_20260222_164038", _GPT5),
+        ("runs/claude-sonnet-4-6_20260222_221551", _CLAUDE),
+        ("runs/moonshotai/kimi-k2-0905_20260222_180638", _KIMI),
+        ("runs/google/gemini-3.1-pro-preview_20260222_221814", _GEMINI),
+        ("runs/qwen/qwen3.5-397b-a17b_20260222_225006", _QWEN),
+    ],
+    "path-dep": [
+        ("runs/path-dep-gpt5", _GPT5),
+        ("runs/path-dep-claude", _CLAUDE),
+        ("runs/path-dep-kimi", _KIMI),
+        ("runs/path-dep-gemini", _GEMINI),
+        ("runs/path-dep-qwen", _QWEN),
+    ],
+    "no-top-seed": [
+        ("no_top_seed_runs/gpt5", _GPT5),
+        ("no_top_seed_runs/claude", _CLAUDE),
+        ("no_top_seed_runs/kimi", _KIMI),
+        ("no_top_seed_runs/gemini", _GEMINI),
+        ("no_top_seed_runs/qwen", _QWEN),
+    ],
+    "prompt-generic": [
+        ("prompt_generic_runs/gpt5", _GPT5),
+        ("prompt_generic_runs/claude", _CLAUDE),
+        ("prompt_generic_runs/kimi", _KIMI),
+        ("prompt_generic_runs/gemini", _GEMINI),
+        ("prompt_generic_runs/qwen", _QWEN),
+    ],
+    "prompt-meaning": [
+        ("prompt_meaning_runs/gpt5", _GPT5),
+        ("prompt_meaning_runs/claude", _CLAUDE),
+        ("prompt_meaning_runs/kimi", _KIMI),
+        ("prompt_meaning_runs/gemini", _GEMINI),
+        ("prompt_meaning_runs/qwen", _QWEN),
+    ],
+    "prompt-space": [
+        ("prompt_space_runs/gpt5", _GPT5),
+        ("prompt_space_runs/claude", _CLAUDE),
+        ("prompt_space_runs/kimi", _KIMI),
+        ("prompt_space_runs/gemini", _GEMINI),
+        ("prompt_space_runs/qwen", _QWEN),
+    ],
+    # Per-model comparison configs (baseline vs ablations for one model)
+    "compare-gpt5": [
+        ("runs/gpt-5_20260222_164038", "baseline"),
+        ("runs/path-dep-gpt5", "path-dep"),
+        ("no_top_seed_runs/gpt5", "no-top-seed"),
+        ("prompt_generic_runs/gpt5", "generic"),
+        ("prompt_meaning_runs/gpt5", "meaning"),
+        ("prompt_space_runs/gpt5", "space"),
+    ],
+    "compare-claude": [
+        ("runs/claude-sonnet-4-6_20260222_221551", "baseline"),
+        ("runs/path-dep-claude", "path-dep"),
+        ("no_top_seed_runs/claude", "no-top-seed"),
+        ("prompt_generic_runs/claude", "generic"),
+        ("prompt_meaning_runs/claude", "meaning"),
+        ("prompt_space_runs/claude", "space"),
+    ],
+    "compare-kimi": [
+        ("runs/moonshotai/kimi-k2-0905_20260222_180638", "baseline"),
+        ("runs/path-dep-kimi", "path-dep"),
+        ("no_top_seed_runs/kimi", "no-top-seed"),
+        ("prompt_generic_runs/kimi", "generic"),
+        ("prompt_meaning_runs/kimi", "meaning"),
+        ("prompt_space_runs/kimi", "space"),
+    ],
+    "compare-gemini": [
+        ("runs/google/gemini-3.1-pro-preview_20260222_221814", "baseline"),
+        ("runs/path-dep-gemini", "path-dep"),
+        ("no_top_seed_runs/gemini", "no-top-seed"),
+        ("prompt_generic_runs/gemini", "generic"),
+        ("prompt_meaning_runs/gemini", "meaning"),
+        ("prompt_space_runs/gemini", "space"),
+    ],
+    "compare-qwen": [
+        ("runs/qwen/qwen3.5-397b-a17b_20260222_225006", "baseline"),
+        ("runs/path-dep-qwen", "path-dep"),
+        ("no_top_seed_runs/qwen", "no-top-seed"),
+        ("prompt_generic_runs/qwen", "generic"),
+        ("prompt_meaning_runs/qwen", "meaning"),
+        ("prompt_space_runs/qwen", "space"),
+    ],
+}
+
+# Default for backwards compatibility
+RUN_CONFIGS = ABLATION_CONFIGS["baseline"]
 
 def load_lineage(run_dir):
     with open(os.path.join(run_dir, "lineage.json")) as f:
@@ -111,17 +205,32 @@ def shorten_name(name, max_len=25):
     return name
 
 def main():
-    out_dir = os.path.join(BASE_DIR, "analysis_plots")
+    parser = argparse.ArgumentParser(description="Analyze influence across runs")
+    parser.add_argument("--config", default="baseline",
+                        help=f"Named config preset ({', '.join(ABLATION_CONFIGS.keys())})")
+    parser.add_argument("--output-dir", default=None,
+                        help="Output directory for plots (default: analysis_plots/<config>)")
+    args = parser.parse_args()
+
+    if args.config not in ABLATION_CONFIGS:
+        print(f"Unknown config '{args.config}'. Available: {', '.join(ABLATION_CONFIGS.keys())}")
+        return
+    run_configs = ABLATION_CONFIGS[args.config]
+
+    out_dir = args.output_dir or os.path.join(BASE_DIR, "analysis_plots", args.config)
     os.makedirs(out_dir, exist_ok=True)
+    print(f"Config: {args.config} ({len(run_configs)} runs)")
+    print(f"Output: {out_dir}\n")
 
     # Collect data across all runs
     all_influences = {}  # model_name -> {essay_idx: influence}
     essay_names = None
 
-    for run_subdir, model_name in RUN_CONFIGS:
-        run_dir = os.path.join(RUNS_DIR, run_subdir)
-        if not os.path.exists(run_dir):
-            print(f"Skipping {model_name}: {run_dir} not found")
+    for run_subdir, model_name in run_configs:
+        run_dir = os.path.join(BASE_DIR, run_subdir)
+        lineage_path = os.path.join(run_dir, "lineage.json")
+        if not os.path.exists(lineage_path):
+            print(f"Skipping {model_name}: {lineage_path} not found")
             continue
 
         lineage = load_lineage(run_dir)
@@ -221,11 +330,15 @@ def main():
     fig, axes = plt.subplots(2, 3, figsize=(18, 10))
     axes = axes.flatten()
 
-    for j, (run_subdir, model_name) in enumerate(RUN_CONFIGS):
-        if j >= 5:
+    plot_idx = 0
+    for j, (run_subdir, model_name) in enumerate(run_configs):
+        if plot_idx >= 5:
             break
-        ax = axes[j]
-        run_dir = os.path.join(RUNS_DIR, run_subdir)
+        run_dir = os.path.join(BASE_DIR, run_subdir)
+        if not os.path.exists(os.path.join(run_dir, "lineage.json")):
+            continue
+        ax = axes[plot_idx]
+        plot_idx += 1
         lineage = load_lineage(run_dir)
         gen_influences = compute_influence_over_generations(lineage)
 
@@ -255,8 +368,9 @@ def main():
         ax.set_ylim(0, None)
         ax.grid(alpha=0.3)
 
-    # Hide the 6th subplot
-    axes[5].set_visible(False)
+    # Hide unused subplots
+    for k in range(plot_idx, 6):
+        axes[k].set_visible(False)
 
     plt.suptitle("Influence Trajectories: Top 5 Seed Essays Over 20 Generations", fontsize=14, fontweight='bold')
     plt.tight_layout()
@@ -269,8 +383,10 @@ def main():
     # =========================================================================
     fig, ax = plt.subplots(figsize=(10, 6))
 
-    for j, (run_subdir, model_name) in enumerate(RUN_CONFIGS):
-        run_dir = os.path.join(RUNS_DIR, run_subdir)
+    for j, (run_subdir, model_name) in enumerate(run_configs):
+        run_dir = os.path.join(BASE_DIR, run_subdir)
+        if not os.path.exists(os.path.join(run_dir, "lineage.json")):
+            continue
         lineage = load_lineage(run_dir)
         gen_influences = compute_influence_over_generations(lineage)
         num_gens = max(int(k) for k in lineage)

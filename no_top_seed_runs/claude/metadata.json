@@ -1,0 +1,9 @@
+{
+  "model": "claude-sonnet-4-6",
+  "generations": 20,
+  "population_size": 16,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/population_no_utopia_lol",
+  "started_at": "2026-02-24T11:50:08.930583+00:00",
+  "finished_at": "2026-02-24T15:03:30.807157+00:00"
+}

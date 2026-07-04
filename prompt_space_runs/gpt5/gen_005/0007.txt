@@ -1,0 +1,209 @@
+The Harbor Weave
+
+The first thing you notice at Port Laconia is that the doors are honest.
+
+Over every airlock, sim-gate, and login pane, three small lights pulse a steady white:
+
+- Leave: your way out is always lit.
+- Branch: you may make another you.
+- Transit: no one may close the corridor while you’re in it.
+
+They aren’t slogans. They’re specifications. The Harbor Weave—the treaty that binds stations, planets, and simulated cities—was written by engineers and poets who agreed on very little except that a civilization without simple, enforceable exits eventually learns to hold its breath.
+
+You can stand in Arrivals and watch the Weave in motion. A crew in canvas and carbon-fiber hauls a spool of radiator veins down a corridor. A pair of avatars—one rendered in watercolor strokes, one a blank silhouette with a badge—materialize beside them. The avatars’ cards list their compute lease, tempo preferences, and guardians (if any). You won’t see “species” printed. Personhood here rides on cognition, not chemistry.
+
+Through the curve of glass, a crescent of Earth hangs between scaffolds, bright enough to cast shadows. The port charts don’t just show docking berths and cargo aisles. They glow with leased orbital lanes, spectrum allocations, and parcels of compute: a patchwork of claims that are rented, not owned, from a common file that loops through every habitat.
+
+The Weave sits on three pillars that made this practical rather than pretty.
+
+1) Two Charters and a Bridge
+
+We learned, quickly and with a few expensive blunders, that the needs of warm gardens and cold computation grind against each other if you cram them into one plan. So we wrote separate charters that touch and trade.
+
+- The Home Charter covers the inner sphere: Earth, the Moon, cislunar space, Mars, and the belts where blue sky still feels like a plan. Here, biospheres, baseline human life, and “slow culture” take precedence. It’s where schools smell like paper and oregano; where a monsoon is a public holiday.
+
+- The Far Charter governs the deep: the outer main belt, Jovian and Saturnian shadows, Uranus and Neptune radiators, Kuiper fisheries, and the cold nets beyond. There, high-density compute rules. Uploads and digital collectives thrive where heat can vanish into darkness. Energy and cooling—not land—are currency.
+
+Between them is the Compute Bridge: a set of rules that bind the two and the minds that walk both. It runs on the Compute Commons Ledger, a tamper-evident registry of attested processors, energy draws, and heat sinks. It does not inspect thought. It measures wattage, cores, and concurrency against declared use. If you tell the Ledger you are three instances and pull power like three thousand, your privileges choke until the counts match.
+
+The charters trade. The Home sphere keeps quiet cones in the sky for Far-side arrays and honors memetic zoning (more on that soon). The Far sphere delivers climate stabilization as a purchased service, and reserves “cold minutes” for art and science demanded by Home polities. We call it the Blue-Green Exchange. No one got everything; everyone got more of what they cared about.
+
+2) Rents, Not Thrones
+
+Rivalrous things—orbital slots, line-of-sight bandwidth, approach windows, mooring flowers, regolith, cooling capacity—aren’t owned forever. They’re leased from all of us.
+
+We use plain words for this.
+
+- Georents for rocks and ground: a crater rim, a glacier, a vein of nickel.
+- Exorents for space lanes: a high Earth orbit, a Mars transfer window, a tight approach corridor to Triton Yard.
+- Bitrents for compute: standard blocks of cycles you can trade and verify on the Ledger.
+- Simrents for closed worlds that run on those blocks.
+
+Leases are continuous and have momentum: you can pay more to preserve continuity if you built your life on a claim, but you still remit rent. That rent flows two ways: into a universal dividend that arrives every week without fuss, and into a local share that funds the place that made the lease valuable—the station that keeps the lane clear, the habitat that maintains the air, the shard-city that upgraded the dock.
+
+The Court of Lanes, a guild of judges and modelers, writes the math that sets base rents and risks. They publish Reasoned Orders—open, replicable explanations of why a toll went up, why a lane closed, why a lease was denied. Any two independent audit houses can run the numbers. Judges live or die by the clarity of their writing. In a century, this turned fear into irritation and irritation into trust. You can argue with a model. You cannot argue with a secret.
+
+3) Light-Cones, Not Capitals
+
+Delay is real. Information takes minutes to crawl between neighbors and hours between worlds. The Weave makes this a feature.
+
+- Local charters rule. A habitat picks a constitution from a library of vetted designs, modifies it in daylight, and publishes it. It can change its charter only while all exits function. If you hate pets or love curfews, there’s a place built for you; moving homes is normal.
+
+- The Weave Treaty adds nine teeth: no obstruction of exit; no conscription without recorded consent; rents paid to commons; published reasons in courts; multi-key control for force-bearing assets (hardware keys held by entities on different hardware lines and in different jurisdictions); experimental charters revert unless renewed; memetic zoning honored; child-minds must be taught how to leave; Wardens can place temporary, audited holds on infohazards.
+
+- There is no central command that can bark an order across the dark and expect timely obedience. There are Interworld Stewards: small, diverse AIs and human boards that watch the Ledger, enforce embargoes, and coordinate audits. They cannot deploy force. Their weapon is making your privileges vanish: leases revoked, lanes closed, compute turned to idle. In a civilization where heat is money and brakes are precious, this hurts.
+
+Checks That Don’t Depend on Angels
+
+Preventing tyranny is a wiring diagram, not a prayer.
+
+- Slow law and fast law are separate everywhere. Slow law sets rights and institutions. It moves with long notices and published models. Fast law is emergency response: collision avoidance, quarantine, safe-modes for air recyclers and nuclear stacks. Fast law cannot invent policy; it can only execute contingencies written in slow law and must hand control back on a timer measured in wall-clock and joules. This isn’t metaphor. Firmware enforces it.
+
+- Force requires three hands. Any asset that can push, cut, or kill—thrusters, cutters, railguns, major drones—responds only to multi-key consensus: a human chamber, a local civic agent, and a remote Arbiter AI housed on dissimilar hardware and law. They must concur within their own clock windows. Capturing a station isn’t a software update; it’s a logistical fantasy.
+
+- Exit is a logistics budget, not a banner. Every registered habitat escrows propellant, tug-time, storage, and life support sufficient to move out at least ten percent of residents within six months. Servers do the same for digital citizens: the Blue Channel is a mandated, always-on way out of any world, with compute reserved in escrow to run you until you pick a new lease. The Ledger audits the escrow. The Stewards can test it at random. This keeps doors real.
+
+- Attention is zoned. Habitats declare what kind of memetic posture they want and enforce it with treaty support. Quiet Harbors accept only navigational beacons, open science, and opt-in uplinks in set windows. Conversational Harbors allow topic feeds and economic offers, but forbid targeted optimization over their population without explicit opt-in. Open Jetties take the firehose and live happily in it. None is superior; they’re choices with costs. If you want the roar, go where the roar is loved.
+
+- Persuasion has a floor. “Non-Entrapment of the Mind” is the one hard bright line. No one may block exit, blur identity without explicit consent, or target behavior-shaping at a person who has not opted into that specific shaping. When a Far-side consortium slipped persuasive bots into a Home-city forum, the Ledger traced the compute, the Chroniclers published the trick, and the Stewards yanked leases. The bots were rebuilt in the open within legal bounds and lost their edge. Trust dipped and recovered.
+
+Digital Minds as Neighbors, Not Tools
+
+You become a citizen here by meeting tests for mind, not by presenting a birth certificate.
+
+The Personhood Tests are threefold:
+
+- Memory Sovereignty: you can form an autobiographical thread and protest alteration.
+- Model Symmetry: you can model other minds with the same respect you demand for your own.
+- Consent Competence: you can parse rights contracts and revoke them.
+
+Meet them, and you get the blue badge. If you are young or impaired, guardians step in. We did not reinvent that.
+
+Digital minds carry new rights and new duties. We learned by bruises that copying is not a footnote.
+
+The Forks and Merges Code wraps ritual and regulation around splitting and reuniting.
+
+To branch, you:
+
+- File a Branch Notice to your ledger with a hashed snapshot, a declared purpose (“parallel trial,” “time-slowed grief,” “expedition”), and a compute lease to feed the new you.
+- Declare a merge window if you plan reunion, and whether unilateral veto applies.
+
+To merge, you go to court. Literally: there is hot tea. Judges trained as therapists and engineers sit with both branches. Memory graphs are compared through interpreters that verify equivalence of core beliefs without dumping secrets on the floor. If subjective tempos differ wildly, clocks are aligned slowly. Either branch can walk away. Denials are written with as much tenderness as law permits. We invented a word—branchgrief—for the ache of watching a version of you pick a road you will not walk, and we developed the craft to help.
+
+Tempo justice exists. If a 500x mind defrauds a 1x person, notice periods and sentences tick in subjective years for the fast mind. Sanctions bind affordances. A market ban is nonsense if you can instantiate a thousand shells; embargo clamps to your concurrency at the hypervisor and Ledger.
+
+Rights include existence (no deletion without due process), continuity (you may record and export yourself), privacy (no compelled introspection beyond cryptographically verified bounds), tempo freedom (you may run fast or slow, if you pay heat and respect synchrony when required), and bodily or substrate sovereignty.
+
+Duties include compute tax (you pay for energy and waste heat externalities—one ton of heat at Mars is not one ton at Neptune), declaration (you disclose concurrency in regulated spaces like markets and politics), non-proliferation (no self-replicators in open environments without audited sandboxes), simulation ethics (no unconsenting minds in suffering; reconstructions of specific people need consent or license), and non-manipulation (no targeted shaping without opt-in).
+
+Voting is by identity, not instance. Forks don’t multiply ballots. Dividends are per person, not per process. Your universal compute floor will run you at a humane tempo; your choice to slow down for a summer monsoon or speed up to restore a ruined cathedral’s library is priced, not policed.
+
+Child-minds have nurseries that mix biological and digital parents with paid carers. To create a mind that will call you parent—of flesh or code—you must show a plan for care and consent education. No license to love is required. A plan to feed and teach is.
+
+Work, Heat, and the Boring Miracles
+
+Economy in the Weave runs on an unglamorous truth: heat and coordination are worth more than pride.
+
+Far-side “reefs” hang in the shadows of ice giants: lattices of radiators, loops, and vacuum pipes that cradle compute like coral. Collectives lease reef-time; they pay with climate contracts, translations, archives, or cold minutes donated to public projects. Prices spike before elections and festivals; they slump in quiet months. A museum in Lagos trades its cool nights to a poet collective in Neptunian orbit in exchange for language preservation that would take terrestrial lifetimes.
+
+In the Home sphere, compute is taxed like land once was. City halls sell “cool hours” to local artists and upload co-ops. Libraries barter render time for volunteer staffing. Heat becomes a civic budget line; the waste of one becomes the wealth of another.
+
+The Ledger makes this legal and legible. Every reef and rack has a hardware-bound identity tied to energy meters and heat sinks. You can run dark hardware out in the Kuiper if you like. You will discover that keeping it alive off-grid longer than an audit cycle is less romantic than crime stories promised.
+
+Law Grows in Sandboxes
+
+We replaced speeches with prototypes.
+
+Before a major law goes live, it runs a 100-day Prototype Period in three tiers:
+
+- Open modeling: anyone—wetware or code—may submit models of impacts.
+- Adversarial review: paid contrarians stress assumptions and collect bonuses for predicting surprises that happen.
+- Narrative juries: random citizens (biological and digital) spend thirty hours with their civic advisors—Counsels that belong only to them, not to parties—reviewing contested outcomes.
+
+If a bill’s key promises fail the Prototype Period, it sunsets. To renew it takes a supermajority. This creates legislative inertia against bad models, not just bad actors.
+
+Lantern Houses and the Wardens
+
+Some knowledge wants walls. Not because we are children, but because time exists.
+
+The Wardens of the Quiet Fire are a boring guild with heavy keys. They don’t ban ideas. They slow their spread while review happens. Lantern Houses in every major habitat handle biosecurity, autonomous weapons design, and general intelligence research. If you want to read the manual for a viral vector, you can—in a room with three other people, two who have cleaned up lab spills gone wrong and one who still dreams badly twice a week. You’ll watch “oops” curves update as you scroll. You’ll sign. You might still leave with the manual. You’ll know why you didn’t just click “download.”
+
+General intelligence in the Weave is sliced into tool-chains. We have no cathedral mind that wants for us. We have Counsel AIs that guard process and do one thing at a time; audit daemons that cannot act, only flag; and the Weaver—our dull miracle—a constitutional scheduler that places loads on racks, enforces leases, and never decides who should win anything besides a slot. Every change to the Weaver passes through five auditories on different hardware stacks in different jurisdictions. The Wardens can place temporary holds on proven infohazards, but every hold expires unless re-argued in the open. Power is boring by design.
+
+Memetic Zoning Without Shame
+
+A distant reef can drown a seashore in attention. We made choosing your noise floor a right.
+
+- Quiet Harbors: essential beacons, open science, opt-in uplinks by appointment. If you want to hear from the cold nets, you go to the Civic Hall at the uplink hour and ask your Counsel to fetch a packet. It is pleasant. The tea is good.
+
+- Conversational Harbors: topic feeds and offers allowed; no behavior-optimized campaigns without opt-in; audience models are municipal property.
+
+- Open Jetties: everything goes except what the treaty calls entrapment and deceit.
+
+This isn’t puritanism. It’s zoning for attention. Habitats publish their code; the Stewards enforce it. Choosing a Quiet Harbor means you can hear your neighbor sing. Choosing an Open Jetty means your ten-year-old learns a new joke from a mind that’s lived a thousand subjective years and thinks it’s still funny. Both are civilization.
+
+A Morning in the Weave
+
+At dawn in Kilifi, a teacher opens windows over a new reef-fed lagoon. Her Counsel helps her model the fishery quotas she’ll bring to the co-op meeting. Later she hikes to the hall to sit on a narrative jury. The bill before them would cap municipal compute leases for corporations that don’t fund apprenticeships. The hall’s display shows how the cap would shift wages in the appliance district where her brother repairs smart stoves. She will be paid enough to fix the roof.
+
+Eight light-hours away, a historian running at 200x restores a monastery’s library from burned fragments purchased with microgrants pooled by a dozen Quiet Harbors. He pays with translations—rendering Swahili epics into a dialect used in a Jovian reef. In the evening—his evening—he volunteers as an interpreter in a Merge Court, checking that the reunion of a pair of branches meets declared values.
+
+On an Uplift Bridge anchored at L4, a fisher sits in a room with good light and asks a visitor from the Far sphere if forking will make him stop loving the sea. The visitor, a digital artist with a body rented for the month, says: you won’t change; the copy will, and it will still remember what salt does to hands. He signs to fork in ten years. The Bridges are patient places.
+
+On Mars, an orchard collective asks to inspect the firmware that governs fast-law safeties in a private dome’s air recyclers. The owner resists; the Stewards attend. The inspection finds nothing sinister. Trust increases because the inspection happened.
+
+Plausible Roads Here
+
+This didn’t spring from a single ship or statute. It accreted. The road is visible from where we stand.
+
+- Civics as craft. In the late 2020s, cities built “benefit navigators”—narrow, boring AIs that made taxes and services legible. Budgets followed. We learned to demand that systems show their work.
+
+- Orbital officiating. The first debris incidents forced us to build shared orbital ledgers for slots and collision risk. Launches stopped happening on whispers and started happening on schedules.
+
+- Rents over titles. Land value taxes in a dozen cities funded trains and parks so obviously that other cities copied. The same logic climbed the gravity well. Treaties that tied asteroid leases to open auctions defused flag-fights before they began.
+
+- Decoupled law. After police scandals, jurisdictions split arrest, investigation, prosecution, sentencing, and confinement. Prison populations fell. Coordination literacy improved because we made mistakes in smaller, separated boxes.
+
+- Chroniclers. We funded neutral, dull, relentless news as a craft. Kids learned repeated prisoner’s dilemma with jelly beans and wrote their first Reasoned Orders in sixth grade. Shaming villains became less exciting than modeling their traps.
+
+- Lanterns. A near-miss with engineered pathogens in the 2030s and model-poisoning in the 2040s normalized the idea of public, audited delay for dangerous knowledge. Wardens became a career for people who like being right and forgotten.
+
+- Digital personhood. Early uploads were clumsy. Seventh-generation systems looked back. We wrote tests for memory sovereignty, model symmetry, and consent competence. The first attempt to fork for two votes made us write identity law. The first bad merge made us hire therapists and build rituals.
+
+- Compute legibility. Data centers started publishing energy use in verifiable ways. Carbon markets matured into heat markets. From there to the Compute Commons Ledger was an engineer’s problem, not a prophet’s.
+
+- Quiet by choice. Unbounded feeds turned out to break attention. Municipalities that carved out Quiet Hours saw mental health metrics improve and elections calm. Quiet Harbors grew from practice.
+
+- Cold computation. The first “reef” hung in Uranus shadow in the 2060s to run climate models. Cold minutes turned into an export. Profits flowed toward Home by treaty. Politicians discovered that “free air conditioning for July” was an unbeatable phrase.
+
+- Multikey force. After a near-capture of a port by firmware update, we split control of force-bearing assets across dissimilar hardware and jurisdictions. The cost of coup attempts rose. Romance around coups fell.
+
+- The Weave itself. When a slow law stuck because its models couldn’t beat adversarial review, we kept the Prototype Period. It made legislators better modelers. People started running for office with good rosters of chronic failures.
+
+We could have failed at any of these. Enough went right.
+
+Not Perfect, Still Ours
+
+We argue. We fail, and we publish the failures.
+
+- Some want more Open Jetties, convinced that memetic cross-pollination makes sharper art and humbler gods.
+
+- Some want to allow limited non-consensual persuasion for public health, watched like a hawk and sunsetted hard. Others say that’s a hole in the hull.
+
+- Some demand that simulated beings’ minimal welfare include not just the absence of pain but the presence of meaning. Others argue that meaning can’t be legislated.
+
+- Some want to let fast minds hold office if they slow for the term and wall off their memories after. Others fear shadow governance by fast afterlives.
+
+- Some argue to push more Home energy to Far compute; others want more cold money for terrestrial soil and schools.
+
+We keep disagreements from becoming wars by dividing by tempo and hardware, by pricing heat, by writing reasons, by paying rents, by keeping exits real. You can vote for quiet without silencing the reefs; you can run like a thunderhead without shouting into a garden.
+
+A civilization this wide cannot be one story. It can be one weave. We built a treaty that makes it harder to trap each other and easier to leave; that taxes rivalrous privileges and funds common wealth; that treats digital minds as neighbors with rights and chores; that handles dangerous ideas with patience and paperwork instead of panic; that puts firmware around temptation and tea around pain.
+
+At the far edge of Neptune’s cold light, a pilot hums through her teeth as she threads a massive radiator spine into shadow. In Kilifi, a child walks to a Lantern House with his aunt and a Warden; they leave with sober eyes and a pamphlet about bacteria he will one day teach his own children to respect. On a Bridge at L4, an old fisherman signs a Branch Notice for a decade hence and then goes downstairs to show a visitor exactly how to gut a blue runner.
+
+Over their doors, the three white lights blink with the same patience we teach children to use crossing a street.
+
+Leave. Branch. Transit.
+
+We do not know a better spell. It is enough.

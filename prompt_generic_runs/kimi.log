@@ -1,0 +1,249 @@
+Loaded 17 utopias from /Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/initial_population
+Model: moonshotai/kimi-k2-0905, Generations: 20, Concurrency: 5
+Custom selection prompt: prompts/generic-selection.txt
+Custom crossover prompt: prompts/generic-crossover.txt
+Output: prompt_generic_runs/kimi
+
+Gen 0: 17 utopias (initial)
+  [1/18] selection (15 vs 2 → 2)
+  [2/18] selection (7 vs 10 → 7)
+  [3/18] selection (5 vs 4 → 5)
+  [4/18] selection (12 vs 13 → 12)
+  [5/18] selection (8 vs 6 → 6)
+  [6/18] selection (14 vs 1 → 14)
+  [7/18] selection (16 vs 3 → 3)
+  [8/18] selection (9 vs 12 → 12)
+  [9/18] selection (0 vs 11 → 0)
+  [10/18] crossover (1 × 16)
+  [11/18] crossover (3 × 0)
+  [12/18] crossover (2 × 4)
+  [13/18] crossover (12 × 5)
+  [14/18] crossover (13 × 9)
+  [15/18] crossover (11 × 14)
+  [16/18] crossover (6 × 2)
+  [17/18] crossover (10 × 15)
+  [18/18] crossover (8 × 7)
+Gen 1: 17 utopias (290.0s)
+  [1/18] selection (7 vs 1 → 1)
+  [2/18] selection (9 vs 3 → 3)
+  [3/18] selection (11 vs 6 → 11)
+  [4/18] selection (2 vs 16 → 16)
+  [5/18] selection (5 vs 12 → 5)
+  [6/18] selection (4 vs 13 → 13)
+  [7/18] selection (8 vs 14 → 8)
+  [8/18] selection (0 vs 1 → 0)
+  [9/18] selection (15 vs 10 → 10)
+  [10/18] crossover (1 × 0)
+  [11/18] crossover (6 × 7)
+  [12/18] crossover (3 × 11)
+  [13/18] crossover (14 × 2)
+  [14/18] crossover (10 × 3)
+  [15/18] crossover (4 × 8)
+  [16/18] crossover (5 × 16)
+  [17/18] crossover (15 × 9)
+  [18/18] crossover (13 × 12)
+Gen 2: 17 utopias (241.6s)
+  [1/18] selection (6 vs 10 → 10)
+  [2/18] selection (1 vs 4 → 4)
+  [3/18] selection (16 vs 15 → 16)
+  [4/18] selection (12 vs 7 → 7)
+  [5/18] selection (5 vs 6 → 6)
+  [6/18] selection (14 vs 11 → 14)
+  [7/18] selection (9 vs 13 → 9)
+  [8/18] selection (8 vs 2 → 2)
+  [9/18] selection (3 vs 0 → 0)
+  [10/18] crossover (7 × 15)
+  [11/18] crossover (11 × 16)
+  [12/18] crossover (4 × 3)
+  [13/18] crossover (14 × 0)
+  [14/18] crossover (1 × 14)
+  [15/18] crossover (2 × 5)
+  [16/18] crossover (12 × 13)
+  [17/18] crossover (9 × 10)
+  [18/18] crossover (6 × 8)
+Gen 3: 17 utopias (366.9s)
+  [1/18] selection (12 vs 6 → 12)
+  [2/18] selection (14 vs 4 → 14)
+  [3/18] selection (2 vs 16 → 16)
+  [4/18] selection (10 vs 0 → 0)
+  [5/18] selection (9 vs 8 → 8)
+  [6/18] selection (13 vs 7 → 13)
+  [7/18] selection (11 vs 15 → 11)
+  [8/18] selection (3 vs 16 → 3)
+  [9/18] selection (5 vs 1 → 1)
+  [10/18] crossover (6 × 9)
+  [11/18] crossover (14 × 3)
+  [12/18] crossover (4 × 12)
+  [13/18] crossover (1 × 0)
+  [14/18] crossover (15 × 2)
+  [15/18] crossover (5 × 16)
+  [16/18] crossover (11 × 10)
+  [17/18] crossover (7 × 8)
+  [18/18] crossover (13 × 4)
+Gen 4: 17 utopias (331.9s)
+  [1/18] selection (5 vs 14 → 5)
+  [2/18] selection (9 vs 12 → 12)
+  [3/18] selection (7 vs 4 → 7)
+  [4/18] selection (0 vs 2 → 2)
+  [5/18] selection (13 vs 1 → 1)
+  [6/18] selection (8 vs 3 → 3)
+  [7/18] selection (15 vs 10 → 15)
+  [8/18] selection (16 vs 11 → 16)
+  [9/18] selection (11 vs 6 → 11)
+  [10/18] crossover (6 × 7)
+  [11/18] crossover (15 × 0)
+  [12/18] crossover (5 × 11)
+  [13/18] crossover (8 × 10)
+  [14/18] crossover (16 × 14)
+  [15/18] crossover (1 × 12)
+  [16/18] crossover (3 × 4)
+  [17/18] crossover (2 × 13)
+  [18/18] crossover (9 × 14)
+Gen 5: 17 utopias (323.8s)
+  [1/18] selection (5 vs 12 → 5)
+  [2/18] selection (2 vs 11 → 2)
+  [3/18] selection (14 vs 16 → 14)
+  [4/18] selection (3 vs 4 → 4)
+  [5/18] selection (13 vs 10 → 10)
+  [6/18] selection (1 vs 7 → 7)
+  [7/18] selection (15 vs 6 → 6)
+  [8/18] selection (8 vs 0 → 0)
+  [9/18] selection (9 vs 4 → 4)
+  [10/18] crossover (15 × 9)
+  [11/18] crossover (7 × 2)
+  [12/18] crossover (5 × 11)
+  [13/18] crossover (13 × 0)
+  [14/18] crossover (4 × 1)
+  [15/18] crossover (14 × 12)
+  [16/18] crossover (8 × 10)
+  [17/18] crossover (6 × 1)
+  [18/18] crossover (3 × 16)
+Gen 6: 17 utopias (262.7s)
+  [1/18] selection (6 vs 0 → 0)
+  [2/18] selection (11 vs 15 → 11)
+  [3/18] selection (13 vs 14 → 14)
+  [4/18] selection (8 vs 3 → 3)
+  [5/18] selection (1 vs 9 → 1)
+  [6/18] selection (5 vs 12 → 12)
+  [7/18] selection (10 vs 3 → 10)
+  [8/18] selection (4 vs 2 → 4)
+  [9/18] selection (7 vs 16 → 7)
+  [10/18] crossover (16 × 8)
+  [11/18] crossover (5 × 1)
+  [12/18] crossover (3 × 13)
+  [13/18] crossover (0 × 7)
+  [14/18] crossover (14 × 8)
+  [15/18] crossover (6 × 10)
+  [16/18] crossover (11 × 2)
+  [17/18] crossover (9 × 12)
+  [18/18] crossover (15 × 4)
+Gen 7: 17 utopias (327.6s)
+  [1/18] selection (14 vs 16 → 14)
+  [2/18] selection (7 vs 0 → 0)
+  [3/18] selection (12 vs 11 → 11)
+  [4/18] selection (13 vs 15 → 13)
+  [5/18] selection (1 vs 9 → 1)
+  [6/18] selection (2 vs 3 → 2)
+  [7/18] selection (10 vs 6 → 10)
+  [8/18] selection (5 vs 4 → 5)
+  [9/18] selection (8 vs 5 → 5)
+  [10/18] crossover (15 × 6)
+  [11/18] crossover (10 × 13)
+  [12/18] crossover (7 × 9)
+  [13/18] crossover (14 × 4)
+  [14/18] crossover (11 × 2)
+  [15/18] crossover (16 × 12)
+  [16/18] crossover (5 × 3)
+  [17/18] crossover (1 × 4)
+  [18/18] crossover (8 × 0)
+Gen 8: 17 utopias (315.6s)
+  [1/18] selection (14 vs 13 → 13)
+  [2/18] selection (12 vs 3 → 3)
+  [3/18] selection (16 vs 15 → 15)
+  [4/18] selection (6 vs 0 → 0)
+  [5/18] selection (9 vs 8 → 8)
+  [6/18] selection (7 vs 5 → 7)
+  [7/18] selection (10 vs 2 → 2)
+  [8/18] selection (11 vs 1 → 11)
+  [9/18] selection (4 vs 3 → 4)
+Traceback (most recent call last):
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/evolve.py", line 309, in <module>
+    main()
+    ~~~~^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/evolve.py", line 295, in main
+    asyncio.run(run(
+    ~~~~~~~~~~~^^^^^
+        model=args.model,
+        ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+        crossover_prompt_file=args.crossover_prompt_file,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ))
+    ^^
+  File "/Users/slacki/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/lib/python3.14/asyncio/runners.py", line 204, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/Users/slacki/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/lib/python3.14/asyncio/runners.py", line 127, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/slacki/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/lib/python3.14/asyncio/base_events.py", line 719, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/evolve.py", line 238, in run
+    population, lineage = await evolve_generation(model, population, concurrency, selection_prompt, crossover_prompt)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/evolve.py", line 164, in evolve_generation
+    all_results = await asyncio.gather(*selection_tasks, *crossover_tasks)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/evolve.py", line 148, in do_crossover
+    text = await crossover(model, population[idx_a], population[idx_b], crossover_prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/evolve.py", line 82, in crossover
+    return await llm_call(model, prompt)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/evolve.py", line 59, in llm_call
+    response = await get_response(model=model, messages=messages)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/localrouter/llm.py", line 683, in get_response
+    response = await provider.get_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/localrouter/llm.py", line 299, in get_response_openai
+    resp = await oai.chat.completions.create(**kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/openai/resources/chat/completions/completions.py", line 2676, in create
+    return await self._post(
+           ^^^^^^^^^^^^^^^^^
+    ...<49 lines>...
+    )
+    ^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1884, in post
+    return await self.request(cast_to, opts, stream=stream, stream_cls=stream_cls)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1674, in request
+    return await self._process_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/openai/_base_client.py", line 1763, in _process_response
+    return await api_response.parse()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/openai/_response.py", line 430, in parse
+    parsed = self._parse(to=to)
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/openai/_response.py", line 265, in _parse
+    data = response.json()
+  File "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/.venv/lib/python3.14/site-packages/httpx/_models.py", line 832, in json
+    return jsonlib.loads(self.content, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/lib/python3.14/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/Users/slacki/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/lib/python3.14/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/slacki/.local/share/uv/python/cpython-3.14.0-macos-aarch64-none/lib/python3.14/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 265 column 1 (char 1452)

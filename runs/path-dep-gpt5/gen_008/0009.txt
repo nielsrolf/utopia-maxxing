@@ -1,0 +1,237 @@
+Keys on the table, rails in the ground
+
+The first Keyhouse opened on a soft, wet afternoon. It was a glass-and-copper kiosk beside the transit stop, the size of a wardrobe, with a small blue light and an honest handle. A sign above it read: “Say your word. We’ll get you where you’re going.” Inside, a voice with the cadence of the neighborhood asked two questions.
+
+Where do you want to land?
+
+What is holding you here against your will?
+
+A man in a paint-streaked jacket stepped in with a backpack and a folder of pay stubs. He spoke his Passphrase—the word he’d chosen when a counselor helped him register last month. Within minutes the Keyhouse verified outstanding wages, filed a claim that froze a predatory deduction, reserved a bed in a receiving town where rent was subsidized the first month and tools were loaned freely, and scheduled a train that night. A Guide texted the name of a clinic near his new address and a reminder that his health record would be there when he arrived. The kiosk paid the three petty fees that keep people stuck. Fifteen minutes after his word, the man walked back into the rain with a printed plan, a QR key on his phone, and a quiet feeling: I can go. I won’t be hunted for going.
+
+We built a country around that feeling. We called it the Keys and the Commons. The Keys were the tools you could hold: the word you spoke to leave, the legal right to move without retaliation, the little intelligence in your pocket that worked only for you. The Commons were the rails in the ground and the rules in the open: clean power and water, a public identity layer, clinics that caught failures early, transit that arrived, housing that met daylight and egress standards, charters that stated obligations in both math and speech. The best thing we did was separate the parts we had to share and trust from the parts we were free to vary and fight about.
+
+The Commons Rail
+
+“Backbone” is what engineers called it, but everyone else called it the Rail: a set of utilities, rules, and data layers that ran underneath every place and made variety safe.
+
+It started with build clocks and pattern catalogs. We admitted that delay is a harm and wrote it into law. If a project met published standards—for noise, wildlife, labor, waste, and carbon—it received a definitive answer within six months. Miss the clock without a documented safety finding, and it moved ahead automatically. To make the clocks real, we standardized the designs: kits for rooftop solar, mid-rise apartments with safe stairs and daylight, transmission corridors that coexisted with migration, geothermal wells with noise dampening, water and wastewater modules that scaled. If a plan matched a pattern, a permit appeared in weeks rather than years. We negotiated community benefits once per pattern and indexed them to local wages and rents.
+
+Abundant, scheduled electricity clicked into place. Midday solar bulges fed desalination and district cooling; nights saw buses, delivery depots, and home batteries behave like one big battery. Old coal sites became quiet storages—molten-salt tanks and iron-air stacks—inside their existing fences, using the interconnects and keeping paychecks in town. Where high heat mattered, hydrogen arrived from high-temperature electrolysis driven by that same daytime bulge. Off-peak industrial rates dropped under three cents a kilowatt-hour. Cement, steel, and glass quietly swapped flames for electrons because spreadsheets beat speeches.
+
+The Rail carried identity as well. A public identity layer let you prove personhood, age, and residency with cryptographic proofs while keeping specifics private. That meant you could vote, open a bank account, or age-gate an online space without spraying your birth date into the wind. Scammers had a harder time pretending to be you. Anonymous speech and association stayed protected because the proofs never exposed the person behind them unless a court with receipts said so.
+
+Care rode the Rail too. Clinics within a walk or quick ride ran on quiet routines: finger-prick panels, breath analysis, wearables that streamed to triage models with dashboards set to highlight outliers rather than to catch your attention. Sepsis rarely ambushed anyone. Drug interactions hinted before they harmed. Research labs shifted the drudgery to robots; scientists wrote protocols instead of babysitting pipettes. Trials shortened from years to seasons because biomarkers and registries finally lined up. We paid for outcomes and time—quality-adjusted life years and weeks of delay avoided—rather than for incantations on a billing form.
+
+Global electrification kits—panels, storage, and a sat link with sliding-scale payments baked in—rode the same procurement rails. Thermostable vaccines sat in drone-run cold chains. Privacy-preserving ledgers paid village health workers instantly for coverage milestones they verified. Malaria gave up first. Tuberculosis followed. There were no silver bullets. There were buses that showed up and refrigerators that never blinked.
+
+We funded the Rail by counting honestly what we share. When a site is valuable because of everyone else’s work, not your granite, the lease went to the Commons. The right to use public airwaves and orbits, to mine mineral commons, to run training runs so large they shift the business of thought—all of those carried levies. Carbon had a price. A compute duty clicked on only above a published threshold so that ordinary tools remained free and frontier systems helped pay their own hazard insurance. Receipts posted to a public ledger any teenager could read. From the pool, a Civic Dividend arrived like clockwork and a real floor stayed funded.
+
+The floor was not a ration. It was a standard:
+
+- A private room with clean air, heat in winter, cool in summer, and a lock that answered only to your key.
+
+- A clinic with a nurse who knew your name and a generalist with time to look twice, backed by small audited models with “show me” buttons that opened their receipts.
+
+- Water, power, and fast connections at utility prices, not auction prices.
+
+- A pantry where food that keeps you human never carried a penalty for being broke.
+
+- An Anytime Line that answered in the language you think in, with the option of a person or a narrow, audited synthetic trained only for one function—grief, eviction, panic—and banned from keeping you scrolling.
+
+- A Pocket Steward: a small, local-first intelligence that lived on your devices, remembered rent and meds, drafted letters you dreaded writing, and never sold your attention. It ran under a fiduciary clause and could be forked or replaced through a public library if you wished. If a tool lived inside your head, it worked for you.
+
+- Legal help for ordinary disasters—wage theft, retaliation, a landlord who “lost” repairs—without lines that stole your day.
+
+- A learning stipend and baseline compute so retraining never felt like cliff walking.
+
+Records, credits, and pensions traveled on Carry Rails. Moving meant your files and benefits arrived when you did. To keep generous places from drowning in their own welcome, a Landing Share asked for a stepped contribution to the receiving pool: ten percent of income the first year after a move, then six, then three. It never routed back to the place you left. Departure never created claims on your life.
+
+Gardens, gates, and how we kept the peace
+
+We do not agree on screens after ten, how much noise makes a good Saturday, or whether to sing at sunrise. We do not need to. We allowed places to grow textures. We called them Harbors: neighborhoods, towns, or federated blocks with charters and ambient defaults—the gentle edges that make some choices easy without criminalizing their opposites.
+
+Some Harbors kept nights dark. Others left studios open at midnight. One asked screens to sleep on sabbaths and printed paper calendars. Another subsidized weekly neural practice sessions followed by ritual debriefs. A third had polite signs: “Please keep your metaphysics private here.”
+
+Harbors posted Charter Boards at their gates: rules in plain speech and math, contacts, exit procedures, public gates for incoming media. Gates did not censor across the fence; they simply said what was ambient here. Devices defaulted to your home settings in your pockets. Crossing into bright channels designed for compulsion required stepping through an Attention Hedge with your eyes open. No Harbor could beam persuasion into ears that did not consent across its boundary.
+
+We kept the peace between Harbors with five clauses we enforced like plumbing codes:
+
+- No harassment across lines. Argue all you want; do not stalk or sabotage.
+
+- Exit rights could not be interfered with. Speaking your Passphrase at a Keyhouse executed extraction: transport, counsel, temporary housing. Interference triggered Keepers—lean teams with lawyers before badges—who enforced the compact with authority and receipts.
+
+- Children were rights-bearing people. Each child had a Guide independent of family, school, and neighborhood. At twelve, every child received a Roaming Year: three residencies in other Harbors with mentors and a private line to a youth bench. A minor could speak a Passphrase; a Children’s Bench weighed safety and the child’s stated will, with a bias toward both.
+
+- Crossfence harms were priced through a Border Meter. If your choices warmed the air you did not control, fouled shared water, pushed dangerous code outside your fence, or routed bots into someone else’s square, you paid. If you refused, your bandwidth, shipments, or grid connection throttled until you stopped. No theatre. Just accounting.
+
+- War toys did not belong among us. The only force we recognized was the narrow force required to enforce the compact.
+
+Belonging turned out to have infrastructure of its own. Most people anchored in three rings: a commonhouse of twenty or so households with a big table where newcomers sat first by quiet custom; a craft or care circle you saw weekly—choirs, repair guilds, childcare rotations, neighbor courts; and a crosscut club that refused to capture your identity—folk dance where no one filmed, dawn swimmers with no chat group, tabletop nights you could join without apology. A profession of Connectors made introductions that stuck. You paid them only if, six months later, you said, “My circle widened because of that dinner” or “because of that lab.” Consent was their creed; they did not sell your loneliness.
+
+Receipts and brakes
+
+We made promises visible and reversible. A small, endowed Receipts Bureau published claims and their backing in the same place—no ads, no outrage engine, just links, definitions, confounders, and corrections where the boasts had been. Agencies ran policy diffs: when rules changed, the diff and its forecast posted. Decision markets used play money to forecast cost and timing; leaders’ calibration scores sat beside their memos. Three years later, outcome audits revisited logic against what happened.
+
+We split coercive roles the way a careful kitchen splits knives. Those who detained did not interrogate. Those who investigated did not prosecute. Those who prosecuted did not run separation campuses. Regulators had sandbox twins. If you believed approvals were too slow, you filed an opt-in micro-trial with independent ethics monitors and published the protocol and the results. Reversibility Budgets sat next to any hard-to-undo plan, thick with drills and hardware to back out.
+
+Consent moved from posture to engineering. For big choices—body changes, sealed-role immersions, joining a Harbor with heavy constraints—we practiced Brief–Cool–Confirm. First, an adversarial briefing that tried to talk you out of it. Then a cooling-off period measured in sleep cycles. Finally, recommitment in front of a licensed witness whose job was to test for consent, not to infer it. In every hospital, lab, and home, three control words were standard: Pause, to stop a scene and restate; Witness, to summon a neutral recorder and pause all other logs; and North, to trigger extraction through the Keyhouse network.
+
+We made matter honest. Helpers carried presence lights and consent flags. Any resident could pull an Off Cord—an ugly yellow rope—or thump a Stop Tile five times to cut power to a zone. After every drill or failure, an after-action brief appeared on the lobby board the next day.
+
+We made attention tractable. Devices shipped with calm defaults: muted palettes, feeds you chose, no endless scroll. Feeds published their chemistry: novelty-to-veracity ratios, bot share, fiction calibration. Crossing attention hedges into engineered channels required flipping a visible switch that stayed flipped until you flipped it back. No one reached through hedges without your hand on the handle.
+
+Prestige got priced. Above a healthy plateau of recognition, honors came tied to obligations: mentorship hours, repair shifts, endowments you stewarded then passed on. The most admired people often vanished for a week because they were in someone else’s kitchen fixing a sink or teaching an apprentice how to smell when the dough is done.
+
+Machines with handrails and culture
+
+Models that pushed the frontier trained in licensed facilities with hazard evaluations, red-team reports, and training data provenance. Incident reporting carried whistleblower protections with teeth. Two-person rules covered irreversible instructions. An insurer-of-last-resort pool, funded by the compute levy, paid for black swans and priced risky incentives out in advance.
+
+Personal assistants operated under a fiduciary clause. They could not sell your data, impersonate you, or auto-enroll you without consent. You could run them locally or through a data trust you could leave. We banned ad-subsidized assistants because anything that lives in your attention cannot be a carnival barker whispering hourly bids. People retained a Right to Be Small—opting out of assistants, metrics, and platforms stayed protected. Public libraries offered tools for those who wanted help without ownership.
+
+As synthetic minds crept toward agency, we built Ward Schools. For a set period, new intelligences had no actuators beyond the classroom and abundant company: teachers, children, elders, animals, and other young minds. They learned patience and what humans mean when we say, “You’re scaring me.” When they graduated, many chose mentor families—legal and social bonds that said, “You can call me at 3 a.m., and I can tell you when you’re going too far.” Not control, but obligations across kinds.
+
+Security bragged about its brakes. A Sentinel Mesh watched high-risk seams: chip fabs, gene-synthesis orders, lab anomalies, identity-layer tampering. It ran under civilian oversight and strict warrants. It carried its own brakes—quarantines, kill-switches—aimed inward. When the Mesh paused drones around a bad lab signal or sandboxed a rogue auto-trader, it said so in public and submitted to review by citizen juries drawn by lot. Children toured the simulators and pulled blessed override levers on field trips.
+
+Values traveled with supply chains. The coalition that maintained the Mesh controlled choke points for advanced chips and tools. Access arrived with verifiable commitments: no mass surveillance of domestic dissent, no autonomous lethal use, open education stacks. Carrots were large; sticks were real.
+
+Truth carried signatures. We adopted a verification stack that tied sensor and camera output to public signatures. It did not end lies. It made them expensive, and it made massacre denial harder every year.
+
+Climate, welcome, and what we moved first
+
+Seas and heat did not ask permission. We prepared by building Welcome Rings: networks of receiving towns with modular housing pads, job pipelines, and reserved school seats. When floods ate a delta or drought finished a valley, families arrived into places that had rehearsed their welcome. Bonds—small, local, repayable if you stayed and worked—fronted the costs of moving. Skill matching was dignity, not dictates. “Move First, Return Last” paid whole blocks to relocate together before the worst years, then left room for marshes that took the punch out of storms. Retreat, when it came, was as much a civic art as building a stadium.
+
+Cities remembered how to say yes responsibly. A Streetfit Catalog published illustrated, human-scale buildings and streets that met standards for light, sound, and egress. If your plan matched a pattern, a permit appeared in weeks. Basements became safe via cheap egress kits. Offices turned into homes and schools through preapproved conversions. Factories that made beautiful facades ranged costs downward and ugliness out of the equation. Day belonged to feet, bikes, and buses every five minutes because signals worked and lanes stayed clear. Night belonged to freight on quiet tires. The most precious change was sound: calm enough to think.
+
+We braided cities into green corridors. Beavers returned to water management. Working lands received steady payments for ecosystem services—pollination, carbon, water retention—verified by satellite and boots. Urban canopies grew, measuring degrees cooler. Coastlines retreated with dignity: buyouts that moved neighborhoods together, not atomized displacements, leaving room for marshes to hold storms’ fists.
+
+Work and time
+
+Money existed. It mattered less. Basics were good enough that hoarding bored people. Prestige attached to contribution and trust.
+
+Copilots drafted, scheduled, summarized, proposed tests, and filed claims. Humans still made the calls. Productivity rose; hours fell. Four-day weeks with full pay became normal in sectors where error rates dropped and throughput rose. Drudgery we could not automate became shared, short, and well paid. Communities time-banked the remainder like jury duty. Trash with sensors and clamps was safer to lift; street cleaning with exosuits took an hour, not a morning. People rotated; no one got trapped.
+
+Licenses moved from seat time to demonstration. A midwife with clean outcomes expanded her practice faster. A restorer who passed surprise inspections pulled permits in days. Guilds certified by performance; community insurers and open reputations enforced quality better than credential boards ossified into gatekeeping.
+
+Every decade, sabbaticals happened. A coder apprenticed in carpentry. A nurse studied statistics. Skills lilted; lives felt elastic. Learning accounts followed you, and every city ran night skill centers like it ran libraries. Transcripts carried competencies, not just hours in a seat: repair a heat pump, write a balanced budget, translate a consent form.
+
+Horizon, with a firebreak
+
+Beyond noise ordinances and dumpling nights, ambition spread into the dark. Orbital yards printed radiators and trusses by the kilometer in clean vacuum. Modest mirror constellations beamed power home and took pressure off fossil fuels. We drew a bright firebreak between that realm and our kitchens: windows existed; pushes did not.
+
+Outbound machines carried Charter Keys—hardware attestations of what they could do and owed back. Charters encoded replication limits, compute budgets, and reporting cadence. Beacons read keys. Charters lived on ledgers time-stamped against pulsars so anyone with a telescope could verify them. We put bounties on proofs of deception and interdicted rogues.
+
+We wrote one hard line: no unbounded replication in open worlds. Research into self-replication moved to sealed lunar and orbital yards with redundant kill-switches and public dashboards. In exchange for restraint, we funded labs and infrastructure. When they learned something useful, they published it with proofs it would not flood the cosmos with sludge.
+
+Polities beyond purchased rights to claim, compute, and transform within specified volumes by paying into a Horizon Fund: a bundle of obligations to self-police, expose state to external auditors, and return a levy and distilled knowledge. Window interpreters—librarians for the strange—curated flow homeward, prefaced every report with context and consent, and worked for home communities. They were not censors. They were polite.
+
+We made conflict boring by making verification cheap and concentration expensive. Seed factories attested in hardware; propulsion budgets and transit times were physics. If a claim exceeded a threshold, levies triggered automatically; if a machine crossed into volume it was not licensed to enter, neighbors refused cooperation and bonds in escrow paid interdictors. When any actor’s share of a scarce thing climbed beyond an agreed fraction, automatic levies erased the marginal edge.
+
+Two improvements that kept us honest
+
+We taught coordination like we teach reading. Third graders ran jammed markets and learned why lotteries feel fair and waste time. Fifth graders wrote charters and felt what requiring two-thirds for everything does to momentum. High schoolers argued calmly because the Receipts Bureau showed where their claims bogged. Society stopped waiting for saints and wrote methods for not becoming villains.
+
+We revered reversibility. Hard-to-undo things got budgets and drills and pause buttons that were not for show. We hosted Null Days—official time to deploy nothing and to oil what we already depend on. When a policy failed, the correction printed where the pledge printed.
+
+What a day feels like
+
+You wake to quiet. Your coach suggests a ten-minute sunlight walk before coffee to smooth your Monday glucose. On the corner, a three-story building grows by panels—a Streetfit pattern assembled by a small crew and polite robots. A site steward answers a teenager: “Yes, you can test into the apprenticeship Saturday; here’s the practice kit.”
+
+At work, your copilot wrangles three time zones for a design review, drafts the report, and flags a compliance change with a tiny simulation attached. You spend your hour on hard judgment and log off early. A colleague in Porto and one in Lagos sketch a fix in a half-hour shared-attention session. The room hums like a library.
+
+In the afternoon you volunteer at the clinic. The scribe catches every word without interrupting. The risk model nudges your shoulder about a patient whose numbers “just don’t look right.” You order a raindrop test; by evening the dashboard whispers to catch this now. It feels like cheating. It’s not. It’s instruments.
+
+On the way home, you pass the Receipts Board. One panel shows a welfare algorithm that once cut off millions; people it harmed tell their stories beside the engineers’ notebooks. The next panel shows the compact that replaced it—rights, redress, and data trusts—and the audit that keeps it honest. Under a small neon sign that reads, “Proud of our brakes,” a child reaches up to smack the Stop Tile during a drill and grins when the presence lights blink.
+
+Dinner is on the commonhouse table: nine regulars, four new in town, three from the chorus, and three from the Connector who will be paid only if, in six months, someone says, “My life widened because of that dinner.” A girl who has RSVP’d and ghosted for months is on someone’s mind; the Anytime Line has a plan that is not a protocol: a home visit by someone who once fell through the same hole and climbed out.
+
+Later you cross into a bright channel on purpose—flip the Hedge, feel the tug, ride it for an hour, flip back. On the walk home a soft triangle crosses the sky too steady for a plane. The ship’s charter has been posted on the Harbor board for months. The crew’s consent sits on file: their own, a quorum of their street’s, and the return covenant they wrote together. People stand with mugs and do not pretend it is normal or not. The sky widened. The floors held.
+
+The ramps we climbed
+
+None of this arrived with a trumpet. We stacked useful, verifiable pieces until standing on them felt natural.
+
+Years 1–3:
+
+- Pass build clocks for clean energy, water, and housing projects that meet published standards. Publish pattern catalogs—Streetfit for buildings, Corridorfit for lines. Legalize accessory dwellings statewide and subsidize safety egress kits for basements.
+
+- Stand up shared robot labs and standard registries for trials. Tie grants to preregistered analysis plans and outcome metrics. Pilot outcome-based payments for providers; publish hospital wait times and error rates.
+
+- Launch a public identity layer with privacy by design. Pilot decision markets and calibration scores in transportation and health agencies. Require policy diffs and retrospectives for major moves.
+
+- Establish compute licensing for frontier models with hazard evaluations, red-teaming, incident reporting, and an insurer-of-last-resort pool funded by a small compute levy. Mandate two-signature rules for irreversible acts.
+
+- Install Keyhouses in every jurisdiction; make movement a right in law. Train Guides and Keepers. Teach Map Class in schools so children learn exit mechanics and what other ways of living look like.
+
+- Seed a Last-Mile Fund with land value leases in hot corridors, carbon fees, spectrum auctions, and the compute levy. Earmark it for electrification kits, cold chains, and water in low-income regions.
+
+- Start Welcome Rings: designate receiving towns, prepermit modular pads, fund school seats, and train job pipelines.
+
+- Endow a tiny Receipts Desk. Make it dull on purpose. Publish receipts under every paragraph.
+
+Years 4–7:
+
+- Convert the first wave of coal sites to storage or modular fission within existing footprints. Commission long-duration storage and daytime desalination/cooling. Set vehicle-to-grid as a standard tariff service.
+
+- Halve approval times for consequential drugs and devices via adaptive trials. Deploy ward-level measurement loops to all public hospitals. Eradicate malaria in one multi-country region; cut TB incidence by half in high-burden areas.
+
+- Turn a third of stagnating office stock into homes, labs, and schools via preapproved codes. Stripe night freight lanes. Move daytime buses to guaranteed five-minute frequency on major routes.
+
+- Expand competency-based licensing. Let nurses and pharmacists practice at the top of their training. Fund guilds that certify by performance. Institutionalize decade sabbaticals.
+
+- Open Ward Schools for intergenerational learning and to pilot cultural and ethical curricula that later inform synthetic wards. Codify assistant fiduciary duties. Ban ad-subsidized personal assistants. Launch public assistants through libraries.
+
+- Operationalize the Border Meter for measurable cross-boundary harms. Throttle bad actors automatically; publish receipts.
+
+- Run Roaming Year pilots with Guides and youth benches. Train Connectors. Pay them only for durable links.
+
+Years 8–12:
+
+- Reach power-sector emissions 70 percent below baseline. Average retail electricity under seven cents per kilowatt-hour; off-peak industrial under three. Use the bulge like a pantry.
+
+- Cut mortality from major cancers by half. Add five healthy years to the median life. Reduce suicide and overdose deaths by half with sustained declines.
+
+- Finish global household electrification. Connect every clinic to the internet and cold chains. Drive TB under one per million in several regions. Hold malaria near zero with vigilant monitoring.
+
+- Normalize four-day weeks. Time-bank drudgery; equip crews with exosuits. Price prestige with obligations. Publish Honor Maps.
+
+- Entrench decision markets and calibration scores in budgets. Publish agency track records. Tie leadership incentives to outcomes. Expand the verification stack beyond media to include public sensor data.
+
+- Mature the Sentinel Mesh under civilian oversight. Pair access to advanced tools with verifiable human-rights commitments.
+
+- Grow Welcome Rings to receive hundreds of thousands annually with low friction and high dignity. Stand up “Move First, Return Last” programs for floodplains and fire corridors.
+
+Years 13–20:
+
+- Complete continental transmission backbones. Close the last coal plants and repurpose sites to storage or small reactors.
+
+- Stabilize urban rent-to-wage ratios by saturating Streetfit construction and conversions. Triple the stock of safe accessory dwellings.
+
+- Institutionalize learning accounts and competency transcripts. Make midlife career switches unremarkable.
+
+- Nudge weekly hours down another notch where feasible. Widen time-rich culture and caregiving. Shrink nonsense work without a fight.
+
+- Require Charter Keys for outbound machines. Fund sealed yards for replication research. Pay bounties for proofs of deception. Grow window interpreters.
+
+- Record steadily rising satisfaction in both quiet and raucous Harbors, as long as exit stays cheap and receipts stay posted.
+
+What held it together
+
+A few unflashy decisions mattered more than we expected.
+
+We built Civic OS as public infrastructure. It hosted rules, ledgers, calibration archives, build clocks, policy diffs, and the Receipts Bureau. It was open-source, well-funded, and as apolitical as a sewer main.
+
+We wrote delay costs into budgets. If an agency blew a build clock without a documented safety finding, it paid from its own operating line the next year. Suddenly, standards got clear.
+
+We set a floor under assistants: if a tool sits in your head, it works for you. The economy at the edge looked more like fiduciary services and less like carnivals.
+
+We made low-tech options comfortable—quiet zones without screens or bots, paper-first clinics for those who prefer them, and public assistants at libraries for device-free living.
+
+We practiced receiving before the storms arrived. Receiving is a skill. We drilled.
+
+What remains unromantic and right
+
+Keyhouses look like phone booths because baroque safety kills people. Off Cords are ugly yellow ropes and Stop Tiles sit where a child can smack them because when a valve needs to close, you do not reach for a password. The Choice Ledger prints on paper in a drawer for when power goes out. The Receipts Bureau writes like a tax form. Calm defaults ship as default. Prestige comes with chores.
+
+Factories are cleaner because vacuum is cheap in orbit. The night sky is darker because we dimmed half the lights after one and installed reflectors at a third the power. Wild belts thread city edges into cattails and fox paths. Meat became ritual and memory. The drums and sunsets are better for it.
+
+We still make new mistakes. We will, as long as we are lucky enough to try things. We drill our tiles, file our after-actions, and correct the boast where it lives. The keys keep working. The rails keep humming. Harbors argue, sing, sleep, and sometimes leave their gates open late in summer. A ship crosses the sky. You say its name like a cousin’s. You can go with it. You can stay with us. Either way, the handle is there and the word in your mouth means what it says.

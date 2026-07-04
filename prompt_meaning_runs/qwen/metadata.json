@@ -1,0 +1,11 @@
+{
+  "model": "qwen/qwen3.5-397b-a17b",
+  "generations": 20,
+  "population_size": 17,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/initial_population",
+  "started_at": "2026-02-24T18:45:45.374207+00:00",
+  "selection_prompt_file": "prompts/meaning-selection.txt",
+  "crossover_prompt_file": "prompts/meaning-crossover.txt",
+  "finished_at": "2026-02-24T19:49:24.622537+00:00"
+}

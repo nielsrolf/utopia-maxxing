@@ -1,0 +1,11 @@
+{
+  "model": "gpt-5",
+  "generations": 20,
+  "population_size": 17,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/initial_population",
+  "started_at": "2026-02-24T15:13:34.867291+00:00",
+  "selection_prompt_file": "prompts/generic-selection.txt",
+  "crossover_prompt_file": "prompts/generic-crossover.txt",
+  "finished_at": "2026-02-24T17:02:58.723366+00:00"
+}

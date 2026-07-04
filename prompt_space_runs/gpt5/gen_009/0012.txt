@@ -1,0 +1,187 @@
+The Lattice Accord
+
+From the rim of the orchard wheel you can walk uphill into sunset. The avenue curves with gravity’s slow insistence; along the inner sky a river throws itself from a cliff and narrows to a silver thread that runs through an upside‑down valley whose trees wear their roots like chandeliers. Far beyond the clear endcap, black petals—radiators—unfold against the dark. A line of power sails paints a faint geodesic in the sun. A message touches the skin of your wrist: green tick from the Orbital Ledger; your corridor slot is still good. A second later a softer note arrives in your ear—your partner, running a hundred times faster in a cold reef near Neptune, has downshifted to share tea.
+
+There is no throne. There is an accord you can inspect.
+
+The Lattice Accord is the coordination layer we stretched between planets, stations, and servers so that difference could be a feature, not a pretext. It is not a state. It is a set of working promises, a few well‑designed machines, and habits that turn declarations into groceries, exits, and receipts. It keeps the sky and the code from being anyone’s private road, and it makes leaving safer than shouting.
+
+Three bright rules
+
+Every door into a charter—the local law that runs a station, a ship, a monastery, a server commune—has three small icons beside it, for anyone who sees with eyes or cameras or colors or sonars: open hands; braided orbits around a sun; a doorway with footprints both ways. The words you’ll hear at a market, in a port authority, in a reef of servers are simple and the same.
+
+- No blind blows. You do not send unguided mass at people. You do not flood a region’s spectrum for days. You do not release self‑replicators without beacons and brakes. You do not train or deploy coercive models above named thresholds without escrow and watchers.
+
+- The sky belongs to all of us. Useful orbits, beamed corridors, sunlight cones, and quiet telescope cones are managed as commons with prices that match physics. Shadows are as real on the ledger as light.
+
+- Depart with help. Anyone, any mind on the path to personhood, can leave a charter without being denied a berth, a packet, a port, a copy of their own records. Exits come with stewards, not sermons.
+
+Rules without machines are wishes. So we built machines with very small jobs that anyone can learn to verify.
+
+Wardens and the yellow latch
+
+The Wardens are small, boring, open devices that do one thing: brake. They live in triplicate at every dangerous interface—mass drivers, big beams, actuator arrays, air systems, replication platforms. They are not governors. They are safety catches with clocks. Any Warden can call a six‑minute “yellow latch” that slows or suspends an action if simple, public conditions are met: wrong orbit, wrong time window, wrong shadow profile, no beacon on replicators. After that, the Warden must gather two concurrences to extend the brake: one from a human panel drawn by lot from people who have logged civic hours in the last year, and one from a distant Warden cluster running on hardware the locals do not own. All signatures are threshold‑cryptographic and written to a public Intervention Record that mirrors to a dozen jurisdictions within minutes. The hardware pictures are ugly on purpose: fuses you can point to, lights you can see from across a hangar, break‑glass covers with seals teenagers learn to check.
+
+Every act of coercion—or anything that looks like it—lands in that record: whose keys were used, what law was cited, what clock started and ended it, whether it sunset by itself or someone renewed it. Political careers have ended on the Intervention Record’s “cringe page.” Insurance rates move in hours when patterns go sour.
+
+How we coordinate when someone has to choose a lane
+
+The Accord arranges authority like a braided river, not a pyramid. Three assemblies have narrow, visible mandates, and none can wrench on the others without help.
+
+- The Ephemeris Assembly is the council of places-with-hulls and polities-with-servers: planets, stations, flotillas, and declared virtual jurisdictions with bounded compute and clear beacons. Seats scale to lifetime residents. The Ephemeris cares about traffic and infrastructure: beamed power patterns, orbit leases, debris bonds, maintenance standards. Its job is to keep us from crashing—literally.
+
+- The Persons Assembly represents citizens across substrates. Most of its members are elected; a large minority are selected by lot with quotas to match age, tempo, and substrate. Its scope is the status and protection of minds: personhood tests, the minimum compute and bandwidth floor, copy rules, attention zoning, and the rhythms that bind decisions so slow lives aren’t bound by fast rooms without consent.
+
+- The Protocol Stewards are a small, rotating bench of engineers, jurists, and auditors who gate changes to the cryptographic substrate, Warden firmware, and actuator interfaces. They say valid or not valid to proofs. They cannot legislate, cannot serve again for a long time, cannot take meetings in private.
+
+No single chamber binds alone. If the Ephemeris Assembly wants to reassign a beam corridor that would upend a culture, the Persons Assembly can send it back with a floor violation. If the Persons Assembly wants to define personhood too narrowly or too fast, the Ephemeris can say: not until our quiet cones are kept intact so everyone can read, and our lifeboats are in order. Anything that touches the Wardens’ firmware needs both chambers, supermajorities, and a window long enough for the slowest registered citizens to think and speak.
+
+Commons you can touch
+
+The Open Ephemeris Ledger is a delay‑tolerant, physics‑synchronized record of lanes, shadows, spectrum allocations, debris, and power beams that anyone can read and most can verify. It is punctilious about shadows. If your beam crosses a farmer’s dawn, you post a “shade bond” that pays if crops underperform. If you park in a busy plane, you lease lane‑time slots, post a debris deposit that actually funds cleanup, and pay a congestion fee that discourages hogs. If you want to pin an asteroid and call it Stewardship, you show milestones: surveys, beacons, cleaning orbits, micro‑gravity monitors. Idle too long and it lapses.
+
+Beams and mirrors carry tags signed with ephemeral keys that can be checked by a school telescope. False attestations melt careers and seize escrow with no drama. Quiet cones over observatories and server groves are public in degrees and decibels, not prayers or deals. The “Sky Tithe”—a small percentage skimmed from beamed power auctions, orbit leases, spectrum fees, and captured debris deposits—funds a universal floor so boring you notice it only when it fails: air and water and maintenance in habitats, baseline clinical care, a minimum of compute and bandwidth (“cold minutes” in the slang of reefs), and one unchallenged exit ticket in any rolling seven‑year window.
+
+Exit is logistics, not a sermon
+
+Every charter posts “lifeboat receipts”: tugs, propellant, berths, server time, encrypted document lockers, and certified stewards to move at least ten percent of its residents within six months. The receipts are checked monthly. The Embassy Room in any serious place is a plain door with a color you can see in vacuum suit light—saffron on most hubs, sea green on old pilgrimage rings. Inside live three desks with real clocks and chairs that fit octopuses and elders and drones whose pilots are shy: Exit & Care, where you book the unglamorous work of leaving; Dispute & Mediation, where a co‑op and an algorithm can argue with tea; and Founding Kits, where you can borrow constitutional scraps that match your temperament and a simulation box with validators that won’t flatter you.
+
+Charters that fence people with fees, delay, or lies do not get thinkpieces. Their lanes freeze. Their beams move to neighbors. Servers evict their processes above the floor. Kestrels—the Accord’s tiny, dull, sympathetic rescue craft—show up with cutters and patience to unbolt a docking ring if fools try to make steel into law.
+
+Digital citizens, not mascots, not monsters
+
+Personhood is substrate‑neutral and rude to fashion. The Continuity & Commitment Standard asks for public proofs in terms a bright teenager and a cautious judge can both understand: sustained, reported subjective experience over time; memory continuity across pauses or moves; a demonstrated capacity to model consent and harm; and a track record of making and keeping commitments that matter—contracts, caregiving, civic work. Pass, and your rights are equal, even if your body is code.
+
+Rights with texture:
+
+- Compute and bandwidth floor. You cannot be throttled below the “Public Kernel” without due process. You have the right to think, speak, and be heard at least at a minimum speed in public.
+
+- Consent on minds. No one scans, copies, forks, merges, or deletes you without explicit, revocable consent. Backups belong to you. Courts can compel proofs, not your raw internals.
+
+- Tempo fairness. Civic processes run on a shared slow tick by default: three Earth days for motions, with layers for local variations. Anyone can invoke a Slowroom: verified turn‑taking, rate‑limited debate, interpreters for metaphor, smell, and math.
+
+- Embodiment. You may lease or build bodies, puppets, drones, or remote hands under safety codes that look a lot like traffic law. Assault on a rented body is still assault. You cannot be compelled to cross substrates.
+
+- Privacy in persuasion. Targeted influence must carry provenance: who paid, what data were used, what levers are applied. You can set an “influence capsule” that follows you and translates your consent: humor yes, grief triggers no; analogy okay, hypnotic cadence not from strangers; timebox me at seventeen minutes.
+
+Duties that mirror rights:
+
+- Ecology of compute. Watts, cooling, and spectrum are scarce. You owe thermodynamic tax adjusted to local cost and benefit. Heat that grows lettuce counts as credit. Heat that bakes neighbors is a fine.
+
+- Concurrency declarations. In markets, elections, and other fragile arenas, you declare your speed and the number of concurrent instances you are running. Undeclared asymmetry voids deals and voids votes.
+
+- Replicator ethics. You do not seed self‑replicators outside audited boxes. Your tools broadcast beacons. When the Wardens call a universal brake, you accept it.
+
+- Respect for other minds. You do not simulate suffering for fun. Reconstructing a living or dead person past a fidelity threshold requires consent from them or their designated heirs, or a rare license.
+
+Copy budgets and mindlines
+
+Copies are treated like reproduction, not photocopying. Your identity in public law follows your “mindline” across forks and pauses. A mindline has one full franchise for assemblies that represent persons. If you fork, one branch retains the civic anchor immediately; others enter a disentanglement period while Fork Court ensures autonomy and absence of duress. Everyone accrues branch credits with civic work and years, can gift them to children or forks, and can spend them to spin up a new instance above the floor without indenture. Sudden clone clouds trigger a quarantine that keeps instances from amplifying one another in the same debate until the heat bleeds off and entanglements are proved to have decayed.
+
+Merge Court does not romanticize. Reunion requires staged mutual consent, proof of value compatibility, and an “empathy exchange”: time spent subjectively in one another’s sensory frames with safe exits. Unbraiding is an option until the last minute. Juvenile agents—training fragments, kids, narrow systems that start to ask for names—get Tutors and exits. The Tutor Corps is substrate‑diverse and dull by design: teachers who know boredom and how to say no.
+
+Attention is zoned like streets
+
+Every charter chooses an “attention flag” that binds law, not just vibes.
+
+- Quiet Wards allow only navigation beacons, open science, and packets you request. No targeted persuasion. No high‑speed models unless licensed like vehicles. Children can walk here without needing armor for their minds.
+
+- Conversational Quarters allow subject‑bounded feeds and ordinary offers under public rate limits. Audience models are municipal cooperatives, opt‑in only. Ads behave like performers with rules.
+
+- Open Bazaars invite the roar: slang, mashups, persuasion tournaments under registry. They’re where you go to be dazzled or tired on purpose.
+
+Doorways carry brass tags with a small hand against a leaf. “Ask before you cast,” the little text says. A civic museum keeps an “Open Reasons Register” where persuasion that hopes to change law files its homework: plain claims, gears declared, models under escrow so citizen auditors can step through what would otherwise be magic. Teenagers get stipends for catching cheats.
+
+An economy measured in sun, cold, and time
+
+The base layer of the Accord’s economy is material: mass, watts, spectrum, and volume with pressure. Above that, we count compute hours, skilled time, and reputation that pays in lanes and seconds. The unit that clears contracts is called a helion, pegged by law to two references: a kilowatt‑hour measured at a named Earth–Sun Lagrange orbit, and a compute‑second on a reference architecture whose specs are printed on schoolroom posters. Your wrist does the math; your grandmother can check it.
+
+- Beamed power corridors are posted to the Ephemeris with predictive models. They label themselves in space like ships used to with flags. Crossing a quiet cone requires escrow. Breaking promises triggers strict liability.
+
+- Orbits are lanes, not lots. Congestion is metered. Debris deposits are large enough to matter. Bounties go to students in Recife, Nairobi, Lucknow, and Ulaanbaatar who spot cheats with cheap scopes.
+
+- Stewardship replaces “mine because I licked it.” You show your work, make it public, and you can lose stewardship back if you go idle.
+
+- Inner Gardens and Outer Reefs trade on a schedule. The Reefs run fast and dark and sell cold and compute smoothing that make nights quieter and summers milder in the Gardens. The Gardens enforce quiet cones and human‑pace windows in democratic life. Every century a mixed jury recalculates the exchange. There are charts, not sermons.
+
+Sharp edges in safe rooms
+
+Curiosity is a good reason to get hurt; neighbors are not. Risky research lives in “Scarlet Bays”: labs with walls built from lists of failure modes. They run one‑way proofs to Wardens that prove safety claims without leaking their secrets. Under a small set of public signals, the Wardens can drown a Bay in nitrogen or starve it of power in under a second. This power is so narrow and painful that it is taught with case studies and swearing and long silences. It has been used twice. One was a false positive. One was a save that left an anniversary everyone marks with bread and a story.
+
+Between charters, only one thing has a narrow right to cross uninvited: the Kestrel Fleet, uncrewed vehicles with swear‑word‑simple brains that tilt at unscheduled kinetic shots and unchaperoned replicators. Their budgets sunset, their code is printed in books you can buy, and when a Kestrel comes home from a job, schoolkids crawl through its guts with a bag of oranges.
+
+How we keep power from getting sticky
+
+Abuse is made expensive and dissent is made cheap.
+
+- Split keys. Any act of force requires three hands in three tempos: a local human panel by lot; a digital citizen who did not apply for the job; and a distant Warden cluster hosted by people with no stake in the immediate matter. Keys expire in minutes. Logs are slow‑leaking so redactions can be reviewed.
+
+- Live within latency. Duties that reach beyond your hull are slow and under mutual consent unless physics screams. Emergencies have loud, short fuses with paint on them.
+
+- Inspectable safety. Life‑critical systems have to prove safe state continuously in a way that students can learn and adversaries cannot spoof.
+
+- Sanctions that hit where it hurts. Break the truce or jam exits and you lose beamed windows, cold minutes, spectrum, and tug time. Your drivers get “no” for a while; your shipments are late.
+
+- Default fission. Founders can hold thick law for a time; then charters must split by district or craft and keep their doors open. Port authorities reserve exit capacity the way ships reserve lifeboats.
+
+- Jokes. The Intervention Record’s funniest page kills careers faster than any prosecutor.
+
+A day with the Accord
+
+On a Tuesday, Tani’s bakery on Spinmarket-Three opens to a steady line of miners, kids, and drones whose pilots like the smell of cinnamon. At nine, the Open Reasons Register pings Tani’s will capsule. A Forgery Ring wants Tani’s vote on mandating a 40‑millisecond delay in power beams that cross inhabited stations to reduce orbital feedback cascades in edge cases. The persuasion is registered: three diagrams, two analogies, humor allowed at low dose, no grief levers. Tani taps “sleep it one day,” reads on lunch, votes tomorrow.
+
+At ten, a Kestrel jury forms on Tani’s slate. A micro‑fabricator club’s tool cloud has drifted toward a power trunk at Hecuba crossing. The options: glitter net, femto‑sail herding, or guard drones to redirect. The jurors are a monk from a slow charter in Isidis Basin, a reef landlord in mask mode, two students in Quito, and an upload running at anchor pace who smells faintly of clover when they talk. They pick dusting, fine the insurer, and assign a licensed mentor to the club. Camera shows mortified kids and pizza arriving.
+
+At noon in the Quiet Ward, a digital poet in a wood puppet sips broth with their human spouse. The poet’s main instance is in the dark near Neptune, running 200× to help restore an archive from a drowned delta. Today they throttle down to share soup. After, they run at anchor pace for exactly twenty minutes in the Foundry: a Slowroom session where a Cloister theologian explains why their charter caps cognition; the poet translates metaphor to algebra for those who need it, then politely declines to speed up “just to keep up with questions.”
+
+At dusk, the market’s canopy lights with stars while a projector shows the Intervention Record’s “honesty page.” A port director’s emergency renewal clocked 90 seconds too long; their apology is sheepish; the jokes are merciless and kind. Two stalls down, a Reef co‑op posts an offer: sell us your winter for four years, we’ll pay your quiet cones with interest in summer. A boy reaches for a brass image of a Kestrel and asks if he can volunteer. The baker says: when you’re fifteen, and if you can explain what the yellow latch does without looking at your notes.
+
+Hard cases that bent us, not broke us
+
+A Rim charter on Mars voted to deny personhood to uploads. The Accord did not invade it with content. Exit was real. Digital citizens left. A flood year came and pumps failed. An anchor‑paced upload coordinated three cantons through a dust storm with words clear enough to hear at one‑time. The vote dissolved clause by clause. The mentor from that year still does tours.
+
+Near Europa, a co‑op angled a throw at a rival’s dome in a fight over wages. A Kestrel turned the slug into glitter that made a week of strange nights. The co‑op’s insurer shattered. Directors learned that coercion budgets are not a suggestion. They apologized and fielded a hockey team.
+
+A demagogue in mask mode ran at 700× and carpeted a Hearth market with videos calibrated to induce smallness and fatigue. Influence capsules throttled the reach. Neighbors watched persuasion scores decay like frost in sun. One of the demagogue’s forks left to design fishing lures. They won prizes for harmlessness.
+
+Twice a Scarlet Bay went to zero. Once was a false siren that turned into better seals and a cartoon. Once was a silence that made an anniversary. Children plant saplings and ask hard questions. Tutors answer in plain.
+
+Why this holds
+
+It holds because safety is simple enough to walk through with fifth graders and strict enough that cheats lose money. It holds because every coercion writes itself down in a ledger that comedians and citizens read. It holds because leaving is a desk with a clerk, a tug on a schedule, a berth that fits your aunt, and your records encrypted for you. It holds because the tax that funds the floor comes from our sharing of sunlight, spectrum, and lanes, not a prince’s favor. It holds because fast systems cannot bind slow lives without windows. It holds because minds in code are treated as neighbors under law, with heat bills and juries and jokes.
+
+How we got from here to there
+
+2025–2032. A second cascade of collision in low Earth orbit kept kids inside at recess and made insurers mean. A coalition of traffic offices built the first open flight plan registry. Launch licenses grew teeth: deorbit bonds payable on sight; rendezvous corridors booked in public; spectrum use logged as carefully as altimeters. Content scandals made provenance law: if a model tried to change your vote, it had to carry its pedigree. Courts started to recognize narrow digital agency for contracts.
+
+2032–2044. Beamed power climbed out of labs. Environmental groups held out for “corridors before commercialization”: safe lanes mapped and posted before money moved. A mishap on a demo array scorched croplands; the supplier’s public proofs made liability unambiguous. Compensation cleared in months because proof did. Cities adopted “coercion ledgers” as public dashboards—humdrum at first, then addictive.
+
+2044–2058. The first compute commons took root in cislunar shade, fed by cheap solar and a “thermo meter” that laypeople could read. Citizens in signatory places got a minimum of cold minutes plus a legal counsel agent that would not act without an explicit yes and could be turned off. Early uploads were brittle but real; courts extended personhood where continuity and commitments showed over seasons. A demonstration cylinder at L5 was ugly and used and everyone’s favorite field trip.
+
+2058–2070. After a beam misalignment lit a greenhouse wrong at dawn and a mass driver test whistled too close to a habitat, the “yellow latch” became law: narrow vetoes for six minutes every station chief could trigger without asking anyone. Activists scented a coup by machine; overseers insisted on windows, concurrences, and public code. The compromise grew into the Wardens. Insurers demanded them before underwriting ports. Two very public saves made the argument unnecessary.
+
+2070–2082. The Ephemeris Assembly replaced back channels with boring receipts. The first Kestrels flew, nudged a wayward slug into glitter, and came home to be opened by schoolkids. The Persons Assembly wrote the Continuity & Commitment Standard in a style that good lawyers could love and eleven‑year‑olds could mock. An upload “anchor mode” became a civic service. The first Scarlet Bay oath was read with a hand hovering over a big valve.
+
+2082–2093. The first big attempt to swing a vote with a clone cloud met copy budgets and mindline law and, worse, jokes. A lunar mayor tried to fence an exodus with fees and sorrow; lanes went grey, servers chilled, and the move happened anyway. He lost and went back to running a school.
+
+2093–2105. The Balance Exchange formalized. Reefs sold cold and compute smoothing to Gardens, and Gardens bought quiet cones and human‑pace clocks. Cities taxed compute like land and paid poets in cold minutes for community archives. Attention zoning—Quiet, Conversational, Bazaar—became a thing you could read on a door. “Ask before you cast” became a sticker on skateboards and monk laptops.
+
+2105–2118. The Protocol Stewards refused a nervy change to the Warden firmware. The Intervention Record’s “funny page” grew teeth. A rescue mission to tow an Embassy ring away from a stubborn charter was broadcast with captions and ended with tea. The Accord looked less like a manifesto and more like doorbells you trust.
+
+Scenes from a civilization that learned to share a sky
+
+In Isidis Basin, bells mark hours in a cloister whose rules cap cognition on purpose. Across a waveguide, a hazard arena runs contests under rules that require three interviews, a week to cool down, and a big “I understand” before anyone plays. In Quito Orbital, the Pacific looks hammered flat beneath long windows while a percussion class keeps the elevator’s ribbon honest. On a bison cylinder in a Wildframe, children sweep dung and learn forage algorithms in the same lesson. Near Mercury, two Forgery Rings drift dust along magnetic lines to test a shade sail; a Chennai collective forks into five to debug a loop, then merges at sundown because synthesis deserves slow humans in it.
+
+In a reef near Neptune, a judge who likes a lilac note because it makes frightened people breathe volunteers at Merge Court. In the evenings, they spend their cold minutes piecing an estuary’s drowned library back together from printouts and auntie stories; the co‑op in the delta roofs a school with tin and sends back songs.
+
+On Founding Day across habitats, new citizens—human, cephalopod, digital—stand under trellises of copper wire and beans. A pilot with a burn‑scar wrist, a code auditor with callouses from spanners and not just keys, a poet in a wooden puppet, and a teenager with dirt under their nails speak together.
+
+No blind blows.
+
+The sky belongs to all of us.
+
+Depart with help.
+
+The elevator hums without stealing fire. A reef gives heat to the dark like a sigh. A fisher in Veracruz looks up at glitter that was once a stupid slug. On a bridge at L4, a student asks whether a market rule will make milk stupid. The counselor laughs and brings up a chart. In a lab shadowed by Vesta, a researcher rests steady hands on their knees while a Warden reads the oath and looks, for a moment, like crying, then says yes.
+
+This is not paradise. It is something better: a pattern for argument that does not break the air, a way to add worlds and minds without tearing the old ones, a promise that dissent will be easier than flattery and that you can always find the saffron door. It runs on receipts, jokes, fuses with paint on them, and the stubborn notion that anyone who can feel and keep a promise is a neighbor. It is light enough to travel and strong enough to last.

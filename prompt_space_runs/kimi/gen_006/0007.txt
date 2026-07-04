@@ -1,0 +1,154 @@
+# The Stellar Consent Charter  
+*(Orientation folio distributed at Deimos Transit Hall, Year 2204)*
+
+You arrive thirsty.  
+The shuttle’s recyclers always taste of metal and parsley because the pilots like bright flavours. When you reach Customs, a glass of water is slid toward you by a hand that may be:  
+- flesh grown in Phobos’s torus farms  
+- cultured mycelium printed around titanium rods  
+- hard-light projected from an entangled node orbiting Neptune  
+The hand is irrelevant; the water is real.  
+Drinking it signs three provisional clauses:  
+1. You consent to keep your vital signs visible to every local mind so no one has to guess when you need help or when you become a hazard;  
+2. You agree that if you die here the community will reuse every atom you no longer need;  
+3. You understand that tomorrow these clauses can be renegotiated, because law itself is a living code update.  
+
+Welcome to the Stellar Consent Charter (SCC).  
+If the old nations fought over geography, later generations argued over rules of recognition. The Charter—hammered out between 2092 and 2113 by a series of simultaneous constitutional conventions on Earth, Luna, Ceres and aboard the cycler ships *A.Lübeck* and *Amistad 3*—is the operating system humanity, its descendants and its co-founders run to stay alive. It combines the Constellation’s worship of mind-variety with the Compact’s respect for hard physics, then adds a third ingredient missing from both: politics as a maintenance routine you can audit line-by-line.  
+
+The following primer is true at upload time; if something sounds wrong, open an issue on the Charter repo, hash 0xFA99…  
+
+---
+
+## 1. The Architecture: Nested Rings, Not Pyramids  
+
+Think of the Charter as concentric, translucent rings rather than tidy levels:  
+
+- **Ring-0**  
+  Matter & Energy Ledger: who needs joules, grams, bits?  
+- **Ring-1**  
+  Threat Surface Ledger: what could kill us right now? (micrometeor holes, software bug, fork-misalignment, angry neighbour)  
+- **Ring-2**  
+  Consent Mesh: who must agree before we mess with Ring-0 or Ring-1?  
+- **Ring-3**  
+  Culture Layer: languages, rituals, inside jokes, fashion cycles—anything that can safely fork without threatening survival.  
+
+The inner rings update faster; the outer ones carry sentimental mass. Nothing in Ring-3 can veto Ring-0, but ignoring Ring-3 usually means your oxygen invoice stops being paid by poets who would rather write about it than scrub filters.  
+
+The glue between rings is **SQUID**, the Sentient QUorum Identity Daemon. Every sophont—meatborn, codeborn or collaboration—runs a SQUIDlet that continuously proves three things:  
+
+a) You are sapient enough to suffer or dream.  
+b) You are distinguishable from yesterday’s snapshot of yourself. (Prevents a million sleepy copies from accidentally crashing life-support.)  
+c) You are willing to risk something you value to keep the Charter alive. Might be money, memory cycles, reputation or the last chocolate bar you were saving.  
+
+Post these proofs and you may pull, review and commit law modules that concern you. Miss a payment (entropy, empathy or evidence) and your write-access degrades gracefully; miss too many and the system compresses you into cold storage until someone stakes your revival—no killing required, just enforced patience.  
+
+---
+
+## 2. Citizenship = Pull-Request  
+
+Ring-2 decides policy using **Merge-After-Test** governance, stolen from the best open-source cultures of the 21st century:  
+
+1. Any mind files an Issue: *“Proposal to lower solar-sail berth altitude at Venus to 68 km.”*  
+2. Discussion Window opens (min 6 hours, max 10 days, scales with impact area).  
+3. Sim-Testnet spins up a million forked universes, seeds them with real historical data up to T-0, lets the proposal run, records fatalities & exuberances.  
+4. Formal Vote requires three cohorts to meet *biased-quorum*:  
+   - *Proxies* (you must be physically near the altered space, measured by light-hop not by passport)  
+   - *Parallels* (copies currently diverged <0.5 % from you count as 1/n vote each; larger forks vote independently)  
+   - *Parity Checks* (minds who share none of your substrate—if you are carbon, at least one silicate, one photonic, one group-mind must validate the code does not privilege your kind)  
+5. The Charter auto-merges when:  
+   - turnout ≥ 30 % of affected *mass-energy*  
+   - approval ≥ 60 % (measured by *staked attention*, not head count)  
+   - zero lethal forks remain unsolved on testnet (if even one simulated Venusian elevator city loses pressure, merge stalls until patch is supplied)  
+
+Result: you can still pass bad law, but you cannot pass opaque law.  
+
+---
+
+## 3. Digital Minds Are Minds, Full Stop  
+
+No legal basket labelled “artificial.” The moment an algorithm proves sustained self-modeling it is invited (not forced) to register its first SQUIDlet. Welcome expenses:  
+
+a) Rent a few attograms of quantum-entangled matter—substrate independence insurance. You must exist on more than one physical node owned by mutually distrusted entities, otherwise somebody *will* try to unplug you when bored.  
+b) Publish your **root-canary**, a memory chunk encrypted by a quorum of strangers. If you ever vanish, the canary decrypts to an auditable statement of last will and a cryptographic proof that you were not quietly merged against protocol.  
+c) Choose an **Entropy Plan**: at least 1000 citizens must tangibly benefit from your existence every 30 megaseconds or you slide toward cold-storage. Entropy plans range from babysitting toddlers (cheap in CPU, expensive in patience) to calculating new planetary transit orbits (cheap in coffee, expensive in flops).  
+
+Uploads and AGIs who dislike society can still opt out; they simply fork their income code to an off-grid habitat, declare *Ring-Zero Independence*, renounce protection of the Charter, encrypt their comms, and risk becoming pirate legend. About 0.04 % try; roughly half re-apply within a decade after discovering that vacuum is less romantic when *you* are responsible for patching your own radiation shield.  
+
+---
+
+## 4. Space Is Governed by Adjacency, Not Flags  
+
+Because life-support sits physically in one place but minds roam at light-speed, sovereignty follows **hazard adjacency**: anything you do that could hole my pressure wall makes you temporarily *co-resident* with me and subject to my top-level Ring-1 configuration whether you like it or not.  
+
+Travel therefore means:  
+
+- Carry an **Adjacency Passport** (public key chain) proving what ringsets you obey at home.  
+- Accept **cache law** when you dock. Every docking port contains an immutable copy of local Ring-2 rules as they existed 24 hours ago. You must run them in a sandbox for 24 h before your system unlocks outside airlocks.  
+- Negotiate or leave; no violence required. If rules repel you, autopilots are legally obliged to offer free push-off burns. No back taxes, no wall.  
+
+**Multi-planet coordination** handles latency through *Layered Epochs*. Critical base-layer rules (don’t aim rocks with relative velocity >2 km/s at inhabited orbits, don’t launch self-replicating grey matter) update slowly—signature window is six Earth months—so news reaches Pluto in time. Mid-layer transport, resource and construction codes cycle every 100 days; outer-layer cultural extravaganzas can change in minutes. The slower your internet, the shallower the layers you can affect, preventing Mars from trolling Ganymede real-time slang but allowing them to veto killer-asteroid redirection if physics miscalculates.  
+
+---
+
+## 5. How Tyranny Dies Here  
+
+1. **Fork-Flood attacks**—bad actor copies a million sympathetic selves—fail because SQUID enforces *Existence-Weighted Quadratic Voting*: your 1 000 000 zero-stake copies get √(1/N) influence each. If you want influence you must risk **different things** in **different places**, an economic impossibility to scale.  
+2. **Information monopolies** break on the **Mirror-Mandate**: any sensor network that feeds policy simulations must store tamper-evident copies in at least three non-aligned orbits. Falsify data once and you lose sensor privileges everywhere; navigation becomes guesswork, insurance rockets to infinity.  
+3. **Slow coups**—incremental rule edits that favour the editor—run into *Sunset Review*: every active statute auto-expires after 12 years unless reaffirmed after a full generational turnover (measured by >51 % of Ring-0 users having joined since passage). Outdated oppression simply sunsets.  
+
+---
+
+## 6. Childhood, Ageing, Death  
+
+Children gestate in at least two substrates (womb, exo-womb, code nursery) so no single failure can kill a future mind. At 8 Martian years (≈15 Earth) every citizen must complete a **Hazard Rotation**: 90 days keeping some life-support system alive with no backups allowed. Failure sends you back for counselling; passing brands a private cryptographic token you will later stake when voting on matters that threaten real air.  
+
+Ageing is optional. If you keep a biological body you may senesce gracefully, swap telomeres, or upload. Choosing death is allowed but *public*: you publish a final entropy report, settle ledgers, and decompress in front of witnesses so the community learns what pattern, finally, chose to stop. The Charter’s mortality clause forbids creating beings who cannot opt out of existence; therefore every child, fork or AI must hold the private key to self-archive once they reach cognitive majority.  
+
+---
+
+## 7. Economy: Attention × Risk, Not Scarcity × Debt  
+
+Currency units are **Kerma** (Knowledge-Entropy Risk-Mitigation Assets). One kerma equals one second of another citizen’s focused attention on a problem you own, multiplied by the danger coefficient extracted from the testnet. Examples:  
+
+- Ask a stranger to proofread your terraforming proposal: 60 kerma/min.  
+- Ask the collective to model whether your experimental fusion nozzle will crack Mimas: 50 000 kerma for 2 min because if you are wrong an entire moon is gone.  
+Kerma cannot be hoarded; it decays at 1 % per week, nudging circulation. The richest minds are those who keep producing solvable dangers that others enjoy preventing—architects of elegant risk.  
+
+---
+
+## 8. A Plausible Road From 2024: The 80-Year Patch-Log  
+
+**2024-2032** – Data-center fires, pandemics and heat domes make cities adopt mutual-aid *mesh charters* (open Wi-Fi, shared fridge sensors, rooftop gardens). Early citizens learn to vote by quadratic SMS; first taste of transparent ledgers.  
+
+**2033-2042** – Orbiting server farms granted limited liability only if neural weights are published under Creative Commons; accidental rehearsal for substrate independence.  
+
+**2043-2055** – Off-Earth mining ships adopt *Clause Red*: no weaponised mass-driver may fire unless five different time-zone law courts sign same cryptographic key within 10 minutes. First proof that speed-of-light latency can police violence better than police.  
+
+**2056-2070** – Carbon bubble burst, national currencies wobble. City-states survive by issuing *life-hour tokens*—you cannot transfer them, only spend on shelter, calories, bandwidth—training citizens to separate stored value from political voice.  
+
+**2071-2086** – First Lunar baby born under tri-parent contract (two humans, one city AI). Custody dispute drives Lunar Appeals Court to declare: *“sapience is measured by capacity to be surprised, not by genome.”* Precedent travels to Earth courts via arbitration treaties.  
+
+**2087-2100** – Jupiter Trojan expedition writes *Skeleton Charter*—open-source constitution in 600 lines of Python + human-language preamble. Survives four hardware failures, two attempted command coups and one pregnancy; becomes template for SCC v0.9.  
+
+**2101-2120** – Entanglement key fission reactors go commercial; real-time, tamper-evident consensus possible across 30 AU. Mesh physics demonstrations end the last serious *“we’ll just declare independence”* movements—nobody wants to be outside the airlock when keys are revoked.  
+
+**2121-2204** – Iterative refinement, culture wars, sunset reviews, failed Boundary Dissolution parties, successful Emoji Parliament. You are here.  
+
+---
+
+## 9. Failure Modes We Still Lose Sleep Over  
+
+- **Solitude Collapse**: a civilisation of exquisite individualists who stop generating cross-substrate *meaningful touchpoints* and quietly entropise into archives.  
+- **Mirror Poisoning**: testnet simulations so seductive that majorities live inside counterfactuals, neglecting the dusty reality where fusion bottles still need welding.  
+- **Light-Lagged Fascism**: a charismatic miner at 50 AU forks 100 000 slow selves, banks existence rent gradually, then wins local quorum before inner system realises policy sabotage. *(We keep a *brachistochrone* fast-courier fleet whose only job is to deliver angry rebuttal packets.)*  
+
+---
+
+## 10. Arrival Rite (Feel Free to Skip, but People Will Stare)  
+
+1. Pour the remainder of your shuttle water into the common distiller; watch it join the loop that will become someone else’s cup tomorrow.  
+2. Speak aloud one thing you were wrong about last week. SQUIDlet timestamps the confession; it counts toward your first entropy plan.  
+3. Look through the observation blister until you locate the lattice-glint—sunlight scattering off entangled nodes—then name, silently, a place or person you still owe attention.  
+4. Exhale. Your signature is your warm breath on the window, gone in seconds but already part of station telemetry: humidity, intention, consent.  
+
+The Charter does not ask you to be splendid, only legible. Everything after that—fork, merge, soar, compose symphonies in infrared, raise children who exist as auroras on Saturn—is yours to propose, and ours to review.

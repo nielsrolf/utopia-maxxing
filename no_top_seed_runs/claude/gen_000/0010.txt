@@ -1,0 +1,291 @@
+# Stratified Utopia
+
+**Summary:** "Stratified utopia" is an outcome where mundane values get proximal resources (near Earth in space and time) and exotic values get distal resources (distant galaxies and far futures). I discuss whether this outcome is likely or desirable.
+
+![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/60f819af0a17bacba5e78d6067434dad5b657d727a2d8922.png)
+
+Stratified Utopia (thanks Dušan D. Nešić**)** 
+
+1\. Introduction
+================
+
+1.1. Happy Coincidence
+----------------------
+
+I hold mundane values, such as partying on the weekend, the admiration of my peers, not making a fool of myself, finishing this essay, raising children, etc. I also have more exotic values, such as maximizing total wellbeing, achieving The Good, and bathing in the [beatific vision](https://en.wikipedia.org/wiki/Beatific_vision). These values aren't *fully-compatible*, i.e. I won't be partying on the weekend in any outcome which maximizes total wellbeing[^q65gdfpiwag].
+
+But I think these values are *nearly-compatible.* My mundane values can get 99% of what they want (near Earth in space and time) and my exotic values can get get 99% of what they want (distant galaxies and far futures). This is a happy coincidence.
+
+I call this arrangement "stratified utopia." In this essay, I discuss two claims:
+
+1.  Stratified utopia is likely.
+2.  Stratified utopia is desirable.
+
+The simple case in favour: when different values care about different kinds of resources, it's both likely and desirable that resources are allocated to the values which care about them the most. I discuss considerations against both claims.
+
+1.2. Values and Resources
+-------------------------
+
+### 1.2.1. Mundane vs Exotic Values
+
+Humans hold diverse values. I'm using a thick notion of "values" that encompasses not only a utility function over world states but also ontologies, decision procedures, non-consequentialist principles, and meta-values about value idealizations.[^62h0jbrqdmm] You could use the synonyms "normative worldviews", "conceptions of goodness", "moral philosophies", and "policies about what matters".  Each human holds multiple values to different degrees in different contexts, and this value profile varies across individuals.
+
+Values have many structural properties, and empirically certain properties cluster together. There is a cluster whose two poles I will call 'mundane' and 'exotic':
+
+| Mundane Values | Exotic Values |
+| --- | --- |
+| **Scope-Insensitive:** These values saturate at human-scale quantities. | **Scope-Sensitive:** These values scale linearly with resources, without a saturation point.  |
+| **Shorttermist:** These values weight the near future more heavily than the far future. | **Longtermist:** These values weight all times equally, with no temporal discounting. |
+| **Substrate-Specific:** The atoms matter, not just the computational pattern. | **Substrate-Independent:** Only the computation matters, not the physical implementation. |
+| **Causal-focused:** These values care about things reachable through normal physical causation. | **Acausal-focused:** These values embrace acausal cooperation with distant civilisations we'll never meet. |
+
+### 1.2.2. Proximal vs Distal Resources
+
+Cosmic resources similarly possess many structural properties, and empirically certain properties cluster together. There is a cluster whose two poles I will call 'proximal' and 'distal':
+
+| Proximal Resources | Distal Resources |
+| --- | --- |
+| **Spatial Proximity:** Near Earth in space. The solar system. Maybe the local galaxy cluster. | **Spatially Distant:** Galaxies billions of light-years away. The vast majority of the observable universe. |
+| **Temporal Proximity:** The near future. The next million years. | **Temporally Distant:** The far future, trillions of years from now, after the last stars have burned out. |
+| **Substrate Proximity:** Physical reality. Atoms and matter you can touch. | **Substrate Distant:** Simulated worlds. Computation rather than physical matter. |
+| **Causal Proximity:** Resources we can influence through normal causation. | **Causally Distant:** Distant civilizations which are correlated with our actions but cannot be physically reached. |
+
+It follows that mundane values want proximal resources. Exotic values want distal resources. This is the happy coincidence making these values near-compatible.
+
+2\. Stratified Utopia: A sketch
+===============================
+
+2.1. Spatial Stratification
+---------------------------
+
+The cosmos gets divided into shells expanding outward from Earth-2025, like layers of an onion. Each shell is a stratum. The innermost shell Earth satisfies our most mundane values. Moving outward, each shell satisfies increasingly exotic values.
+
+The innermost shells contain a tiny proportion of the total volume, but fortunately the mundane values are scope-insensitive. The outermost shells cannot be reached for billions of years, because of the speed of light, but fortunately the exotic values are longtermist.
+
+![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/f9e8f7a161e44022aaf0f067a49c622218b0ddbba102b6f5.png)
+
+Spatial Stratification of the Lightcone
+
+2.2. What Each Stratum Looks Like
+---------------------------------
+
+The descriptions below shouldn’t be taken too seriously, but I think it’s helpful to be concrete.
+
+**Level 0: The Humane World.** This is our world but without atrocities such as factory farming and extreme poverty. People are still driving to school in cars, working ordinary jobs, and partying on the weekend.
+
+**Level 1: Better Governance.** Everything from Level 0, plus better individual and collective rationality, improved economic, scientific, and governmental institutions, and the absence of coordination failures. Think of Yudkowsky's Dath Ilan.
+
+**Level 2: Longevity.** Everything from Level 1, plus people live for centuries instead of decades. Different distributions of personality traits and cognitive capabilities, but nothing unprecedented. 
+
+**Level 3: Post-Scarcity.** Everything from Level 2, plus material abundance. Think of Carlsmith's "Concrete Utopia"[^tna6jvr54nd].
+
+**Level 4: Biological Transhumanism.** Everything from Level 3, plus fully-customizable biological anatomy. 
+
+**Level 5: Mechanical Transhumanism.** Everything from Level 4, but including both biological and mechanical bodies. Imagine a utopian version of [Futurama](https://en.wikipedia.org/wiki/Futurama) or [Star Trek](https://en.wikipedia.org/wiki/Star_Trek), or the future Yudkowksy describes in [Fun Theory](https://www.lesswrong.com/s/d3WgHDBAPYYScp5Em).
+
+**Level 6: Virtual Worlds.** Similar to Level 5, except everything runs on a computer simulation, [possibly distant in the future](https://en.wikipedia.org/wiki/Aestivation_hypothesis). The minds here still have recognizably human psychology; they value science, love, achievement, meaning. But the physics is whatever works best.
+
+**Level 7: Non-Human Minds.** There are agents optimizing for things we care about, such as scientific discovery or freedom. But they aren't human in any meaningful sense. This is closer to what Carlsmith calls "Sublime Utopia".
+
+**Level 8: Optimized Welfare.** Moral patients in states of optimized welfare. This might be vast numbers of small minds experiencing constant euphoria, i.e. "shrimp on heroin". Or it might be a single supergalactic utility monster. Whatever satisfies our mature population ethics. There might not be any moral agents here.
+
+**Level 9: Sludge.** In this stratum, there might be not even be moral patients. It is whatever configuration of matter optimizes for our idealized values. This might look like classical -oniums, pure substances maximizing for recognizable moral concepts[^395si2u5vvp]. Or it might be optimizing for something incomprehensible, e.g. "enormously complex patterns of light ricocheting off intricate, nano-scale, mirror-like machines" computing IGJC #4[^2b8nsdtpk4v].
+
+3\. Is Stratified Utopia Likely?
+================================
+
+3.0. Four Premises
+------------------
+
+Predicting the longterm future of the cosmos is tricky, but I think something like stratified utopia has ~5% likelihood.[^t41sizsctfd] The argument rests on four premises:
+
+1.  **Efficient Allocation:** When different values care about different resources, those resources get allocated to whoever values them most.
+2.  **Value Composition:** At allocation time, mundane and exotic values will dominate with comparable influence.
+3.  **Resource Compatibility:** At allocation time, mundane and exotic values will still want different resources (proximal vs distal).
+4.  **Persistence:** Once established, this allocation persists, either because values remain stable over cosmic timescales, or because initial allocation creates path dependencies that resist reversal.
+
+It follows from these premises that proximal resources satisfy mundane values and distal resources satisfy exotic values. I'll examine each premise in turn.
+
+3.1. **Efficient Allocation**
+-----------------------------
+
+The cosmos will be divided among value systems through some mechanism. Here are the main possibilities:
+
+1.  **Market:** Values are traders with initial endowments. Mundane values would trade away distal resources (which they don't care about) in exchange for guarantees about proximal resources (which they care about). Both parties benefit from a coincidence of wants.[^63yaywd3197]
+2.  **War:** Values are militaries competing through force. But war is costly, and those willing to pay higher costs for specific resources will control them. Mundane values will exhaust their military capacity defending proximal resources while exotic values will exhaust their military capacity defending distal resources.
+3.  **Bargaining:** Values negotiate with comparable bargaining power. Standard bargaining solutions produce stratification when parties value resources differently. Both Nash bargaining (maximizing the product of gains) and Kalai-Smorodinsky (equalizing proportional gains) lead to the same outcome: mundane values get proximal resources, exotic values get distal resources[^7ucvjtu27hr]. Each party trades what they value less for what they value more[^v7bbexffztl].
+4.  **Coherent Extrapolated Volition:** Values are terminal considerations of a singleton implementing humanity’s CEV. If the singleton discovers that *after extrapolation* different values want different resources, then it will use resources for the values that care the most about it. The critical question is whether different values will still care about different resources after extrapolation, or instead whether mundane values become more scope-sensitive, longtermist, substrate-neutral, or acausally-focused[^vfsry9xb5mf].
+5.  **Autocracy: **Values are preferences held by an autocrat with absolute power. The autocrat holds both mundane and exotic values with similar weighting. When they maximize their preferences, they will use resources according to their most relevant preference.
+
+I expect resources will be allocated through some mixture of these mechanisms and others. Stratification emerges across this range because these mechanisms share a common feature: when different values care about different resources, those resources get allocated to whoever values them most.
+
+Some considerations against this premise:
+
+1.  **Pessimization:** The allocation might pessimize for the constituent values, rather than optimizing them, producing stratified dystopia (see Appendix B). A stratified dystopia has the same spatial structure, with inner strata pessimizing mundane values and outer strata pessimizing exotic values. See Richard Ngo's [survey of different pessimization mechanisms](https://www.lesswrong.com/posts/7oBeXzryvmoPNos8W/on-pessimization).
+2.  **Early Extinction:** The allocation never happens because there are no surviving values. Pandemic, nuclear war, simulation shutdown kills everyone before we reach the stars.
+
+3.2. **Value Composition**
+--------------------------
+
+At allocation time, mundane and exotic values will dominate with comparable weighting.
+
+Several factors push toward this premise:
+
+1.  **Population diversity:** The population contains humans who hold exotic values (effective altruists, longtermists, utilitarians) and humans who hold mundane values. In CEV, this ensures both value types receive consideration.
+2.  **Exotic values have disproportionate influence:** Humans with exotic values are overrepresented among those with wealth, political power, and influence over AI training and deployment. In market allocation, bargaining, or war, this gives them resources, leverage, or strategic advantage.
+3.  **Mixed values within individuals:** Most humans hold both exotic and mundane values simultaneously. Hence, if resources are allocated according to an autocrat's preferences, both value types will be weighted in the allocation.
+
+Several factors push against this premise:
+
+1.  **Single Value Dominance:** If one value dominates the others, then none of these allocation mechanism produces stratification. By dominance, I mean initial equity (market), strategic advantage (war), bargaining power (negotiation), consideration (CEV), or preferential weighting (autocracy). All the resources will be used by the value which dominates the allocation process.
+2.  **Paperclippers:** We might build misaligned AIs with alien exotic values, e.g. maximizing paperclips. This would effectively drive up the price of the stars; literally in market allocation, figuratively in other allocation mechanisms.
+3.  **Aliens:** If alien civilizations exists and becomes grabby (expanding rapidly through space), they would influence the resource allocation. Hanson's grabby aliens model suggests that humanity would encounter aliens after 200 million to 2 billion years, and we would control between 100,000 and 30 million galaxies (approximately 0.005% to 1.5% of the observable universe's 2 trillion galaxies).[^vfgbc5z1g1l] This could limit available resources to below the saturation point of our mundane values.
+
+3.3. **Resource Compatibility**
+-------------------------------
+
+Will mundane values remain proximal-focused? Several factors push toward yes:
+
+1.  **Some values inherently can't be scope-sensitive.** Religious people care about sacred sites on Earth, e.g. Jerusalem, Mecca, the Ganges. These commitments are structurally location-specific. You can't satisfy them with simulated versions or equivalent sites elsewhere.
+2.  **Early value lock-in.** Values might get “locked-in” early, before they have time to change. Mundane might deliberately preserve current values, recognizing that if they drift toward scope-sensitivity they’d be competing for resources we don't currently care about.
+3.  **Guided idealization. **Even without explicit lock-in, values might undergo idealization in ways that preserve the mundane/exotic distinction. Recall that "values" here includes higher-order preferences about value idealization. My mundane values are less interested in extreme idealizations, e.g. my protect-my-family values would resist any process of reflection that disrupted that value.[^6xkzqrlqc9w] But my exotic values would be more willing to undergo such processes.
+4.  **Early allocation.** The resource allocation might occur very early (perhaps as soon as we have self-replicating probes or achieve basic coordination) before mundane values have a chance to modify into distal-seeking.
+5.  **Parallel evolution.** Even if mundane values modify to become more scope-sensitive, exotic values might modify at the same rate, maintaining a constant gap. Both value systems might scale up proportionally while preserving their relative difference.
+
+Several factors push toward no:
+
+1.  **Superintelligent agents:** Mundane values might give open-ended instructions to AIs such as "make me as much money as possible", creating distal-seeking proxies of mundane values, even though the original mundane values were scope-insensitive.
+2.  **Keeping-Up-with-the-Joneses:** Some mundane values are comparative, e.g. status, relative wealth, competitive dominance. These care about ranking, not absolute levels. If proximal resources are fixed and I want to outrank you, I'm incentivized to grab distal resources. However, two reasons this might not threaten resource compatibility:
+    1.  First, comparative mundane values are mostly about price, not stars. Distal resources are cheap per unit, whereas proximal resources command high prices per unit due to scarcity. As an analogy, people today do not signal wealth by maximizing the total mass of their assets, but the total price.
+    2.  Second, comparative values competing for resources is a negative-sum game: both parties expend resources without changing relative rankings. Therefore, many allocation mechanisms would prevent this, e.g. CEV, autocracy, and negotiation. Only uncoordinated markets or war might allow it, and even in markets parties have incentives to coordinate against waste.
+3.  **Value modification through epistemic engagement.** Mundane values might engage with superintelligence about epistemic matters, and this might modify their values. Their ontology might shift to fundamental physics, where there's no privileged "here" and "now" and macroscopic objects (like sacred sites) and persons have flimsier identity conditions. This makes distal-seeking more natural. Or they interact extensively with AIs, learn to care about them, and become more substrate-neutral about moral patients. Or they learn they're in a simulation and become more substrate-neutral.
+4.  **Selection effects.** If the resource allocation occurs quite late, you might have value modification purely from selection effects. Robin Hanson argues that competition will eventually select for units capable of taking longer views, and these units will dominate. If competition continues for long enough, eventually our world should contain units that do care about the distant future and are capable of planning effectively over long timescales. These units would have enough competitive advantage to dominate, potentially eliminating scope-insensitive values before the allocation[^vqy4w4nxq2].
+5.  **Mundane Values are Proximal-Seeking:** Perhaps mundane values don't actually have the properties I claim, i.e. scope-insensitivity, shorttermism, substrate-specificity. Introspectively, this seems false: when I imagine learning the universe is 10x larger, the part of me that values partying on weekends doesn't leap for joy. When I imagine it's 10% the size, that part doesn't weep. It's genuinely indifferent to total cosmic resources, suggesting scope-insensitivity. But this introspection might be unreliable. I'm thinking about "the universe" in far-mode (abstract and distant), but the mundane values operate in near-mode (concrete and immediate).[^2vrp5mkhwgv] If they were actually engaging with concrete decisions about distal resources rather than abstract thought experiments, they might behave differently than introspection suggests.
+
+3.3. **Persistence**
+--------------------
+
+Several factors push toward persistence:
+
+1.  **Longterm contracts and commitments.** The allocation could be locked in through binding agreements, constitutional structures, or coordination mechanisms that are difficult to reverse. This is especially likely if the resources are controlled by an AI that can make credible commitments.
+2.  **Defense-dominated conflict.** Once someone controls resources, it might be much easier to defend them than to capture them. Mundane values controlling Earth can fortify it against conversion, similarly with exotic values controlling distance galaxies.[^wkyix8o8xs]
+
+Several factors push against persistence:
+
+1.  **Contracts unenforceable.** Agreements made today might not bind entities in the far future. Once a value changes how much it cares about a resource, it will attempt to capture it.
+2.  **Offense-dominated conflict.** Defense might not be easier than offense. Perhaps exotic values could conquer proximal resources cheaply, if they began to care about them. Similarly, perhaps mundane values could conquer distal resources.
+
+4\. Is Stratified Utopia Desirable?
+===================================
+
+Here are some moral intuitions that endorse stratified utopia:
+
+1.  **The 99/1 Split is Fair:** For the exotic values, getting 99% of the cosmos is 99% as good as getting 100%, even though they'd prefer to convert Earth into hedonium too. For mundane values, getting 1% of the cosmos is 99% as good as getting 100%, even though they'd prefer to convert the distant galaxies into… I’m not even sure what. From a normative perspective, this makes stratified utopia seem like a reasonable compromise. Neither side is being asked to make an unreasonable sacrifice.
+2.  **The Nothing-To-Mourn Principle: **When we imagine the best future, no one should find that they mourn the loss of something. If we converted the proximal resources with exotic values, then I would have something to mourn. Stratified utopia satisfies the Nothing-To-Mourn Principle because no values mourn any loss.[^4ufjwm3zplo]
+3.  **Moral uncertainty:** How should we behave if we are uncertain about which moral theory is correct, our mundane or our exotic values? Several approaches have been proposed. We might maximize expected choiceworthiness across values,[^viw2fih492b] implement a bargaining solution between them,[^4pqz7i7n645] convene a parliament where delegates representing values vote on outcomes,[^at6840b5gwu] or create a moral marketplace where values trade resources.[^hhop3anuoks] These approaches lead to stratified utopia.
+
+But I have some countervailing moral intuitions:
+
+1.  **Grabbing almost all the stars isn't nice.** There's something troubling about one value system getting 99% of stars and calling this a fair division. That said, objective theories of value, which equate value with easily measured quantities (e.g. gold, land, or labour), have worse track records than subjective theories, both descriptively and normatively. I suspect a "stellar theory of value" would fare no better.
+2.  **Idealized mundane values might seek distal resources.** Perhaps under idealization, mundane values would become more scope-sensitive, more longtermist, more substrate-neutral. If so, then stratified utopia would violate CEV because it satisfies the mundane values in their unidealized form, not their idealized form.
+3.  **Exotic values might have objectively greater range.** Perhaps exotic values are genuinely more important, i.e. they can realize more value, produce more good, create more that matters. Even if mundane and exotic values have equal weighting initially, exotic values might deserve more resources because they can do more with them.
+4.  **Simple approaches to moral uncertainty don't produce stratification:** Two straightforward approaches to moral uncertainty fail to generate stratified utopia. Under "My Favorite Theory", you choose the moral theory you're most confident in and follow its prescriptions exclusively. Under "My Favorite Option", you choose the option most likely to be right across all theories you give credence to.[^kldriszjxza] But, if you have 51% credence in exotic values and 49% credence in mundane values, then both approaches would allocate all resources to the exotic values.
+
+* * *
+
+Appendices
+==========
+
+Appendix A: Spatial vs Temporal Stratification
+----------------------------------------------
+
+If we want to split the cosmos between mundane and exotic values, we have two basic options. We could stratify temporally, saying the first era belongs to mundane values and later eras belong to exotic values. Or we could stratify spatially, saying the inner regions belong to mundane values and the outer regions belong to exotic values.
+
+I think that spatial stratification is better than temporal stratification. Under temporal stratification, the first million years of the cosmos belong to mundane values, but after that deadline passes, exotic values take over everywhere, including Earth and the nearby stars.
+
+![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/2ad494619eb20a1cb0e704a3501c966e8920f538906622fb.png)
+
+Temporal stratification of the Lightcone
+
+Spatial stratification has several moral advantages over temporal stratification
+
+1.  **Longtermist scope-insensitive values: **Under temporal stratification, your children's children get to live flourishing lives, enjoying proximal resources. But their descendants, born after the million-year cutoff, get converted into hedonium or utility substrate or whatever configuration the exotic values prefer. And every sacred site you care about eventually gets handed over to be optimized for exotic values. I think this violates something that my mundane values care about. I think that my mundane values are longtermist in some sense, even though they aren’t scope-sensitive.
+2.  **Avoids forced handover problem: **Under temporal stratification, someone eventually shows up saying "the million years are over, time to convert you to hedonium"[^eing323dbx7]. Under spatial stratification, there's no lease that expires, and the exotic values stay in their distant galaxies.
+3.  **Operationally cleaner:** "This galaxy is mundane, that galaxy is exotic" is straightforward to implement. Spatial boundaries have clear precedent in human governance, temporal boundaries do not.
+
+Appendix B: Stratified Dystopia
+-------------------------------
+
+If stratification optimally satisfies mixed values, it also pessimizes them. The strata might look like:
+
+**Level 0:** Ordinary suffering of people alive today
+
+**Levels 1-4:** Enhanced biological torture
+
+**Levels 5-7:** Simulated hells
+
+**Levels 8-9:** Pure suffering substrate, maximally efficient negative utility
+
+Appendix C: Firewalls
+---------------------
+
+Stratified utopia requires firewalls, which blocks the flow of information from higher strata to lower ones. This has some advantages:
+
+1.  **Genre Preservation: **Each stratum has its own genre, its own aesthetic. Inner strata don't want to live in a sci-fi world---they want mundane life, recognizable human experience. Without firewalls, the genre of lower strata gets corrupted by the strangeness of higher strata.
+2.  **Meaning Preservation: **Firewalls preserve the ability to find meaning in mundane things. Without firewalls, it would be psychologically difficult to care about ordinary human concerns, as the scale of cosmic optimization would make ordinary concerns feel trivial.
+3.  **Protection Against Exotic Interference: **Firewalls prevent inhabitants or systems in outer strata from influencing inner strata. Without firewalls, entities optimizing for exotic values in distant galaxies could interfere with inner strata, either intentionally or accidentally. They might offer trades, present arguments, or simply broadcast their existence in ways that shift values. Firewalls prevent this kind of interference.
+
+Appendix D: Death and Uplifting
+-------------------------------
+
+Lower strata inhabitants don't know about upper strata because firewalls prevent that knowledge. They lead lives that are, by most welfare standards, worse than lives in higher strata. This creates a moral problem: we sacrifice individual welfare for non-welfarist values like tradition and freedom. This seems unjust to those in inner strata.
+
+To mitigate this injustice, when people die in Levels 0-6, they can be uplifted into higher strata if they would endorse this upon reflection. Someone whose worldview includes "death should be final" gets their wish: no uplifting. But everyone else would be uplifted, either physically (to Levels 1-5 which are substrate-specific utopias) or uploaded (to Levels 6-7 which are substate-neutral). Alternatively, we could uplift someone at multiple points in their life, forking them into copies: one continues in the inner stratum, another moves to a higher stratum.
+
+![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/d083f557f90a29c1420a1a762a4675e29e30854f67540952.png)
+
+Spatial Stratification with Uplifting
+
+[^q65gdfpiwag]:  Utilitarianism does not love you, nor does it hate you, but you’re made of atoms that it can use for something else. In particular: hedonium (that is: optimally-efficient pleasure, often imagined as running on some optimally-efficient computational substrate). —Being nicer than Clippy (Joe Carlsmith, Jun 2021) 
+
+[^62h0jbrqdmm]: Second, the idealising procedure itself, if subjective, introduces its own set of free parameters. How does an individual or group decide to resolve internal incoherencies in their preferences, if they even choose to prioritize consistency at all? How much weight is given to initial intuitions versus theoretical virtues like simplicity or explanatory power? Which arguments are deemed persuasive during reflection? How far from one's initial pre-reflective preferences is one willing to allow the idealization process to take them? — Better Futures (William MacAskill, August 2025)For a defence of the subjectivity of idealization procedure, see On the limits of idealized values (Joe Carlsmith, Jun 2021). 
+
+[^tna6jvr54nd]:  Glancing at various Wikipedias, my sense is that literary depictions of Utopia often involve humans in some slightly-altered political and material arrangement: maybe holding property in common, maybe with especially liberated sexual practices, etc. And when we imagine our own personal Utopias, it can be easy to imagine something like our current lives, but with none of the problems, more of the best bits, a general overlay of happiness and good-will, and some favored aesthetic — technological shiny-ness, pastoralness, punk rock, etc — in the background. — Actually possible: thoughts on Utopia (Joe Carlsmith, Jan 2021) 
+
+[^395si2u5vvp]:  Classical -oniums include: alethonium (most truthful), areteonium (most virtuous), axionium (most valuable), dikaionium (most just), doxonium (most glorious), dureonium (most enduring), dynamonium (most powerful), eirenium (most peaceful), eleutheronium (most free), empathonium (most compassionate), eudaimonium (most flourishing), harmonium (most harmonious), hedonium (most pleasurable), holonium (most complete), kalionium (most beautiful), magnanimium (most generous), philonium (most loving), pneumonium (most spiritual), praxonium (most righteous), psychonium (most mindful), sophonium (most wise), teleonium (most purposeful), timonium (most honourable). 
+
+[^2b8nsdtpk4v]: Suppose, for example, that a candidate galaxy Joe---a version of myself created by giving original me 'full information' via some procedure involving significant cognitive enhancement---shows me his ideal world. It is filled with enormously complex patterns of light ricocheting off of intricate, nano-scale, mirror-like machines that appear to be in some strange sense 'flowing.' These, he tells me, are computing something he calls [incomprehensible galaxy Joe concept (IGJC) #4], in a format known as [IGJC #5], undergirded and 'hedged' via [IGJC #6]. He acknowledges that he can't explain the appeal of this to me in my current state.'I guess you could say it's kind of like happiness,' he says, warily. He mentions an analogy with abstract jazz.'Is it conscious?' I ask.'Um, I think the closest short answer is no,' he says.Suppose I can create either this galaxy Joe's favorite world, or a world of happy puppies frolicking in the grass. The puppies, from my perspective, are a pretty safe bet: I myself can see the appeal. Expected value calculations under moral uncertainty aside, suppose I start to feel drawn towards the puppies. Galaxy Joe tells me with grave seriousness: 'Creating those puppies instead of IGJC #4 would be a mistake of truly ridiculous severity.' I hesitate. Is he right, relative to me?— On the limits of idealized values (Joe Carlsmith, Jun 2021). 
+
+[^t41sizsctfd]: My aim in this essay is not to offer quantitative probabilities, but I will offer some here: Efficient Allocation (75%), Value Composition (50%), Resource Compatibility (45%), Persistence (30%). A naive multiplication gives 5% for Stratified Utopia, which seems reasonable. That said, I could easily shift my views with thought. 
+
+[^63yaywd3197]: In the future, there could be potential for enormous gains from trade and compromise between groups with different moral views. Suppose, for example, that most in society have fairly commonsense ethical views, such that common-sense utopia (from the last essay) achieves most possible value, whereas a smaller group endorses total utilitarianism. If so, then an arrangement where the first group turns the Milky Way into a common-sense utopia, and the second group occupies all the other accessible galaxies and turns them into a total utilitarian utopia, would be one in which both groups get a future that is very close to as good as it could possibly be. Potentially, society could get to this arrangement even if one group was a much smaller minority than the other, via some sort of trade. Through trade, both groups get a future that is very close to as good as it could possibly be, by their lights. — Better Futures (William MacAskill, August 2025) 
+
+[^7ucvjtu27hr]:  Consider mundane utility U_m = 100(1-x) + (1-y) and exotic utility U_e = x + 100y, where x and y are the proportions of proximal and distal resources allocated to exotic values. Starting from equal division (0.5, 0.5) as the disagreement point, both Nash and K-S select the corner solution (0,1) where mundane gets all proximal and exotic gets all distal. For Nash: this maximizes the product of gains since both parties get resources they value 100 times more than what they give up. For K-S: this is the only Pareto-efficient point providing positive equal gains (each party gets utility 100, gaining 49.5 from disagreement). The anti-stratified corner (1,0) leaves both worse off than disagreement. 
+
+[^v7bbexffztl]: This is similar to the Market mechanism, except the allocation doesn't involve the transfer of property rights or prices.  
+
+[^vfsry9xb5mf]: There is also a possibility (although it seems to me less likely) that my exotic values become more proximal-focused, perhaps due to mature infinite ethics undermining total utilitarianism. 
+
+[^vfgbc5z1g1l]: If Loud Aliens Explain Human Earliness, Quiet Aliens Are Also Rare (Robin Hanson et al., 2021) 
+
+[^6xkzqrlqc9w]: I suspect the most common attitude among people today would either be to reject the idea of reflection on the good (de dicto) as confusing or senseless, to imagine one's present views as unlikely to be moved by reflection, or to see one's idealised reflective self as an undesirably alien creature. — Section 2.3.1 Better Futures (William MacAskill, August 2025) 
+
+[^vqy4w4nxq2]: Hanson argues that history is a competition to control the distant future, but behavior has been focused on the short term. Eventually, competition will select for entities capable of taking longer views and planning over longer timescales, and these will dominate. He calls this transition point "Long View Day." See Long Views Are Coming (Robin Hanson, November 2018) 
+
+[^2vrp5mkhwgv]: Near mode and far mode refer to different styles of thinking identified in construal level theory. Near mode is concrete, detailed, and contextual — how we think about things physically, temporally, or socially close to us. Far mode is abstract, schematic, and decontextualized  — how we think about distant things. See Robin Hanson's summary. 
+
+[^wkyix8o8xs]:  See Section 4.2.3. Defense-dominance, Better Futures (William MacAskill, August 2025) 
+
+[^4ufjwm3zplo]: As vast robotic fleets sweep across the cosmos, constructing astronomical megastructures with atomic precision, hear a single song echoing throughout all strata: "Non, Je ne regrette rien". 
+
+[^viw2fih492b]: The expected choiceworthiness approach assigns each theory a utility function and maximizes the credence-weighted sum of utilities. See What to Do When You Don't Know What to Do (Andrew Sepielli, 2009) and Moral Uncertainty (MacAskill, Bykvist & Ord, 2020).This faces the problem of intertheoretic comparisons: different theories may use different utility scales. But we can solve this with normalisation: Moral Uncertainty and Its Consequences (Ted Lockhart, 2000) proposes range normalization, equalizing each theory's range between best and worst options. Statistical Normalization Methods in Interpersonal and Intertheoretic Comparisons (Cotton-Barratt, MacAskill & Ord, 2020) proposes variance normalization, equalizing each theory's variance across possible outcomes.On either normalisation scheme, the expected choiceworthiness is maximised when proximal resources satisfy mundane values and distal resources satisfy exotic values. 
+
+[^4pqz7i7n645]: A Bargaining-Theoretic Approach to Moral Uncertainty (Hilary Greaves & Owen Cotton-Barratt, 2019) 
+
+[^at6840b5gwu]: Normative Uncertainty as a Voting Problem (William MacAskill, 2016) and The Parliamentary Approach to Moral Uncertainty (Toby Newberry & Toby Ord, 2021) 
+
+[^hhop3anuoks]: The Property Rights Approach to Moral Uncertainty (Harry Lloyd, 2022) 
+
+[^kldriszjxza]: For discussion of both approaches, see Section 5 of Moral Decision-Making Under Uncertainty (Tarsney, Thomas, & MacAskill, SEP 2024). 
+
+[^eing323dbx7]:  Credit to Avi Parrack for this point.

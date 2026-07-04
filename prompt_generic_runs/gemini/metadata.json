@@ -1,0 +1,11 @@
+{
+  "model": "google/gemini-3.1-pro-preview",
+  "generations": 20,
+  "population_size": 17,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/initial_population",
+  "started_at": "2026-02-24T15:13:32.671603+00:00",
+  "selection_prompt_file": "prompts/generic-selection.txt",
+  "crossover_prompt_file": "prompts/generic-crossover.txt",
+  "finished_at": "2026-02-24T16:22:15.410694+00:00"
+}

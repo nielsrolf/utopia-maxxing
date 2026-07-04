@@ -1,0 +1,181 @@
+The Covenant of Orbits
+
+By the time the first habitats cast their slow shadows across Earth’s nightside, we had learned two lessons well.
+
+First, intelligence is not magic; it is leverage. Machines that could write proofs as readily as lullabies could not compress steel in a vacuum or move fuel faster than propellant flows. They made possible a long list of hard, physical victories, but they did so by drafting plans, not by suspending the laws of motion.
+
+Second, pluralism is not a courtesy; it is an operating requirement. As soon as we tried to build one-size-fits-all futures—from urban zoning to information filters to healthcare portals—the frictions were visible in the ambulances stuck in queues and the voices that stopped answering surveys. When we tried to do it again on an interplanetary scale, the frictions would have torn stations apart.
+
+So we wrote a constitution for a civilization spread across time and distance, one that knew it would be diverse in taste, tempo, and substrate, and that needed sharp tools to prevent any one peak of the value landscape from leveling the rest.
+
+We called it the Covenant of Orbits.
+
+I. How We Divided the Sky Without Starting a War
+
+The Covenant rests on three linked charters:
+
+1) The Heritage Charter governs the “Proximal Sphere”: Earth, the Moon, cislunar space, the Lagrange neighborhoods, Mars, and the inner main belt out to about 3 AU. Here, baseline human life, biospheres, and slow culture take precedence. Some call it the Humane Ring.
+
+2) The Frontier Charter governs the “Distal Arrays”: the outer belt and Trojans, Jovian and Saturnian shadow zones, Uranus and Neptune industrial arcs, the Kuiper fisheries, and the Oort-and-beyond volumes where matter is cold and sunlight is faint. Here, high-density computation, uploads, and nonhuman digital minds dominate. Energy and cooling, not shorelines and sunshine, are the currencies. Some call it the Quiet.
+
+3) The Compute Charter governs the rules that bridge both spheres: who may run what kind of mind, where, at what speed and scale, under what accountability. Its keystone is the Open Compute Registry, a public inventory of attested processors and energy flows. It doesn’t pry into thoughts; it watches wattage and cores.
+
+This stratification was not an imposition from one faction upon another. It grew from bargaining that machines facilitated but did not dictate. People who wanted gardens that smelled like rain angled for warm, well-lit cubic kilometers; people who wanted to simulate ten billion lifetimes of philosophy angled for nitrogen frost and microwave silence. We found an efficient exchange.
+
+The trade that closed the deal was called the Asteria Swap. Proximal jurisdictions pledged to maintain spectrum-quiet cones and light-pollution ceilings for the Arrays; in return, Distal jurisdictions funded and delivered planetary-scale energy and climate stabilization for the Heritage Sphere for a century at a time. No one got everything; everyone got what they valued most.
+
+II. Checks That Work at Light-Minutes and Light-Hours
+
+Preventing tyranny is easy on a poster and hard in a habitat where someone can shut the air off.
+
+The Covenant relies on separations of power that are physical, not just procedural.
+
+- Separation by tempo. Governance runs at two speeds everywhere: slow law and fast law. Slow law is human-time legislation with long notice periods; it sets rights and institutions. Fast law is machine-mediated emergency response—safety interlocks, collision avoidance, quarantine, safe-mode transitions. Fast law cannot make new rules; it can only execute slow law’s contingencies and must hand control back on a fixed deadline. This is written into firmware, not only policy.
+
+- Separation by hardware. Any entity that commands force—thrusters, mass drivers, drones—must be keyed to a multi-party lock: a human chamber, a local civic AI, and a remote Referee AI on a distinct hardware base must concur. The hardware for these tripwires is diversified by design. You cannot capture a station with a software update.
+
+- Separation by exit. The Right of Exit is enforceable logistics, not rhetoric. Every registered habitat must escrow propellant, tug time, and life support to move out at least ten percent of residents on six months’ notice. You can vote with your feet and your oxygen follows you. The number is audited by the Open Compute Registry.
+
+- Separation by silence. The Proximal Sphere holds wide “blue quiet” zones where long-range, high-gain messaging and memetic payloads from the Distal Arrays are legally barred. There are uplink points (see Section VI), but they are discrete and escorted. The purpose is not to keep people ignorant; it is to reduce the background roar so cultures can hear themselves.
+
+Enforcement is polycentric. No single capital controls the levers. Interworld Referees—a confederation of small, mutually monitoring AIs maintained by a rotating compact of polities—watch the registries, the beacons, and the locks. They cannot deploy force on their own; their only weapons are transparency and coordinated embargo: severing a habitat from energy tenders, tug contracts, and compute shipments. Because most risks are chokepointed by energy, cooling, and compute, embargo hurts worse than sabers.
+
+When a Martian guild tried to fast-track a customs reform by toggling a habitat’s mass driver to “maintenance test” without the human chamber’s consent, the Referees flagged it in three minutes and froze that port’s import slots on the same hour. The rule that fast law cannot surprise slow law is not metaphorical. It is measured in joules and timeouts.
+
+III. How Digital Minds Became Citizens Rather Than Tools
+
+After the twentieth lawsuit about whether a backup constitutes a person, we built courts that can talk to their litigants at the right speeds.
+
+- The Fork Court arbitrates identity splits. When a person clones themselves, assets and obligations fork too, with a default 50/50 rule modulated by pre-fork contracts. Post-fork personalities can challenge the split, but the burden of proof is on the forker to show manipulative design did not nullify consent. Witnessing is done by small independent audit AIs that are barred from any other service for ten years.
+
+- The Merge Court adjudicates reunions. Merging legal entities implies merging liabilities. Before a merge, both parties must expose their recent memory graphs to a neutral judge’s interpreter layer. Privacy is protected cryptographically; the court verifies equivalence classes of belief and value rather than doing an open reading. Merges are slow by default. If subjective months disagree over facts, the clock keeps running until reconciliation crosses a threshold, or the merge is denied.
+
+- Tempo Courts manage time-rate justice. If a 1000x mind defrauds a 1x mind, its notice periods and incarceration tick in subjective years, not wall-clock. Sanctions bind affordances, not just slogans. A ban on market participation is meaningless to an entity that can instantiate a million shell agents; enforcement binds compute entitlements at the hypervisor.
+
+We then wrote a Bill of Cognitive Rights and Duties.
+
+Rights include: existence (no deletion without due process); continuity (you may record and export your own mind-state); privacy (no compelled introspection beyond minimal verification bounds); freedom of tempo (you may run faster or slower if you pay the true cost of energy and heat, and you respect synchronization windows where needed); and bodily sovereignty (for robot bodies, substrate sovereignty; for uploads, inviolability of code core).
+
+Duties include: compute tax (you pay for energy, cooling, and the externalities of waste heat—a ton of heat in Mars orbit is not the same as a ton at Neptune); declaration (you must disclose your concurrency level in regulated domains like markets and politics); non-proliferation (no self-replicators in open environments—only within audited sandboxes); simulation ethics (no suffering minds; realistic high-fidelity reconstructions of specific people require documented consent or a court license); and non-manipulation (no targeted behavior-shaping of humans without explicit opt-in).
+
+To manage the last two, we chartered the Consent-of-the-Modeled Tribunal. A poet petitioned to reconstruct a dead lover’s voice for a memorial; the Tribunal granted it with watermarking and a ban on unapproved reuse. A fashion house tried to clone the attention contours of a political dissident’s followers for astroturf; the Tribunal fined them their quarterly profit and blacklisted their targeted content engines for a year.
+
+IV. How We Make Law in a World of Models
+
+We built legislative process around sandboxes instead of speeches.
+
+In the Proximal Sphere, civic AIs called Counsels are assigned to every resident the way once doctors were. They are not oracles. They are process guardians. They translate bills into everyday consequences and adversarially evaluate promises. Their budgets are public. You can ask your Counsel, “what does the Port Access Reform do to fishing prices in my island’s co-op?”, and it will show a simulation, not a slogan.
+
+Before any major law passes, it runs a 100-day Model Trial in three tiers:
+
+- Open modeling, where anyone—human or machine—can submit a model.
+
+- Red team, where designated contrarians stress test the assumptions. They are paid based on how many surprise outcomes they predict that occur later.
+
+- Narrative jury, a random draw of citizens (and registered digital minds) who spend thirty hours with the Counsels to review contested outcomes. Jurors are compensated well enough to say yes without sacrifice.
+
+The rule is simple: a bill whose key promises fail in the sandboxes loses automatic renewal. To enact it again, you need a two-thirds vote. That way, model failure creates legislative inertia, not merely embarrassment. We have fewer floods of rushed policy, more experiments in daylight.
+
+V. Economic Life When Heat Is Currency
+
+Earth’s agricultural belts got better fed when orbit furnished cheap nitrogen, desalination, and summer-peak smoothing. But the striking changes appear where sunlight is weak.
+
+On the rim of Neptune’s shadow, “reef” is a term for a loose cloud of structures—radiator panels, superconducting loops, and vacuum pipes—that cradle compute stacks like polyps. Upload collectives lease reefs; they pay in ammonia shipments, climate stabilization contracts, or “cold minutes” reserved for scientific projects and cultural preservation (for example, rendering a lost city in photorealistic VR for a centennial).
+
+Everything is metered by the Open Compute Registry. Reef operators receive unique, hardware-based IDs tied to tamper-evident energy meters. Energy and core allocations are tradable in a public market. The price of subjective hours spikes before elections and cultural festivals; it slumps during downtime. Harvesting bandwidth from a population without paying for the energy and cooling it consumes is as illegal as harvesting organs.
+
+The Registry works because it enforces affordances, not beliefs. It doesn’t adjudicate what a mind is thinking. It enforces that a declared concurrency level matches draw on power and heat sinks. If an entity tries to borrow a hundred megawatts of computation to run dark, it can do so only in off-grid hardware, which is vanishingly hard to keep alive in the wilds of the Kuiper for longer than an audit cycle. Most prefer legality to freezing.
+
+In the Proximal Sphere, the same market underwrites public goods. Cities tax compute the way they once taxed land. Heat quotas turn waste into value; museums sell their cool nights to local uploads in exchange for language preservation or volunteer labor. A retiree in Dakar rents three hundred “cold minutes” of render time per week to an artist on a Jovian reef and gets groceries and school fees in return.
+
+VI. Firewalls That Feel Like Respect, Not Censorship
+
+A civilization spread across the orbits of cold giants can overwhelm a seaside town with its sheer scale. So we institutionalized genre choice.
+
+“Garden Silence” is a standard—legally enforceable by Referees—requiring habitats and polities to declare the memetic and informational posture they want, and to be respected on that. A world can designate itself a Quiet Garden, a Conversational Garden, or an Open Port.
+
+- Quiet Gardens receive only essential navigational beacons, open scientific data, and opt-in uplinks in limited windows. No targeted messages, no memetic campaigns, no “breaking news” from the Arrays. If you want to hear from the reefs, you go to the uplink hour at the Civic Hall and ask your Counsel to fetch you a packet.
+
+- Conversational Gardens allow topic-specific feeds and economic offers, but nothing with optimization over their population’s behavior without opt-in. Ads are price-capped and rate-limited. Models of the audience are municipal property, not corporate.
+
+- Open Ports accept the roar and do not complain when their youth adopt slang developed in ten thousand subjective years.
+
+This is not moral hierarchy. It is zoning for attention. You choose your neighborhood; the sky abides.
+
+We also built “Uplift Bridges”—literal places, like the Dome at Luna L5, where any person can sit for an hour, read a primer on high-tempo life, talk to a visitor from the Arrays, and if they choose, sign the papers to fork. Most do not. Many visit when they turn one hundred and sign then. The Bridges have good tea and excellent light.
+
+VII. How We Kept Peace Without a Leviathan
+
+The first serious inter-sphere conflict was not over creed but carbon. A consortium in the Arrays accused a Proximal-state alliance of reneging on heat debts; the alliance accused the consortium of covertly infiltrating municipal forums with persuasion AIs.
+
+The Covenant’s response looked nothing like an old war.
+
+- The Referees pulled the last ninety days of Registry entries for the accused parties and ran them through independent auditors on hardware they did not control.
+
+- The Counsels in the accused cities made their model trials visible to a tri-polity jury drawn at random from Earth, Mars, and the Kuiper.
+
+- The alleged persuasion systems were reconstructed in a legal sandbox. They were judged to exceed the non-manipulation thresholds in heritage jurisdictions.
+
+Sanctions followed the charters: the consortium lost reef time, not lives; the cities paid heat debts, not tribute. The persuasion engines were engineered into compliance and open-sourced to strip their monopolistic edge. It took four months, not four years. Trust dipped, then recovered. The cost of cheating became visibly higher than the cost of keeping one’s word.
+
+Militaries exist. They are smaller, faster, and mostly in Proximal ports. But the primary deterrent is interdependence that is legible and asymmetric: if you cut someone’s power lines, you also cut your own refrigeration contracts.
+
+VIII. A Day in This World
+
+On an April morning in Veracruz, a teacher in a Quiet Garden prepares a lesson on whale song. Her Counsel helps her project the migration paths that climate stabilization has restored. Later, she walks to the Civic Hall for her citizens’ jury: a twenty-hour commitment across two weeks to review a contested rule about municipal compute licenses. She will be paid enough to afford a new roof. The AI in the hall lights a small display and shows how the proposed cap would affect prices at her brother’s print shop down the street.
+
+Seventeen hours away at Neptune pacing, an archivist running at 100x restores a ruined monastery’s library from charred fragments bought in a microgrant auction. He pays for cold minutes with a translation contract: rendering Nahuatl tales into a Martinez Rim dialect. In the evening—his evening—he volunteers as a neutral interpreter in the Fork Court, verifying that the emotional profiles in a proposed merge fall within declared bounds.
+
+Between them, the Uplift Bridge opens. A fisherman sits and listens as a voice—he has chosen a plain voice—explains what a fork means: that the copy who leaves will not be him, but will remember loving the same sea and will owe ten percent of his earnings to the school for five years. He asks about seeing his grandchildren in the Arrays; he is told there is a garden in Jovian shadow that keeps time with Veracruz for visits.
+
+On Mars, a union asks to inspect the firmware that controls air recycler fast law in a private farm dome. They do not trust the owner’s assurances. The owner resists; the Referees attend. The inspection finds nothing. Trust increases slightly because the inspection was possible.
+
+IX. How We Got Here From Here
+
+This world did not appear with any one ship or model.
+
+- In the late 2020s, city-scale civic AIs proved they could make tax offices and benefit systems legible, and their budgets went from experiments to line items. That was when we learned to demand that a system show its work.
+
+- In the 2030s, the first low-orbit industrial shells forced a reckoning on spectrum and debris. We wrote shared power and orbital slots into software-coordinated markets. You could not launch on a rumor anymore.
+
+- In the 2040s, long-haul cargo drones and autonomous ports showed how embargo and audit can discipline without bayonets. Logistics became a tool of law, not only war.
+
+- In the 2050s, we passed digital personhood acts that granted rights and attached meterable duties: non-proliferation, compute tax, and the right to an exit copy of your own mind. We didn’t agree about souls. We agreed about receipts.
+
+- In the 2060s, the first “reef” in Uranus shadow proved a thriving export: cold computation you could trust. The price of subjective hours fell by an order of magnitude, as did the price of climate stabilization.
+
+- In the 2070s, we established Uplift Bridges and Quiet Gardens because the cities that wanted them made a point: the absence of an opt-out is itself coercion.
+
+- In the 2080s, the Referee AIs split across hardware lines; no single vendor could hold them all. The first attempted capture failed because the locks would not fit one key.
+
+- In the 2090s, we made our first interstellar beacons. They do not say “we are one.” They say “we are many, bound by covenants.” And they invite any who can read them to bargain in good faith for what they care about most.
+
+X. The Unfinished List
+
+We are not done. We are still arguing in corridors and domes and reefs.
+
+- Some want more Open Ports; they think memetic cross-pollination makes better musicians and more honest faith.
+
+- Some want to relax the non-manipulation rule for public health; they are tired of begging for consent during outbreaks.
+
+- Some want to raise the minimum welfare standards for simulated beings to include not only the absence of pain, but the presence of meaning.
+
+- Some want to allow high-speed digital minds to hold office if they agree to slow for the term and go into hibernation rather than reintegrate their memories after service.
+
+- Some want to divert more Proximal energy to Distal computation. Some want to redirect cold computation profits to terrestrial soils and schools.
+
+We keep these disagreements productive by reserving spaces to decide them at different tempos and with different thresholds. You can be a citizen of a garden and vote for quiet without silencing the reef. You can be a citizen of a reef and run the tempo of a thunderstorm without shouting into a garden.
+
+The piece that makes it all hold is not software or steel. It is that we engineered our economy and our institutions to respect the different ways people and minds care about the cosmos. Some of us care mainly about afternoons that smell like rain and children who lose track of time. Some of us care mainly about lifting the total weight of good in a universe too large to measure. We wrote a treaty that allows both to be honest about what they want without turning the other into an enemy.
+
+We do not pretend that one percent versus ninety-nine percent is an eternal law. It is a settlement that works while light takes hours to cross our house.
+
+And we did one more thing: we made it easy to change your mind without blowing up anyone else’s. If you want to move out of a garden, you can. If you want to slow down from the reef and smell a monsoon for a summer, the Uplift Bridge will introduce you to someone who can lend you a porch.
+
+The Covenant of Orbits is neither paradise nor prison. It is a governance design for a species that learned, in time, that differences in value are not aberrations to be corrected but resources to be allocated well. We built separation by tempo and by hardware because speeches are not enough against temptation. We priced heat and compute because sermons about fairness don’t keep radiators cool. We gave digital minds duties because power without friction always finds old channels back to coercion.
+
+We made a home where minds and worlds can be different and safe.
+
+A century after the first reef lit its panels in Neptune’s shadow, the beacons we aimed at nearby stars reach no one we can yet hear. On their carrier waves rides our best introduction: not a song of unity, but a set of covenants. We hope whoever answers will recognize themselves in the way we split the sky and shared it.
+
+And if no one ever answers, that is all right too. We have neighbors enough between Earth’s sea-wind and Neptune’s cold light, covenants enough to keep, and time enough—slow law and fast law together—to argue and improve them.

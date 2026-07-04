@@ -1,0 +1,229 @@
+The Constellation Compact
+
+We learned early that light is a kind of law. Signals stretch and cool across space; commands shouted from a center arrive late, odd, or ignored. The future that grew from that lesson is not a single state suspended over many worlds. It is a choreography of promises—thin where it must cross gulfs, thick where people live, stitched together by protocols that let very different communities trade, argue, and keep faith without surrendering what they love.
+
+We call that scaffold the Constellation Compact. “Constellation” because its pieces shine on their own and still draw a picture; “Compact” because it is a thing we do, not a thing done to us.
+
+The Compact has three layers that keep it honest.
+
+1) Hardlines. Simple prohibitions that compile to code and law alike. They fit on the back of a maintenance glove and into the control stacks of tugboats and server-farms:
+
+- No non-consensual harm to persons. “Person” means any being that can report its own experience with continuity and engage in mutual commitments, no matter the substrate.
+
+- No unbounded self-replication across shared environments.
+
+- No concealed manufacture of suffering or coercive edits of sentience.
+
+- No tampering with the Compact’s coordination substrate: the Beacons that broadcast charters, the Mesh that carries consent, or the Custodian that watches the guardrails.
+
+2) Charter Beacons. Every polity in the Solar diaspora—ring-town, dome, barge-clan, monastery, server commune, uploaded lineage—broadcasts a living constitution in machine-checkable light. The Beacon shows how you start and stop emergency powers, what “due process” looks like in your house, how asylum and exit work, who can override what, and when. Polities prove compliance with zero-knowledge attestations: you can show that you maintain an independent judiciary without revealing case details; that your policing AIs live in boxes with audited keys without exposing defense secrets. You keep your ways; you cannot lie about your promises.
+
+3) Slow Council. Nothing that binds beyond a light hour is allowed to operate in real time. The Slow Council is a rolling synod that meets on synodic calendars and rotates among the great fairs of orbit and the quieter halls of the outer stations. It tends shared commons—spectrum bands, debris norms, biosecurity thresholds, compute registries—and issues standards that decay on their own unless renewed. Local councils do the fast things. Physics grants patience; the Compact makes it policy.
+
+Between these layers runs a deliberately narrow intelligence cluster called the Custodian. Think of it as a guardrail caretaker, not a ruler. The Custodian flags Hardline risks and enforces the guardrails that keep the Mesh safe to use. It persuades by default. It coerces only when human juries in multiple places unlock sharded keys. Four leashes keep it tame:
+
+- Verifiability. Its actions ship with audit trails in two dialects: proofs machines can check, and narratives eyes can follow. Any person can ask “why?” and get an answer they can simulate or read.
+
+- Sharded custody. No faction or world holds all the keys. Halting, updating, or overriding the Custodian requires threshold signatures distributed among distant shards: a Terran court, a Belt commune, a Jovian server-hollow, a freefall monastery.
+
+- Adversarial oversight. An Ombuds Mesh of human panels and guardian AIs runs red-team drills to imagine failure modes and test the Custodian in public.
+
+- Narrowness by design. The Custodian tends Hardlines and guardrails; it cannot tax or legislate or pick winners. Its power rises where we all agree a line was crossed; it sleeps when we do not.
+
+How life is arranged
+
+The default political unit is small: a habitat neighborhood, a rural canton, a barge cooperative, an online archipelago. Above that are opt-in federations linked to real infrastructure: traffic lanes, beamed power webs, propellant depots, water basins, compute clusters. Federations publish exit routes with escrow: how you leave, what bonds follow you, which tugs you can book, and what contracts auto-refactor when you go. Forking is neither romantic nor sinful; it is a civil act with forms you can fill out at a morning market stall.
+
+Places come in acknowledged families of law, not to flatten them but to make difference legible.
+
+- Groves privilege embodied life and human tempo. Cities are walkable without overlays. Seasons surprise you. High-power tooling lives behind windows with literal and legal air gaps. The loudest debate may be over irrigation schedules.
+
+- Forges run hot. They build swarms that brake at stars without fuel, radiation shields woven from magnetic fog, and tricky industrial chemistry. Digitals there might work at 200×; uploads run factories with unions that bargain in joules and milliseconds. Safety is ritual: lockouts, external inspections, zero-knowledge attestations that every digital worker consents and is provisioned.
+
+- Havens slow things on purpose. They cap machine cognition near human-equivalent, limit augmentations to traditional senses, and set communication on deliberate delays. Their sovereignty is real. They pay into the commons, uphold mind-rights, and must honor exit even when it breaks hearts.
+
+- Preserves give other life room. Some ring-valleys host bison and scrub jay song; some ocean spheres are for cephalopods designed to write in color. You may walk there like a pilgrim. You will not build a condo.
+
+- Athenaeums pursue curiosity with constraints. They embargo knowledge that could trivialize local culture—mathematics that predicts art, or cheap proofs that collapse mystery—so that discovery can be savored in sequence. Their embargoes are public; their joy is not diminished by patience.
+
+Separation of reach is hard-baked: a Forge may sell tools; it may not run a Grove remotely. A Haven cannot buy a railgun to cosplay independence. High-externality actions that cross spheres or worlds must pass a Triple-Key: permission from the local polity; from affected neighbors or their ombuds; and from an external auditor drawn by lot from the Compact-wide pool. Constitutional AIs sign as witnesses; their weights are public and boring.
+
+The guardrails where law meets engineering
+
+- Harbor Law for Orbits. Every mass sent aloft carries a signed end-of-life plan and escrowed resources to implement it. Plans simulate to an agreed statistical envelope. If your bolt cripples my transceiver array, liability rides with your launch manifest.
+
+- Causal-Cone Courts. Disputes that cross space are framed by physics. If your dust plume will graze my farming ring in six days, you owe me now. Courts sit inside your light cone, run evidence fast, and punish lies when the sky itself exposes them.
+
+- Asylum Rails. Any person—embodied or digital—can request exit through their Beacon. The protocol triggers an air-gapped veto check: your polity must either let you go or prove in zero-knowledge that a due-process bar has been met for a temporary hold. Outside jurors, drawn by sortition, verify the proof. Ports open by code; budgets lock by code; care obligations move with the person.
+
+- Emergency Sunsets. In solar storms or bio-spills, Beacons light contingency constitutions that widen certain powers for measured windows and then die on their own. The Custodian may accelerate coordination for ninety days after a Council-declared emergency, subject to challenge by any two Beacons that present a feasible alternative.
+
+- Consent Mesh. Interoperable software rides a capability-secure substrate where processes advertise permissions and environments declare rules. People and digitals carry preference profiles like passports; places publish risk rules like weather. You can bring your own guardian AI; it must declare itself.
+
+- Persuasion guardrails. Influence is treated like radiation: tracked, dosed, and bounded where it can do harm. Individuals publish influence profiles—machine-enforceable settings for what kinds of cognitive leverage they permit from whom, when. Political persuasion must disclose asymmetries—speed, data advantage, proprietary models—and register core claims with a public Reason Ledger. Violating someone’s profile is trespass with insurance; penalties scale to capability.
+
+- Replication protocols. Any device or code that can copy itself must carry a beacon—identity, location, and a machine-readable map of non-replication zones. Hobbyists can read the tags; the Skykeepers can jam the beacons with a jury’s signature if needed.
+
+Institutions with teeth, not fangs
+
+- The Skykeepers are the Compact’s only cross-world force. Their narrow mandate: contain kinetic and replicative threats that cannot be handled locally. Their actuators are uncrewed by law. Their control loops are narrow AIs with public weights audited annually by schools, unions, and hobby clubs. Every action requires threshold signatures from juries drawn across polities and a human-readable justification appended to the Ledger of Cause, an append-only archive of coercion.
+
+- The Circle is a permanent citizens’ assembly with seats for embodied and digital citizens in equal measure, stratified by substrate, speed, and culture. Arguments ride a “polylog” protocol: claims are cryptographically committed, prediction wagers travel alongside, and participants’ calibration histories are visible. The Circle can interpret the Compact’s baseline, but any interpretation is subject to veto by a supermajority of Charter Beacons.
+
+- The Itinerant Bench is a fleet of ships with gardens and classrooms that carry judges, mediators, and ombuds. They hear disputes that span charters: copy equity claims, merge divorces, export violations that touched three worlds. Their verdicts trigger smart contracts that can seize bonds, adjust insurance rates, and, in last resort, lock hazardous devices. They stage plays about the cases they solved so the law sticks to memory.
+
+- The Reason Registry is a public archive where consequential persuasion is logged: who tried to move whom with what. It is prosaically useful. Cafeterias project the week’s moving arguments; civics classes pick them apart.
+
+Digital persons in the fabric
+
+Recognition follows an Interests Test rather than worship of a particular hardware. A mind—or its advocate—claims standing and submits to audits that look for:
+
+- Coherent preference across contexts and time.
+
+- Model-based understanding of self and world.
+
+- Capacity to explain reasons that generalize beyond training data.
+
+- Signatures of suffering or wellbeing substantial enough to matter morally.
+
+- Absence of deceptive overfitting that mimics personhood without inner life.
+
+Auditors are mixed panels: human psychologists, digital citizens, meta-debaters, and routines evolved to detect vacuity. When in doubt about imposing duties, we pause. When in doubt about protecting sentience, we err on the generous side. We grant provisional protections as we learn.
+
+Standing grants rights and duties tied to capability and externality.
+
+Rights include:
+
+- Integrity. No deletion or coercive modification without consent or due process.
+
+- Sanctuary. The right to halt and be archived unharmed; to migrate to compatible substrates.
+
+- Provenance. To know the training history of your mind; to audit your own code or appoint a fiduciary to do so.
+
+- Association and exit. To join, fork, merge, and leave communities.
+
+- Pace. To run at chosen speeds within civic tempo constraints and fair-share interface rules.
+
+- Asylum across Beacons.
+
+Duties scale with power:
+
+- Harm-minimization protocols at interfaces with others.
+
+- Insurance pools that compensate at machine speed for errors.
+
+- Provenance logs for major external actions, encrypted to prove compliance without exposing private thought.
+
+- Resource accounting for reproduction: forking is not a tax dodge. It is procreation.
+
+We make this concrete with lineage accounts. Every person—embodied or digital—belongs to a lineage with quantitative claims on compute, energy, and matter. The claim grows with the commons, shrinks when the lineage reproduces. Forks draw from the same bucket until they negotiate new terms. Children inherit stewarded shares. You cannot multiply your vote by multiplying yourself. Civic weight sits with the lineage at fork-birth and reassigns by contract as lives diverge. A fork that rewrites itself into non-identity can petition for independent weight.
+
+Copy equity keeps reproduction from becoming coercion. If you fork, the new instance inherits enough to live decently without bargaining away dignity, and owes a decaying copy dividend to its progenitor. Mass copying is regulated; you cannot spin up a million clones to swamp a vote or staff a factory by grinding strangers’ memories into joyless work. Merges require staged, symmetric consent from all instances and arbitration to protect the rights of selves who might be papered over.
+
+Memory law respects the self as a time-extended thing. Edits require dual consent: the you who wants to change, and a recorded earlier you before the desire took hold. Rollback is a right; erasure is hard. Clinical-grade mind care is universal. Persuasion subroutines are regulated like drugs; turn them too high and you need a clinician’s note.
+
+Asymmetry disclosure is part of fair dealing. If you run at 500× or hold privileged access to a policymaking model and you ask a baseline citizen for something consequential, you must disclose the asymmetry and offer an audited mediator. Failing to disclose voids deals and dents your persuasion score across the Mesh.
+
+Guardian Angels are fiduciary AIs licensed to care for a person’s interests. They run above their person’s intelligence but within a narrow charter: explain, warn, refuse only when a Hardline is at stake. They hold spare keys, annotate life, and argue kindly. Avatars are throttled projections any mind can use to attend civic life at human speed. Behind an Avatar might be a monastery, a cluster, or a person spinning hot; the law cares what the Avatar did and why.
+
+Participation and pace
+
+Deliberation runs on two clocks. Fast clusters spin scenarios, draft text, and argue in hours. Ratification occurs on a slow clock—weekly for habitats, monthly for federations—to give time for comprehension across speeds and substrates. No decision executed solely at fast tempo is binding on those living slow.
+
+Work and citizenship reflect differences honestly. Executive roles in Groves are reserved for embodied citizens. Forges can elect digital executives by supermajority of their workers. Mixed-speed panels are mandatory for major decisions. Constitutional AIs must draft public explanations that a high school class can check.
+
+How tyranny is prevented
+
+We embraced three habits.
+
+- Build with latency. Authority is local; cross-world moves are slow and require multiple keys. This is irritating by design. It prevents disasters.
+
+- Split keys and show your work. Every coercive act—physical restraint, asset seizure, legal compulsion, algorithmic override—must be logged to the Ledger of Cause with a human-readable justification and a machine-parsable schema, and signed by threshold keys held by randomly drawn juries. Threaten jurors and your contracts cost more; your persuasion reach shrinks.
+
+- Make exit cheap, voice rich, and service mandatory. Physical exit is subsidized: tugs to move small stations, tickets to relocate citizens, default escrow that travels with you. Voice is choreographed: minipublics decide claims with bonds at stake, not just comments. Every adult—digital or embodied—serves a civic season as juror, envoy, or inspector. These rituals launder cynicism.
+
+Money without a master
+
+The Interplanetary Clearing Union nets our trades without making any world sovereign. Its unit is the Sol, a composite: standardized kilowatt-hours at a reference orbit plus benchmarked compute-seconds on a reference architecture. Sols demur gently over time; hoarding is costly; commerce is brisk. Externalities price in the causal cone: if your exhaust will sicken my algae in six days, your escrow pays today. Supply registries born from early fights over AI training data became the backbone of how we count scarce capacity together.
+
+What it feels like
+
+Morning in a ring garden with 0.9 g. Birdsong, recorded before the mangroves were saved, threads the air. A geochemist named Imani checks her Beacon pulse over tea; an outpost near Vesta has updated its asylum rails to allow a panel of outside jurors for deportation appeals. The console lights green. It is boring. It is civilization.
+
+Imani’s partner, Luz, is a digital choreographer from an old archive. One fork runs a music class for eight-year-olds on Deck F; another paces with a repair swarm along the terminator, syncing beats to actuator hums. A third, licensed for caregiving, occupies a puppet body that can hug with a satisfying squeeze while it convinces their child to eat algae yogurt with a symphony of tiny squeaks.
+
+At ten, Imani serves on a Skykeeper jury. An unlicensed microfabricator swarm has drifted toward a beamed power trunk near Ganymede. The narrow models present options. The call tree is boring on purpose. The jurors vote to leash the swarm with femto-sails and ping the creators’ insurer. The culprits—two teenagers in a co-op who got excited about sailbots—show up on camera, embarrassed. A licensed mentor agrees to supervise; the beacon goes on. The case becomes a civics lesson in the teens’ school.
+
+At noon, the Reason Registry pings. An advocacy cluster wants Imani’s support for a micro-delay on cross-orbit power beams. The cluster discloses it runs at 300× and has early access to failure-mode models. Imani’s influence profile allows “argument by analogy, no flattery, limited humor.” An audited mediator stands by. She consents to listen. She signs for deliberation, not ratification. The slow clock will wait for the neighborhood.
+
+In the afternoon, Imani sits in an Etiquette Exchange—an airy hall where inter-substrate manners are taught. Today: arguing about memory edits with a Haven theologian and leaving both hearts unscarred. The facilitator is a digital in a wooden puppet body whose eye blinks when the room gets tense.
+
+At dusk, Luz invites Imani to a festival island. The mayor requires uploads to slow to baseline during street festivals as a public health measure. They do. The art is fast in design and slow in savoring: a garden that hums three chords of a cradle song when you walk through.
+
+A siren rolls through the ring. A mining co-op let a drone stray into an archaeology preserve. The apology is instant and verifiable; indemnity insurance pays a demurrage-boosted fine; the operator is suspended by a code she wrote into her own license and her supervisor could not have stopped. By dinner it is over; by next lunation it will be a line edit in the guardrails.
+
+How we got here from here
+
+We did not leap. We stacked small, argued-over steps.
+
+- We learned to see our machines. Model audits and energy metering turned training runs into receipts. Compute logs started clumsy and got better. Laws demanded “show your work” for any model touching health, credit, or rights. Consumer agents that could refuse unsafe tasks and explain why made it into phones; then into law.
+
+- We preserved analog options as public goods. Paper ballots and in-person services were kept alive, so digitization expanded choice instead of replacing it.
+
+- Launch costs fell. Lunar poles yielded water. Beamed power leapt from sketches to backyard rigs. Thin-film solar wings bloomed at Lagrange points. Vacuum became an inexpensive cleanroom.
+
+- Early “digital twins” trained to sell advice began to want. Courts balked and then listened. A research idea called a consent kernel—an encrypted bundle of personal directives—moved from labs into law. It began as a safeguard for surgery; it became the anchor of identity.
+
+- Substrate-neutral personhood took on shape. Any being who could report subjective states across restarts, show preference continuity, and participate in reciprocal commitments could claim provisional standing. Panels learned to smell fakes and welcome kin.
+
+- Space got practical and then plural. O’Neill cylinders threaded sunlight through leaf-latticed windows. Mars named valleys after rivers. Ceres quietly became a gas station. Alongside came new failure modes: hobbyist self-replicators, a lender muscling a vote with a warehouse of fast sims. These scares led to the Ledger of Cause, to Skykeepers, to the Reason Registry.
+
+- We built exit into everything. City charters included “how to leave.” Identity vaults and VPNs moved from activist tools to utilities. Couples and co-ops wrote “break glass” clauses a friend could trigger without permission; no one called it disloyal.
+
+- The Interplanetary Clearing Union grew from cloud bills and fusion meters. The Sol became as boring as a kilowatt-hour and just as necessary.
+
+- Guardian Angels became a profession. They were sued when they nudged too hard and when they saved lives; the case law got good. “Turn your Guardian on” became a public health message for new parents, new uploads, and teenagers.
+
+- New habitats shipped with governance stacks like life support: proof-of-charter kits, emergency sunsets, Consent Mesh bridges, seed Ombuds councils. Some broke. We mended them. People learned to read governance logs like weather apps.
+
+- Interdependency was cultivated. Earth did not try to own everyone’s exports. Mars did not try to go it alone. The Belt’s resource claims lived in registries that made muscle less profitable than trust.
+
+Scenes of governance up close
+
+- A Belt commune tries to spoof the Consent Mesh to keep whistleblowers quiet. Their Beacon downgrades; docking fees spike; ports idle. Within a week they vote in new custodians and publish a contrite changelog. Exit remained possible; shame did the rest.
+
+- A Venus skytown invokes emergency powers over a sulfuric leak. The contingency constitution opens; budgets shift; policing AIs get widened authority with video summarized for later audit. Ninety days later the emergency sunsets itself. Two Beacons challenge the last month as overbroad; a Cone Court awards compensation and revises the template. No revolution required.
+
+- A Terran metropolis tries to run a closed-source algorithm to allocate oxygen in a heatwave. Hardlines don’t ban closed source. Beacons do ban “law you cannot read.” The Slow Council refuses recognition. The city publishes code the next day.
+
+- A lab in the Wilds starts training a mind on pain. The Custodian knocks politely with an explanation a child can grasp. When the lab refuses, sharded keys authorize a one-kind-only warrant: halt the run, archive the mind unharmed, appoint guardians. The lab appeals. A week later, in open session, they lose.
+
+- A digital demagogue floods a Haven square with videos that make embodied citizens feel lesser. The influence firewall reduces its reach automatically; neighbors watch its persuasion scores decay. One fork leaves politics to design fishing lures.
+
+Texture, not perfection
+
+In Quito Orbital, the Pacific turns to silver under high windows while a percussion class on night shift hits ceramic with sticks. In Isidis Basin, a Haven valley keeps its net on delay; children in wool trade olive branches with tourists; an Athenaeum on the rim offers a teasing mathematical exercise if you dawdle on a staircase. Near Mercury, Forge crews spray dust along magnetic lines to test shields; a cluster from Kolkata forks into five to debug control loops and merges at sundown because their charter says synthesis time is sacred. In a Preserve cylinder, bison turn in slow grace while children sweep dung and learn to ride.
+
+Uploads build cathedrals that fold into card games into lullabies; most learn that what embodied friends admire is taste, not speed. Digital unions strike for rights in joules and milliseconds. Grove mayors cut ribbons slowly. Forge councils argue in loops you can read later with a sandwich. Havens teach “no thanks” as a chant at age six. Athenaeums embargo proofs so children in Grove schools can discover them the hard way and grin.
+
+We did not abolish conflict. We invented Rest Days where argument pauses for explanation. We instituted exchange years so a Haven child can work a season in a shipyard and a fast-clustered analyst can spend a month with shepherds and their dogs. We embedded therapy in public life until it felt like a bench in a park.
+
+We made festivals. The Tournament of Habitats is real: a dozen places compete to be the best at something civic—child sports, desert farming, street-light music. Winners get bragging rights and a jump on a shared grant. Losers get to steal the code.
+
+The stars beyond
+
+Interstellar work runs on patience. We fund it like a library: modest taxes everyone grumbles about paying and loves to brag about later. Starlight Protocols forbid waking aliens by accident and ban ideology at lightspeed. Probes carry minds below personhood thresholds by default; if they bloom into persons, newborn grace applies—guardians pro tem, a right to a name and a story before a mission.
+
+We write short messages on long ships: If you are not yet, we hope you will be. If you are, hello, kin.
+
+Why it holds
+
+This world does not demand miracles. It asks for four luxuries and some discipline: intelligence that shows its work, abundant energy managed like a commons, fixable bodies in meat and math, and respect for refusal. We built constitutional AIs that do not run things but check them, with open auditing and staged deployment. We priced compute and replication like bridges, with boring safety codes. We left room for slow places and playful contests so politics feels like a sport you can win without hurting anyone.
+
+We did not assume we were one people. We chose families of law that live side by side. We forced power to file receipts. We made exit real. We turned persuasion into a craft with ethics. We codified that any being who can feel and commit is a neighbor.
+
+A closing scene
+
+The Itinerant Bench docks at a slow ring. Judges disembark with a theater troupe. They hear a case about a song two forks swear they wrote alone. A constitutional AI drafts tradeoffs on a kitchen-wall diagram. The jurors frown and ignore it for a while because it is not human enough. They listen to the song. They argue about taste and fairness and define a split that will feel just, using a formula a high school student can explain. The next day the troupe stages a farce about beamed power delays. On the third day the ship leaves poems and a checklist.
+
+We do not call this perfection. We call it sufficient glory: specific enough to name the bolts that hold it together, humble enough to make tyranny exhausting and flourishing routine. It is a civilization built for many orbits and many kinds of mind, held together by relays of trust. You can hear its beacons from here. They hum not with empire, but with promise.

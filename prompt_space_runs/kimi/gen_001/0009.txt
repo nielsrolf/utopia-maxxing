@@ -1,0 +1,153 @@
+# Concrete positive visions for a future without AGI
+
+> *"There was a threshold crossed somewhere," said the Confessor, "without a single apocalypse to mark it.  Fewer wars.  Less starvation.  Better technology.  The economy kept growing.  People had more resource to spare for charity, and the altruists had fewer and fewer causes to choose from.  They came even to me, in my time, and rescued me.  Earth cleaned itself up, and whenever something threatened to go drastically wrong again, the whole attention of the planet turned in that direction and took care of it.  Humanity finally got its act together."*
+
+— Eliezer Yudkowsky, [Three Worlds Collide](https://www.lesswrong.com/posts/HawFh7RvDM4RyoJ2d/three-worlds-collide-0-8)
+
+* * *
+
+A common sentiment among people worried about AI x-risk is that our world is on track to stagnate, collapse, or otherwise come to a bad end without (aligned) AGI to save the day.
+
+[Scott Alexander](https://www.astralcodexten.com/p/pause-for-thought-the-ai-pause-debate):
+
+> \[I\]f we never get AI, I expect the future to be short and grim. Most likely we kill ourselves with synthetic biology. If not, some combination of [technological](https://slatestarcodex.com/2018/11/26/is-science-slowing-down-2/) and [economic](https://slatestarcodex.com/2017/02/09/considerations-on-cost-disease/) stagnation, rising [totalitarianism](https://www.astralcodexten.com/p/bad-definitions-of-democracy-and) \+ [illiberalism](https://www.astralcodexten.com/p/theses-on-the-current-moment) [\+](https://www.theintrinsicperspective.com/p/the-gossip-trap) [mobocracy](https://slatestarcodex.com/2019/06/07/addendum-to-enormous-nutshell-competing-selectors/), [fertility collapse and dysgenics](https://www.astralcodexten.com/p/slightly-against-underpopulation) will impoverish the world and accelerate its decaying institutional quality.
+
+[@disturbance](https://www.lesswrong.com/users/disturbance?mention=user) in a a recent [LW post](https://www.lesswrong.com/posts/A22bTHYLDdkeqFsLd/saying-the-quiet-part-out-loud-trading-off-x-risk-for) that got lots of comments:
+
+> ***Statement:*** *I want to deliberately balance the caution and the recklessness in developing AGI, such that it gets created in the last possible moment so that I and my close ones do not die.*
+
+  
+A seemingly straightforward implication of this view is that we should therefore be willing to take on some amount of risk in order to build towards AGI faster than we would in a world where we had the luxury to take our time.
+
+I think some of these sentiments and their implications are based on a mistaken view of the relative difficulty of particular technical and social challenges, but here I want to focus on a totally different point: there are lots of ways that things could go well without AGI (at least for a while).
+
+Even if positive scenarios without AGI are unlikely or unrealistic given our current circumstances and trajectory, it's useful to have a concrete vision of what a good medium-term future without AGI could look like. I think it's especially important to take a moment to reflect on these possible good futures because recent preliminary governance wins, even if they succeed without qualification, are mainly focused on restriction and avoidance of bad outcomes rather than on building towards particular positive outcomes.
+
+The rest of this post is a collection of examples of technologies, ideas, projects, and trends unrelated to AGI that give me hope and joy when I see them being worked on or talked about. It's not meant to be exhaustive in any sense - mostly it is just a list of areas that I personally enjoy reading about, and would consider professional opportunities related to them.
+
+Most of them involve solving hard technological and social problems. Some are quite speculative, and likely to be intractable or extremely unlikely to come to pass in isolation. But making incremental progress on any one is probably robustly positive for the world and lucrative and fulfilling for the people working on them[^4o93wh13dw3]. And progress tends to snowball, as long as there's no catastrophe to stop it.
+
+As you read through the list, try to set aside your own views and probabilities on AGI, other x-risks, and fizzle or stagnation scenarios. Imagine a world where it is simply a given that humanity has time and space to flourish unimpeded for a time. Visualize what such a world might look like, where solutions are permitted to snowball without the threat of everything being cut short or falling to pieces. The purpose of this post is not to argue that any such world is particularly likely to be actualized; it is intended to serve as a concrete reminder that there are things worth working towards, and concrete ways to do so.
+
+* * *
+
+Energy abundance; solar and nuclear energy
+------------------------------------------
+
+![Image](https://pbs.twimg.com/media/FOoa6xYXIAQKUnv?format=jpg&name=medium)
+
+From [AukeHoekstra](https://twitter.com/AukeHoekstra/status/1507047932226375688/photo/1) on Twitter; global solar capacity added vs. forecasts
+
+[Energy abundance](https://progressforum.org/posts/y4kYmFhqmA6gxsu9Y/radical-energy-abundance) has the potential to revolutionize many aspects of civilization, and there are fewer and fewer technological barriers holding it back. Regulatory barriers (e.g. to nuclear power, and to all kinds of construction and growth generally) may remain, but in a hypothetical world free of unrelated obstacles, energy abundance is looking more and more like a case of "when" and "how," rather than "if".
+
+Prediction markets
+------------------
+
+Robin Hanson has been talking about the benefits of prediction markets since 1988, but it feels like with the recent growth of [Manifold](https://manifold.markets/home) and the continued operation of real-money prediction markets (PredictIt, Kalshi, Polymarket) things are starting to snowball.
+
+I'm most excited about the future of real-money policy prediction markets on all sorts of legal and governance issues. The possibility of such markets might seem distant given the current regulatory climate around prediction markets themselves, but that seems like the kind of thing that could change rapidly under the right circumstances. Imagine if, instead of a years-long slog through the FDA, the process for getting a new drug approved was a matter of simply convincing a prediction market that the efficacy and harms met certain objective risk thresholds, with private insurers competing to backstop the liability.
+
+Assorted links:
+
+*   Scott Alexander's [posts](https://www.astralcodexten.com/archive?sort=search&search=mantic) on prediction and forecasting
+*   [The Base Rate Times](https://www.baseratetimes.com/)
+*   [Manifold's blog](https://news.manifold.markets/)
+
+Space travel and space tech
+---------------------------
+
+Kinda self-explanatory. [Starlink](https://www.starlink.com/) and [SpaceX](https://www.spacex.com/) seem to be leading the way at the moment, but I'm excited to follow other private and national space efforts.
+
+Life extension
+--------------
+
+[Bryan Johnson](https://twitter.com/bryan_johnson) is all over Twitter these days, documenting his self-experimentation in a quest to extend his own lifespan, ideally indefinitely. This is also a [favorite topic](https://www.lesswrong.com/tag/life-extension) of OG transhumanists on LessWrong and elsewhere, and it's nice to see it get some attention from someone with serious resources.
+
+I haven't looked too closely into the specifics of the "[Blueprint protocol](https://blueprint.bryanjohnson.com/)", but from a distance it strikes me as about the right mix of correctly combining and synthesizing a bunch of existing science in an evidence-based way, and mad experimentation of his own design.
+
+Occupational licensing reform
+-----------------------------
+
+A lot of [occupational licensing](https://www.cato.org/publications/facilitating-personal-improvement-occupational-licensing) in the U.S. and around the world is mostly about rent-seeking. Reform efforts have [enjoyed some success](https://www.rstreet.org/commentary/occupational-licensing-reform-is-having-a-moment/) in recent years, and it's nice to see some feel-good / commonsense wins in U.S. politics, even if they're probably relatively minor in the grand scheme of things. [Shoshana Weissmann](https://twitter.com/senatorshoshana) is a great Twitter follow on this issue. More generally, efforts to reduce [credentialism](https://en.wikipedia.org/wiki/Educational_inflation) seem like a promising avenue towards incremental reclamation of territory ceded to [Moloch](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
+
+Automation of all kinds
+-----------------------
+
+I think efforts to combine software, robotics, logistics, mechanical engineering, and the AI we already have to reduce the amount of labor that humans do, especially grunt work, is very cool and likely to lead to large and real productivity gains.
+
+Self-driving cars and trucks are perhaps the flashiest example of this kind of automation, but I expect more gradual automation in restaurants, factories, cleaning, maintenance, and other areas of the economy that currently rely on a lot of relatively low-skill, low-paying human labor to unlock a lot of human capital. Avoiding squandering that unlocked potential or ceding it right back to Moloch will be a challenge, but it's a challenge that looks a bit more solvable with a lot more collective wealth.  
+  
+Semi-related: [AI Summer Harvest](https://www.lesswrong.com/posts/P98i7kAN2uWuy7mhD/ai-summer-harvest)
+
+Charter cities
+--------------
+
+Scott Alexander's [posts](https://www.astralcodexten.com/archive?sort=search&search=model%20city) on this topic are always a treat. More so than any specific project or proposal, what excites me about charter cities is the abstract appeal of starting from scratch. In software, [legacy systems](https://en.wikipedia.org/wiki/Legacy_system) often complicate and slow development of new features, and I think the same dynamic exists in many traditional cities. Beneath the streets of New York City are [layers and layers](https://www.nytimes.com/interactive/2016/08/18/nyregion/new-york-101-streets-repair-and-maintenance.html) of utilities and pipes, some over a century old. Charter cities offer an opportunity to start fresh: literal [greenfield projects](https://en.wikipedia.org/wiki/Greenfield_project).
+
+Genetic engineering and biohacking
+----------------------------------
+
+In humans, plants, and animals. There's too much cool stuff here to talk about or even list, so I'll just dump a few links:
+
+*   [How to have Polygenically Screened Children](https://www.lesswrong.com/posts/yT22RcWrxZcXyGjsA/how-to-have-polygenically-screened-children)
+*   Gene drives to eliminate malaria or mosquitoes altogether: [Will no one rid me of this turbulent pest?](https://www.lesswrong.com/posts/gjs3q83hA4giubaAw/will-no-one-rid-me-of-this-turbulent-pest)
+*   [human intelligence enhancement!?](https://www.lesswrong.com/posts/cLr6TJj2qRrBa3Wmu/intelligence-enhancement-monthly-thread-13-oct-2023?commentId=yLJvn42im5QiEf2uq)
+*   [Lab-grown meat](https://forum.effectivealtruism.org/posts/sPnNyG79CcSZq9avo/lab-grown-meat-is-cleared-for-sale-in-the-united-states)
+
+Rationality
+-----------
+
+The original [sequences](https://www.readthesequences.com/) hold up amazingly well, and modern LessWrong is still pretty great. I think there is a lot more room to grow, whether it is by writing and re-writing key ideas with better (or just different) [presentation](https://www.youtube.com/@RationalAnimations), spreading such ideas more widely, or developing more CFAR-style curriculum and teaching it to people of all ages.
+
+Some of my own favorite recent rationality writing is buried in Eliezer's [million word collaborative BDSM fiction](https://www.lesswrong.com/posts/SA9hDewwsYgnuscae/projectlawful-com-eliezer-s-latest-story-past-1m-words), and could really use a more accessible presentation. (Though some of it, e.g. [on Bayesian statistics and that practice of science]( https://glowfic.com/posts/5826), already stands pretty well on its own, despite the obscure format.)
+
+Effective altruism
+------------------
+
+Also pretty great. I could [criticize](https://forum.effectivealtruism.org/posts/8hvmvrgcxJJ2pYR4X/announcing-a-contest-ea-criticism-and-red-teaming) a lot of things about EA, but my overall feelings are pretty well-captured by adapting a classic Churchill quote: "EA is the worst form of altruism except for all those other forms that have been tried from time to time..."
+
+I think an EA that was free from the threat of AGI x-risk for a while has the potential to be even more amazing. In such a world, my guess is that EA would succeed at directing a sizable fraction of the wealth and productivity gains unlocked by other areas in this list towards tackling a lot of big problems (global poverty, global health, animal welfare, non-AGI x-risks, etc.) much faster than those problems would get addressed in a world without EA.
+
+Cryonics
+--------
+
+A [common view](https://www.lesswrong.com/posts/A22bTHYLDdkeqFsLd/saying-the-quiet-part-out-loud-trading-off-x-risk-for#comments) is that current cyronics tech is speculative, and a hard sell to friends and family. Another worry is that civilization hardly seems stable enough to keep you well-preserved and on-track to advance to a point where they will reliably bring you back as yourself, into a world you're happy to be brought back into.
+
+Those concerns might be valid, but they look like problems on which it is possible to make incremental progress. If you mainly care about immortality for yourself and your loved ones, my guess is your best bet is to push hard for cryonics research and adoption, as well as overall civilizational stability and adequacy. Incremental progress in any of those areas seems far more likely to increase the likelihood you are eventually brought back, compared to pushing towards AGI as fast as possible.[^paj4dtv7wxe]  
+Links:
+
+*    [Cryonics signup guide #1: Overview](https://www.lesswrong.com/posts/2cYebKxNp47PapHTL/cryonics-signup-guide-1-overview)
+*   Cryosphere discord: [https://discord.gg/ngtdNWeJCv](https://discord.gg/ngtdNWeJCv)
+
+Georgism
+--------
+
+Georgism and land value taxes are an elegant idea for aligning incentives, funding public goods, and combating rent-seeking. I think land value taxes are simple enough that there is some hope of incremental adoption in some form or jurisdiction in the relatively near future. A decent introduction and source for further reading is [this winner](https://www.astralcodexten.com/p/does-georgism-work-is-land-really) from Scott's book review contest a couple of years ago.
+
+Balsa Research
+--------------
+
+[Zvi's thing](https://thezvi.substack.com/p/announcing-balsa-research), focused on addressing [low-hanging fruit](https://thezvi.substack.com/p/repeal-the-foreign-dredge-act-of) and finding achievable, shovel-ready wins through public policy. Whether Balsa in particular succeeds at its mission or not, I think it is an exciting model for how rationalists can enter the space of public policy-making and politics in an effective and robustly positive way.
+
+dath ilan
+---------
+
+[dath ilan](https://www.lesswrong.com/tag/dath-ilan) is Eliezer's fictional medianworld. The defining characteristic is that the real Eliezer's most important personality traits are the median among the entire planet's population. Because Eliezer himself is unusually smart, kind, and honorable compared to the average earthling, the population of dath ilan is much smarter, kinder, and better coordinated as a whole compared to Earth.
+
+Many details and features of dath ilan would probably look pretty strange to an average earthling. Some of this strangeness is due to Eliezer's *other* unusual-for-Earth traits and personal preferences, but the deeper lesson of dath ilan is that many of their systems of governance, coordination mechanisms, [methods of doing science](https://glowfic.com/posts/5826), and modes of thought are actually derived from a combination of reasoning from first principles and relatively few assumptions about human nature and behavior.
+
+It's not that there's a particular "dath ilani" way of aggregating information or resolving conflicts or running an economy. Rather, the *desire* to flourish, cooperate, build, and enjoy the benefits of technological civilization and other nice things is common among a very wide distribution of possible humans. It might take a certain baseline level of population-level intelligence, coordination ability, and lucky history to actually achieve all those nice things, but civilizations which do manage the feat will probably share some commonalities with each other and with dath ilan that Earth currently lacks.
+
+dath ilan is currently getting along pretty well without AGI, making it an inspiring picture of what one possible future of Earth without AGI could look like. In worlds where Earth succeeds in the long-term, I expect that it will share many features with dath ilan. But I think a more interesting and exciting question involves thinking about ways that the best versions of Earth and dath ilan will still be different.
+
+* * *
+
+When I imagine a world that manages to solve problems or make significant progress in even a few of the areas above, I feel a lot more optimistic about the possibility of such a world confronting the challenge of building an AGI safely, eventually. And even if we still fail at that ultimate challenge, such a world would be a nicer place to live in the meantime.
+
+If you're feeling despair about recent AI progress, consider turning some of your attention or professional efforts elsewhere. There are lots of opportunities in research, startups, and established companies that have nothing to do with pushing the frontier of AI capabilities[^nh1xh2mnyvr], and lots of ways to have fun, build meaning, and enjoy life that don't involve thinking about AGI at all.
+
+[^4o93wh13dw3]: Also, none of them come with the moral hazards, uncertainties, andx-risks associated with working directly towards AGI. 
+
+[^paj4dtv7wxe]: My guess is that reconstructing a well-preserved brain and developing indefinite life extension technology for biological humans are probably about equally hard (i.e. both trivial) for a superintelligence. 
+
+[^nh1xh2mnyvr]: Even startups that are focused on applying current AI in service of automating and improving existing business processes in diverse industries are probably net-positive for the world under a wide variety of progress models, and likely to be personally lucrative if you choose wisely.Though for both short-term viability and moral hazard reasons, you probably want to be careful to avoid pure "wrapper" startups whose business model depends on continued access to current and future third-party frontier models. But automating business processes or building integrations using current AI at established companies seems positive or at least non-harmful, as long as you're confident in your ability not to depend on or contribute to "hype" around future advances.

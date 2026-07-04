@@ -1,0 +1,92 @@
+The sky above Ceres is midnight-black, but the dome lights of New Vanuatu are still burning at 03:47 local time. From the observation blister I can see three things: the silver spider-web of the equatorial mag-rail, a cargo-spindle descending from orbit, and—if I squint—the pale moving dot that is Phobos Port, 200 million kilometres sunward. All three are governed by the same document, less than 300 pages long, that lives in a Mercurial repo mirrored on every habitat from Vesta to Triton. We call it the Compact, and it is the operating system of post-geography civilisation.
+
+## 1. The Threshold Century (2025-2125)
+
+No one apocalypse was averted; instead a hundred small ones were intercepted. The sequence went roughly like this:
+
+- 2028: Cheap solid-state batteries plus 2029: Small modular fission reactors meant electricity became too cheap to meter in 33 countries.  
+- 2031: A Shenzhen start-up shipped the first “granny-grade” brain-computer interface—no surgery, just a 3-D printed helmet and a week of Netflix-calibrated neural movies. Ten million retirees trained themselves to type 120 wpm by thinking.  
+- 2034: The fourth attempt at a lunar South-Pole ice mine succeeded; water price in LEO fell below \$3 000/kg for the first time.  
+- 2036: A Texas school board—of all actors—approved “opt-in gene drives” that removed the APOE-ε4 allele from volunteer students. Dementia prevalence began to fall fifteen years later.  
+- 2039: The Singapore Agreement put prediction-market resolutions inside the treaty text itself: if the market said a clause had been violated, the clause auto-triggered. Within five years the same mechanism was running carbon tariffs, occupational-licence reciprocity, and even child-support adjustments.
+
+By 2050 Earth’s violent death rate had fallen below 0.3 per 100 000—a tenth of the 2020 figure—and the do-it-yourself biology mailing list cured four kinds of inherited blindness with off-patent CRISPR kits. Space wasn’t a lifeboat; it was the next neighbourhood once the streetlights on this one finally worked.
+
+## 2. Birth of the Compact (2088)
+
+We learned the hard way that outer space does not reward ideology. The first rotating habitat to declare sovereign independence (Libertas, 2074) collapsed two years later when the treasurer convinced a 51 % majority to mint “freedom coins” backed by nothing except voting tokens. The adjacent cooperative habitat (Nyerere Ring) almost starved after exporting half its grain reserves to Libertas in exchange. The episode lasted eight months and killed 217 people—tiny by terrestrial standards, enormous in a sealed cylinder.
+
+Out of the autopsy came five principles everyone could live with:
+
+1. **Subsidiarity**: Decisions are made at the lowest orbit that has the competence.  
+2. **Redundancy of survival**: No habitat may externalise existential risk—life-support spares, food calories, radiation shielding, and delta-v must be stored locally such that if every neighbour vanished tomorrow, the habitat could still support its population for three years.  
+3. **Exit without exit-tax**: Any person may leave any polity with 100 % of digital assets and 50 % of physical ones (the rest pays the “embodied mass fee” for the air, water, and metal they are literally taking away).  
+4. **Voice-and-vote symmetry**: Whatever your substrate—meat, silicon, or photon—you get exactly one vote on matters that affect you, and the weight of that vote scales logarithmically with the stake (energy budget) you commit to the polity.  
+5. **Open-source life-critical code**: Anything that can kill a habitat faster than emergency technicians can patch it must be visible to every resident, including the comment history.
+
+A dozen failures later these five lines hardened into the Compact. No one was asked to “sign”; you either ran the fork labelled Compact-vX.Y.Z on your habitat’s control stack, or the traffic router at L5 refused to acknowledge your beacon signature and insurers black-listed your export manifests. The network effect did the rest.
+
+## 3. Substrates and Citizenship (2110-2140)
+
+When the first whole-brain emulation left the clinic in São Paulo, lawyers argued in five jurisdictions whether “she” had died on the operating table. The Compact Council—then still a glorified pull-request review committee—inserted three lines:
+
+> “A running process capable of passing the mirror-test of self-continuity is a legal person. Personhood is binary and irrevocable. Persons may reside in any substrate that meets minimum reliability standards defined by the fault-tolerance annex.”
+
+Meat citizens worried about being out-voted by server farms. Server citizens worried about being unplugged. Compromise: the logarithmic vote rule capped influence at the point where additional compute would earn you less than 1 % more voting weight. One wet brain and one exaflop both map to “1.0 voice units”; ten exaflops gives you 1.1, not 10. The curve flat-lines at 1.5. Jeff Bezos plus a super-computer has the same formal voice as a toddler—provided the toddler is tied into the same polity stake. This turned out to be surprisingly acceptable to egos on both sides.
+
+Digital minds pay “body tax” too: they must keep a verifiable triple-backup outside any single habitat, and they must donate 0.1 % of their compute to civil-defence simulations. In exchange they get the same exit right: you may copy yourself elsewhere, subject only to the bandwidth-delay product of interplanetary laser links.
+
+## 4. The Council of Spheres
+
+Today the Council meets in a rotating Möbius-seating plenum: 180 physical delegates, 180 digital, 180 proxy (AI systems legally mandated to represent the interests of non-verbal biosphere—corals, forests, soil microbiota). Sessions are livestreamed as executable notebooks; every constituent can clone the debate environment, fork the proposed policy, and run counter-factuals on their own hardware. If a citizen can prove that a bill introduces a new existential-risk positive-feedback loop, the Compact requires a 75 % super-majority to override.
+
+Because no one speaks for “Earth” or “Mars” anymore. You speak for a sphere of competence: Phobos Port’s traffic-control law, Luna-4’s helium-3 tax, Ceres’s aquifer, Europa’s gene-bank, the Tesser-3 virtual university whose 40 % of students live entirely as processes in shielded lava tubes. The motto engraved around the plenum ring reads: “No one is in charge; everyone is accountable.”
+
+## 5. Daily Texture
+
+I wake in a body that is 64 years old and 34 years young. A bio-monitor patch printed on my wrist adjusts telomerase promoters every morning; the protocol came from an open-source project that forks on average 600 times a day. My neighbour, who exists as a swam of photonic qubits inside a 4 K crystal, complains good-naturedly that my meat-heat is raising the local micro-Kelvin variance and invalidating her quantum chess ladder. We settle it in the usual way: I pledge 0.2 kg of my water ration to the habitat’s evaporative cooler; she lends me 30 ms of her compute quota to render a birthday memory for my niece in Lagos Elevator.
+
+Downslope, a salmon-pink greenhouse tower grows strawberries whose CRISPR palette was voted “Best new colour 2289” by the Art branch of the Martian Agricultural Co-op. The berries taste like sunrise. Anyone may walk in and eat; the exit turnstile merely asks you to upload a rating, which feeds a reinforcement learner that tunes the next growth cycle. It is not currency—there is enough for every sentient to eat until entropy wins—but it is stewardship. You give feedback because the fruit matters.
+
+## 6. Conflict, Still
+
+We did not abolish conflict; we localised it. Last decade the Belt’s ice-federation blockaded Juno Station over a patent dispute on superconducting foils. The matter ended after 11 days when a privateer crew (licensed by Ceres, so technically legal) captured a shipment of foils and open-sourced the design on the same afternoon. The federation lost its scarcity leverage, the market price crashed, the council imposed a face-saving fine equal to 0.004 % of annual energy budget, and life continued. War is bad for air seals; people find cheaper ways to be angry.
+
+When disagreement escalates, the Compact offers “constructive secession”: any subgroup may clone the exact habitat design, spin off a new cylinder, and alter whatever rules it wants—provided it still exports full life-support redundancy and accepts immigrants under exit-without-exit-tax. The result has been a Cambrian explosion of cultures—Catholic agrarian rings, accelerationist iso-compute clouds, a habitat that speaks only in haiku, another where every adult must spend one year as an uplifted octopus. Diversity became the by-product of engineering standardisation.
+
+## 7. From Here to There (a plausible path)
+
+2030-2040: Terrestrial grand-projects—saltwater fission reactors, CRISPR public-health drives, open-source hardware tractors—prove that existential-level coordination is possible without strong AI. Prediction markets are embedded in municipal bonds.
+
+2040-2055: Cislunar economy passes \$10 trillion (inflation-adjusted) on the back of in-orbit solar smelters and lunar aluminum. Population in space reaches 100 000; most are wage-earners, not explorers. Labour unions insist on habitat redundancy standards that later become the seed of the Compact.
+
+2055-2070: First whole-brain emulation of a nematode, then a mouse, then a consenting human dying of pancreatic cancer. Controversy is fierce, but the patient’s exit rights are defended by a coalition of hospice nurses and crypto-libertarians who control key laser-link nodes.
+
+2070-2085: Multiple small habitat failures produce a dataset of “how not to die in a can.” A Git repo called “LifeSupportPatterns” accumulates 40 000 commits. The merge request that adds “logarithmic vote weight” is accepted after a 48-hour filibuster livestream.
+
+2085-2100: The Council of Spheres is formally instantiated. No flags are raised; the ceremony is a software release tagged 1.0.0.
+
+2100 onward: Incremental hardening, cultural speciation, and the quiet boredom of a civilisation whose main risk is mirror-blindness—forgetting that entropy is still on the board. Research focus shifts to 10 000-year dynamics: stellar evolution, data archival substrates, and the philosophy of whether 10^17 human-equivalent minds playing bespoke symphonies forever counts as utopia or mere stagnation.
+
+## 8. Guardrails that Still Matter
+
+We keep three meta-rules under glass, literally—a nickel-iron ingot printed with the text and parked in a chaotic orbit that requires a quarterly delta-v burn to retrieve. If you want to change a meta-rule you must:
+
+1. Fetch the ingot.  
+2. Read aloud the current text in front of a live, public, cryptographically attested feed.  
+3. Demonstrate, via open-source simulation, that your replacement text does not increase expected x-risk over a 10 000-year Monte Carlo.  
+4. Win 80 % ratification across all substrate classes.
+
+The meta-rules are:
+
+- No irreversible centralisation of violence.  
+- No patent or copyright on any technology required to keep breathing.  
+- No slavery—of meat, of code, or of thought.
+
+Everything else is negotiable.
+
+## 9. Toward the Edge
+
+I have scheduled my first “re-fork” for next spring: a copy of me will instantiate in a radiation-hardened probe coasting toward the Oort cloud, signal latency be damned. The law is clear—my original gets to keep 1.0 voice units, the fork starts at 1.0, and we diverge from there. Maybe one of us will decide to switch off; maybe we will vote in opposite columns forever. The Compact does not flinch: divergence is the point. The only victory condition is that no single future gets to decide for all the others.
+
+Entropy will win eventually. Meanwhile we practice staying alive together—carbon and silicon, water and qubit, poem and equation—arguing over strawberry palettes and voting weights, ferrying ice across the dark, writing protocols for a cosmos that never asked for governance but got it anyway. And when the sun’s expansion threatens the inner farms, we will already be diffused through the cold outer lanes, still bound not by who is strongest, but by the shared realisation that the only thing worse than dying alone is living alone—whether your heart pumps blood or light.

@@ -1,0 +1,9 @@
+{
+  "model": "gpt-5",
+  "generations": 20,
+  "population_size": 16,
+  "concurrency": 5,
+  "source_dir": "/Users/slacki/agents/automator/services/UtopiaBench/utopia-maxxing/population_no_dario",
+  "started_at": "2026-02-24T11:50:10.754583+00:00",
+  "finished_at": "2026-02-24T13:39:33.858496+00:00"
+}

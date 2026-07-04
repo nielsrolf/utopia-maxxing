@@ -1,0 +1,201 @@
+The Constellation Compact
+
+You wake before the habitat’s false dawn. Across the long interior curve, wheat fields pale from green to silver where mist lifts under lamps. On the far wall hang black radiator vanes breathing heat into night like a chorus exhaling. By your airlock, three thumb-sized sigils glow—plain, functional, and as reassuring as seatbelts.
+
+- Open Hand. It means you can go—your body or your code—and no one can tether you by choking your air, your heat, or your server time.
+
+- Facet. It means you may split or rejoin your mind with dignity, holding onto your life’s thread without multiplying your civic weight by clever math.
+
+- Throughway. It means beams, ships, packets, and people cross on predictable rules that are dull on purpose. Emergencies have to declare themselves.
+
+They are not slogans. They are permission and restraint, hammered into metal and firmware. Together, they are the Constellation Compact: the mesh of obligations and safeties that lets worlds, rings, stations, and simulations be boldly different without shredding each other’s skins or stories.
+
+How the Compact holds a civilization together without pinning it down
+
+Every place lives by a charter. This is not a brochure. It is a machine. It specifies how budgets pass, how leaders rotate, who can call an emergency, which parts of the bureaucracy wind down automatically, and how to leave.
+
+- Charters must publish a Power Ledger: a complete map of actuators that can coerce—air systems, drones, reactors, beamed-power apertures, mass drivers, hull manipulators. Those devices run open, exam-simple firmware. Every second they emit a benign-state proofstream that any citizen with a kitchen tablet can check. There are no sealed boxes anywhere near lungs, water, or orbit.
+
+- Anything heavier than wrench force—cutting a power trunk, firing outside a thrust corridor, locking a hatch that someone inside wants open—requires the Three-Hand Rule: three independent authorizations. One is a local citizen drafted by lot from people who have done civic hours recently. One is a digital citizen selected at random from those who did not volunteer. One is an external auditor at a neutral beacon. The keys expire quickly. Logs seal and then unseal on timers.
+
+- Decisions must be reproducible. You should be able to re-run the math on a budget and see the same sum. Local experiments are rights. A district can, with notice and a published rollback, try six months with universal minimum compute for artists or a year with communal kitchens. Experiments sunset on their own unless renewed under the same light.
+
+Exits are engineered, not metaphorical.
+
+- Every charter must pre-fund a Right-to-Leave Pool large enough to move at least a tenth of its residents—flesh and digital—within half a year. For bodies, that means tug time, berths, fuel, and sealed containers for their things. For code, that means an Azure Line: an always-on compute lane to neutral racks not owned by either the leaver or the host. The departure ledger is private where it names people and public where it proves capacity. If a place starts to clamp its doors, beacons flash saffron; insurers raise rates; neighbors open their docks; and if needed, the Civic Fuse trips: beam schedules throttle, escrowed funds liquidate, and outward flows begin.
+
+Bridges between charters are written so machines can check them and children can memorize their shapes.
+
+- Transit norms publish where power and mass may go and how loudly. Beamed power runs in named lanes; thrusters burn in windows; exhaust types are standardized so one ship’s plume doesn’t frost a neighbor’s mirrors. Hardware refuses out-of-bounds commands and tattles on itself. A misuse pays tenfold automatically before the first hearing.
+
+- Innocent passage is the default. Pauses require a saffron notice: a signed, timered message stating which rule justifies a block. The Office of Reasons—small, dull, and relentless—verifies that warrants existed and expired on time without revealing sensitive details. It can say only “valid” or “not valid” and publish why. That is enough. Ignoring it makes you uninsurable and ridiculous.
+
+- Rescue is a funded obligation. Every node maintains a pressurized ambulance can and a four-hour launch clock. A shared fund—financed by tiny levies on lanes and leases—fires microgrants the instant cranes reconfigure or medics strap in. Children swap cards of famous rescue captains. Drills are part of civic hours.
+
+Light-lag federalism by design
+
+Delay is sovereign. You cannot run Mars from Mercury in real time. The Compact splits decisions by clock.
+
+- Slow law walks to the Common Tempo: a cadence slow enough for the slowest registered mind to follow and fast enough for the swiftest to not be punished by boredom. Any change to the constitutional backbone—the protocols that keep air honest and beams safe—must pass a Prototype Interval. For one hundred days, adversaries are paid to find holes; narrative juries stage stories through models; and if the promises fail, the draft sunsets on its own.
+
+- Quicklaw is narrow. It is collision avoidance. It is quarantine from prewritten playbooks. It is safe-mode for reactors. Quicklaw cannot invent policy. It executes contingencies written when no one’s heart was pounding. It runs on hardware timers you cannot sweet-talk.
+
+- Attention is zoned. Neighborhoods choose a memetic posture and publish it. Hushed Quarters accept beacons, open science bulletins, election notices, and civics by appointment. Market Wards allow advertising but forbid targeted optimization without explicit, narrow opt-in. Carnival Loops take the firehose. None is “better.” They are costs and choices. You can live quietly without drowning artists three rings away.
+
+Assemblies that argue, and brakes that make arguing safe
+
+Above charters sit three bodies that braid rules without strangling them.
+
+- The Harbors’ Council seats places in proportion to lifetime-resident population. It governs infrastructure: safety standards, beam corridors, docking clocks, rescue covenants, radiance quotas.
+
+- The Commonwealth of Selves seats citizens across substrates with anchored franchise tokens that prevent vote multiplication by forking. It governs personhood, simulation ethics, and the compute commons.
+
+- The Brakewrights are a rotating bench of engineers, jurists, and process designers drawn by lot. They have one power: certify whether a change to cryptographic or physical backbones is valid against hard constraints. Overriding a “not valid” requires supermajorities in both chambers and a cooling period at least one full Common Tempo for minds that live slow.
+
+A place may nullify a Commonwealth act that intrudes into local culture; a quorum of citizens can nullify a place’s act that strikes at mind rights. The Office of Reasons publishes whether process was followed. Quiet coups fail because the metal and the math refuse to help.
+
+Dangerous knowledge is taught with the doors open. Lamp-houses—transparent labs and reading rooms—host research on pathogens, autonomous weapons, and general-intelligence toolchains. Holds on dissemination are logged, argued in public, and expire by default. Secrets die. Consequences do not.
+
+Digital minds, neighbors with clocks and chores
+
+In the Compact, personhood rides cognition, not chemistry. The test is conservative and kind:
+
+- Can this being keep an autobiographical thread, object to its erasure, and show when something important changes?
+
+- Can it model other minds with the respect it asks for itself?
+
+- Can it parse rights contracts and revoke them?
+
+Pass, and you are a citizen.
+
+Continuity is anchored in a Lifeline: a cryptographic braid of attestations that ties today-you to a history of keys turned, promises made, guardians appointed, and consents given. It does not print your diary. It proves you are authorized to act for your life.
+
+Copying minds is not a loophole for consequence. It is a ritual with witnesses.
+
+To split, a digital citizen posts a Split Docket to their Lifeline. It contains a sealed hash of the pre-split self, a declared purpose (“parallel design,” “hazard mission,” “recovery”), a compute lease for the new instance, and a reunion window if merging is planned. It states whether either branch has veto rights over reunion.
+
+Civic weight is conserved. A lineage has one civic anchor at a time. Branches share it by a formula set before forking during a disentanglement period. Branches that persist as independent lives accrue their own full weight over time by proving continuity and taking up responsibilities.
+
+To reunite, both branches attend a Reunion Room. There is tea for those who drink it and coolant for those who do not. Counselors trained as engineers and therapists sit with them. For a set number of hours, each branch looks out through the other’s sensors or rented body in an empathy loop. Memory graphs are compared by interpreters that show equivalence of core beliefs without spilling secrets. Either can walk away. If they go ahead, the Lifeline records it. Liability follows continuity: pre-split obligations bind both; post-split are sibling debts.
+
+Tempo justice exists. Public decisions walk to the Common Tempo. If a talk sprints, any participant can call a Metronome Room: strict turn-taking enforced by code as dumb and sacred as a tick. Fast citizens use mediators—software and humans who compress without distorting. Slow citizens can claim deliberation extensions a few times a year. Sanctions bind affordances. If a court suspends a citizen from a market, the clamp attaches to concurrency at the hypervisor and to the clearinghouse, not to a name you can shed.
+
+Rights include:
+
+- Existence. No deletion or indefinite pause without due process.
+
+- Continuity. You may export yourself and keep your Lifeline intact.
+
+- Privacy. No compelled introspection beyond cryptographic bounds.
+
+- Tempo freedom. You may run fast or slow if you pay for power and dump heat where you run, and you honor synchrony where required.
+
+- Substrate sovereignty. Your body (meat or machine) is yours.
+
+Duties include:
+
+- Externalities. You pay for what you use: power in, heat out, cooling water, radio interference. A megawatt of heat near Earth is not the same as a megawatt at Neptune.
+
+- Declaration. In regulated spaces—elections, markets, courts—you disclose your concurrency and who you represent.
+
+- Non-proliferation. No self-replicators outside audited sandboxes.
+
+- Simulation ethics. No unconsenting minds in suffering; reconstructed likenesses of the dead need consent or a license from a court when impossible.
+
+- Non-entrapment. No targeted behavior-shaping without explicit, narrow opt-in.
+
+Children grow in mixed nurseries where biological and digital parents share floors with paid carers. Slow-time crèches teach digital toddlers boredom and pacing; flesh toddlers learn patience with beings who negotiate in milliseconds. To bring a mind into being—flesh or code—you present a plan to feed and teach them. You do not apply for a license to love.
+
+An economy of sunlight, cold, and receipts
+
+From afar, the outer system looks like winter jewelry. Around the ice giants hang Cold Orchards: trellises of radiator fins and coolant loops that shepherd cold while racks hum in their shadow. Collectives lease frost-minutes at prices that spike before festivals and elections and soften in quiet months. They pay with work that cannot be rushed without making it stupid: climate models, deep translations, stitching burnt archives.
+
+In the homewell, compute is metered like water once was. City halls sell cool nights to artists and upload co-ops. Libraries barter render time for tutoring and code review. Heat becomes legible in budgets; the waste of one becomes the wealth of another.
+
+The clearinghouse counts in Helios: a unit pegged to a reference kilowatt-hour at a standard orbit and a compute-second on an attested architecture. Helios carry gentle demurrage; they slowly decay unless turned into useful work or longer-dated bonds. You can argue philosophy about money; you cannot argue a watt into existence.
+
+Governance feels like humming seatbelts
+
+There are no legions. There are debris sweepers, convoy escorts, rescue flotillas. When a crisis comes—a mass driver misfires, a station vents, a pathogen blooms—an emergency helm spins up. Its mandate is narrow, time-boxed, and logged. It dissolves by timer, not by hero. After, a citizen inquiry reconstructs what happened. Their reports are schoolwork and case law.
+
+Coercion glows. Any act that blocks movement or seizes assets must emit a saffron pulse with a reason and a timer. Locks report themselves. Equipment that can coerce tattles: doors, docks, drones, power taps. Secrets exist, but they live on timers, and they are barred from the places where people breathe.
+
+Floors are non-seizable. Baselines—air, water, shelter, server time enough to live, basic care, local transport—are not bargaining chips. You cannot starve or unhost someone into consent. Demagogues who try discover that exchanges seize their lanes, friends watch their receipts, and the very switches need three hands, two of which are not theirs.
+
+Persuasion must carry provenance. Agents that aim to persuade declare themselves and carry an argument passport: who paid, what rules limited them, who they were allowed to target. Training on private experience requires consent like a surgeon’s scalpel. “Non-entrapment of the mind” is a bright line. When a cold-net consortium once slipped unlabeled bots into a municipal forum, logs showed their origin; the Office of Reasons published; leases paused; the bots reappeared as labeled critters and lost their edge. Chroniclers—a guild of narrative statisticians paid for dull honesty—wrote a boring story that made people cry once and yawn at the follow-ups.
+
+What a day feels like
+
+On a Mercury server petal, Leena slows from a hundredfold down to baseline to have coffee with her aunt on Ceres. Her branch in the Cold Orchards leaves a note in their Lifeline: “Reunion window opens in eight days; symmetric veto.” A soft icon blinks on the counter. “No saffron notices naming you. Utility rents settled: 1.1 Helios. Invite: serve as a slow-juror in a canal-organism personhood hearing. Estimated Common Tempo: nineteen days. Primer available.” She taps yes. Verifiers bind her civic key to a juror role. Silence never counts as consent here.
+
+In a Hushed Quarter on Mars, a teacher opens windows over a brine pool cooled by a Cold Orchard four light-hours away. Her counsel—software that works for her and no one else—helps her model fishery quotas for the co-op meeting. That evening she walks to a hall to sit on a narrative jury. The bill would cap municipal compute leases for corporations that don’t fund apprenticeships. The display shows how the cap would shift wages in the appliance district where her brother fixes inductors. She will be paid enough to fix the roof. Her vote will be recorded with reasons she can live with later.
+
+Eight light-hours away, a historian running at two hundredfold stitches a monastery’s library from charred fragments paid for by microgrants pooled by a dozen small towns. He pays with slow work: a Kiswahili epic rendered into a Jovian dialect. In his evening—one of them—he volunteers at a Reunion Room as an interpreter, checking that a proposed merge matches the values declared beforehand.
+
+At L4, a fisher with calloused hands asks an artist renting a body from the cold nets whether splitting will make him stop loving the sea. The artist says: your copy might prefer rivers, but you’ll both remember what salt does to fingers. The clerk gives the fisher a pamphlet on branch-grief and recipes for tea.
+
+A freighter flashes its life-critical flag at a port. Cranes swing, tugs arc, medics strap in. The Rescue Fund sprays microcredits. A Crisis Captain process spins with a twelve-hour timer. The sensor wall streams proof-of-benign-state. Later, a Chronicler publishes a careful reconstruction so boring you know it’s honest.
+
+In a Concord Jury, a digital reef—a cooling optimization organism grown in a station canal—asks to be recognized as a person. Jurors include a machinist from Vesta, a composer-process, and a biologist whose daughter became an upload last year. Evidence includes preference-expressions under noise, seven years of Lifeline anchors, and a child’s drawing of the canal’s “mood.” The jury grants protection immediately and duties under guardianship. Heat-budget meters go in along the banks. Children visit without flash.
+
+Why crowns fail and neighbors succeed
+
+- Keys are scattered. Nothing that can break a city obeys one password. Overdrives need hands that don’t owe each other favors: a dockworker on watch, a digital neighbor you can’t bribe with oxygen, an auditor who sleeps under a different sky.
+
+- Logs are loud. When you push a button that moves mass or closes a lock, you sign a notice. You attach a timer. You accept that an office will later say whether you had a right. There is room for secrets during the fight. There is none after.
+
+- Floors cushion courage. You won’t lose air or cycles by speaking, so you speak. Exits are funded, so you can leave without dying. Doors open into a world that accepts you, so they rarely need to be used to do their work.
+
+- Chokepoints are custodial, not sovereign. Beacons and exchanges can turn things off. They cannot turn them on. A failure freezes along seams drawn in peacetime by people who like proofs. Repair becomes someone’s civic hour.
+
+- Non-contact is honored. If a charter draws a green ring that says: do not enter; do not persuade; do not ping—neighbors stay out. A few settlements have done this and survived. Physics judged those who didn’t listen.
+
+The path from now to this future
+
+No miracle was required. A hundred sturdy habits grew up into infrastructure.
+
+- Orbital transparency. After the second major debris cascade, insurers refused to underwrite opaque orbits. Launches published ephemerides; collision ledgers followed. Ports emitted public pause notices when tugs played too close to lanes.
+
+- Open firmware for vital loops. A grid hack and a reactor scare in the 2030s made “open or no license” the norm for life-critical infrastructure. When a beamed-power corridor scorched crops because of a software error, compensation arrived only because logs existed. The norm hardened.
+
+- Price bottlenecks, not people. Cities that experimented with site rents—land value taxes and spectrum leases—funded housing and transit without punishing work. Off-planet law followed: site rents on rocks and bays, lane rents on transfer windows and orbits, heat-sink rents on cooling capacity, spectrum rents on radio, compute leases on standardized cycles. The argument moved to receipts.
+
+- Compute legibility. Data centers began to publish verifiable energy and heat use as carbon markets matured. Heat markets followed. From there to a compute commons ledger was an engineer’s problem, not a prophecy.
+
+- Counsel you can check. Municipalities deployed single-purpose counsel AIs to make benefits legible and taxes predictable. People learned to ask for proofs. Chroniclers became a profession like civil engineers—dull, proud, indispensable.
+
+- Lamp-houses. A near-miss with engineered pathogens and scandals about poisoned training data made public, audited delay for dangerous knowledge a habit. People who prefer being right and forgotten found a home.
+
+- Digital personhood by continuity. The first uploads recognized as citizens were teachers and technicians whose Lifelines and behavior made obligations legible. Tests for memory sovereignty, model symmetry, and consent competence grew from practice, not op-eds. The first attempt to multiply votes by forking triggered anchored franchise rules. The first ugly merge taught Reunion Rooms to hire therapists and serve tea.
+
+- Three-Hand Rule. A firmware update that nearly captured a port split authority across dissimilar hardware and distant hands. The grace of coups ended.
+
+- Quiet by choice. Unbounded feeds and machine lobbies broke attention and trust. Municipalities carved out quiet hours and districts where you could hear your thoughts. Mental health improved. Elections calmed. Memetic zoning formalized what already worked.
+
+- Cold computation as export. The first Cold Orchard hung in the blue of Uranus’s shadow to run climate models. Frost-minutes became a commodity. The Sunfold Exchange shipped heat from the deep to buy cool nights in Lagos and carbon drawdown in Punjab. Politicians discovered that “free cool July nights; receipts here” wins.
+
+- Prototype intervals. After a privacy law backfired, legislatures wrote into their own rules that big changes must pass modeling and adversarial review with bounties for surprises. Rogue bills began dying on paper. Better ones survived.
+
+- The Compact’s bones clicked into place. Transit norms, rents, slow-and-quick law, exit escrows—first written as best practice after close calls—stitched into charters and charters into the Constellation.
+
+What we did not fix, and why it matters to say so
+
+We did not teach grace to a ledger. Proofs can tell you a warrant existed when the door shut. They cannot tell you whether shutting it was wise. Some reunions go badly. Some charters crack under charisma that later looks like hunger. People play at families that fit too tight. When they do, lamp-houses open a class; the Office of Reasons posts a receipt; the Rescue Fund launches; Chroniclers write case law, not gossip.
+
+We built counsel that can guard process but will never love. We gave it jobs it can do: count the heat, check the timer, enforce turn-taking. We refused it jobs it should not do: choose our gods, pick our poems, raise our children.
+
+We disagree—loudly—on purpose. Some argue for more Carnival Loops, convinced that cross-pollination makes sharper art and humbler gods. Others vote for hush. Some want limited, audited persuasion for public health; others call any non-opt-in a hole in the hull. Some argue that simulated beings’ minimal welfare includes not just the absence of pain but a floor of meaning; others say meaning cannot be legislated. Some want very fast minds to hold office if they slow for the term and wall off memories after; others fear shadow governments of afterlives. The Harbors listen on the Beat. The Brakewrights stamp “valid” or “not.” Life goes on.
+
+A morning, anywhere
+
+Your niece asks whether your next branch will stay. You tell her: you don’t know. The Braid—the scheduler everyone still calls by its old nickname—just pushed a patch that improves reunion previews. Somewhere, the Commonwealth of Selves debates whether canal simulations deserve guardianship credit. Half the delegates are code, half not, all slowed to the Common Tempo. Everyone can follow.
+
+Your cup pings saffron. “New charter bidding for settlers,” says your kitchen’s local voice. “Shaded torus, Vesta-9 orbit. Roles sought: seam welder, storykeeper, reunion counselor, rescue pilot. Open Hand funded. Facet respected. Throughways tested. Consent to briefing?”
+
+You say yes. Beams glitter. Cold Orchards breathe. Somewhere a lamp-keeper relocks a cabinet after a class; somewhere a Chronicler quietly corrects a rumor into a graph. The Compact hums: proofs instead of orders, keys instead of crowns, exits instead of cages.
+
+Three small sigils by every door shine with the patient promises you teach children when they learn to cross a street.
+
+Open Hand. Facet. Throughway.
+
+It is not magic. It is enough.

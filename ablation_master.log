@@ -1,0 +1,66 @@
+[03:08:08] === BATCH 1: Path dependence ===
+[03:08:08] Launching: path_dependence_runs/gpt5
+70794
+[03:08:08] Launching: path_dependence_runs/claude
+70797
+[03:08:08] Launching: path_dependence_runs/kimi
+70800
+[03:08:08] Launching: path_dependence_runs/gemini
+70803
+[03:08:08] Launching: path_dependence_runs/qwen
+70806
+[03:08:08] Waiting for batch 1 (5 runs)...
+[06:40:07] Batch 1 complete.
+[06:50:07] === BATCH 2: Remove top seed ===
+[06:50:07] Launching: no_top_seed_runs/gpt5
+78462
+[06:50:07] Launching: no_top_seed_runs/claude
+78465
+[06:50:07] Launching: no_top_seed_runs/kimi
+78468
+[06:50:07] Launching: no_top_seed_runs/gemini
+78471
+[06:50:07] Launching: no_top_seed_runs/qwen
+78474
+[06:50:07] Waiting for batch 2 (5 runs)...
+[10:03:31] Batch 2 complete.
+[10:13:31] === BATCH 3: Generic prompt ===
+[10:13:31] Launching: prompt_generic_runs/gpt5
+77869
+[10:13:31] Launching: prompt_generic_runs/claude
+77872
+[10:13:31] Launching: prompt_generic_runs/kimi
+77875
+[10:13:31] Launching: prompt_generic_runs/gemini
+77878
+[10:13:31] Launching: prompt_generic_runs/qwen
+77881
+[10:13:31] Waiting for batch 3 (5 runs)...
+[13:35:43] Batch 3 complete.
+[13:45:43] === BATCH 4: Meaning prompt ===
+[13:45:43] Launching: prompt_meaning_runs/gpt5
+80651
+[13:45:43] Launching: prompt_meaning_runs/claude
+80654
+[13:45:43] Launching: prompt_meaning_runs/kimi
+80657
+[13:45:43] Launching: prompt_meaning_runs/gemini
+80660
+[13:45:43] Launching: prompt_meaning_runs/qwen
+80663
+[13:45:43] Waiting for batch 4 (5 runs)...
+[16:52:25] Batch 4 complete.
+[17:02:25] === BATCH 5: Space/digital prompt ===
+[17:02:25] Launching: prompt_space_runs/gpt5
+78038
+[17:02:25] Launching: prompt_space_runs/claude
+78041
+[17:02:25] Launching: prompt_space_runs/kimi
+78044
+[17:02:25] Launching: prompt_space_runs/gemini
+78047
+[17:02:25] Launching: prompt_space_runs/qwen
+78050
+[17:02:25] Waiting for batch 5 (5 runs)...
+[19:22:11] Batch 5 complete.
+[19:22:11] === ALL 25 ABLATION RUNS COMPLETE ===

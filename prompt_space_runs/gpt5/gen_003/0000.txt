@@ -1,0 +1,175 @@
+The Sunfold Accord
+
+Stand in a garden that rings the sky. The horizon curves up toward itself; the river is a ribbon climbing the inside of a turning world. Under the canopy of glass and carbon, wheat moves like a single animal. Beyond the transparent endcap, a row of dull diamonds suspend in formation—beam relays—and farther still, the black petals of radiator fields shed heat from computation farms sipping the Sun.
+
+On the wall beside the lock hangs a plain sign:
+
+This habitat belongs to its people. The corridors belong to all. Exit is a right. Rescue is a duty. Minds, in flesh or in code, are ends in themselves.
+
+That sign summarizes the civilization that grew here: a many‑centered society steered by agreements you can inspect, tools you can test, and an overseer you can unplug. It is called the Sunfold Accord, because its founders recognized one hard thing and one generous one. The hard thing: without a guardian—some coordinating intelligence able to say “no” when competitive pressure says “take”—the commons will eventually be stripped. The generous thing: the Sun grants so much energy and volume that, if we prevent a few failure modes, most conflicts can dissolve into choice and engineering.
+
+The Accord made room for both. It built a federation by protocol, not empire, and it installed a Steward Lattice—a network of verifiable, bounded AIs with sharply limited powers—to keep the guardrails intact. It legalized and integrated digital people on equal footing with biological ones. And it kept faith with diversity by making the right to leave real.
+
+How many worlds is a civilization?
+
+The answer is not a number. It is a coordination scheme.
+
+The Interworld Protocols look dry on paper. They govern five domains that physics makes universal.
+
+1) Safety. Anything that can blow a hole in someone else’s sky is keyed. Reactors, mass drivers, high‑energy lasers, antimatter casks, and large mirrors are sold only with safety modules baked into hardware: tamper‑evident, current‑limited, and controlled by threshold cryptography. No single office, no single polity, can take them out of safe mode. To fire a mass driver in high‑impulse mode you need three signatures from independent authorities: the habitat’s elected board, a Safety Guild peer from another polity, and a rotating remote quorum drawn by lottery from the citizenry. Every key emits auditable telemetry. It is a civic pastime, as ordinary as checking the weather, to run the little verifier app that assures your neighborhood beam node is within corridor limits.
+
+2) Corridors and Markets. The Sunfold’s “Beam Atlas” maps legal power paths: great cylinders of space where phased arrays may send tight columns of microwaves or light with energy densities that would be illegal anywhere else. Ships have priority by declared status; cargo manifests reserve a “life‑critical” flag that overrides docking queues. Reaction mass exhaust is standardized. The Peer Contract Library includes templates for towing, docking, salvage, compute exchange, and labor shares. Open patents cover anything essential to air, water, heat, and safety; you can’t toll life support.
+
+3) Mutual Aid. Rescue is ritual, law, and pride. Every polity keeps interoperable tugs and pressurized ambulances on four‑hour readiness. Contributions to a system‑wide rescue fund are mandatory. Fail an aid call within your radius without extraordinary cause and you trigger a forensic audit whose results are public for a decade.
+
+4) Dispute Resolution. Convergence Courts arbitrate cross‑polity fights. Juries are drawn by sortition from across worlds and substrates. Identity is substrate‑blind; process is clock‑aware. A civic tick—roughly three days of biological time—paces filings and deliberations. Digital jurors can sprint for private study, but the Court’s public timeline moves so slow minds are not drowned and fast ones cannot flood.
+
+5) Personhood. A substrate‑neutral Registry defines a citizen as an enduring subject of experience with continuity of memory and values sufficient for reciprocal commitment. Rights follow from that, not from carbon or silicon: bodily or computational integrity; exit and association; fair process; a share of baseline life support and compute; a voice. The Registry authenticates identity with “mindlines,” cryptographic chains of attested continuity that never expose memory contents but prove that the being asserting your name can carry forward your commitments. Uploads’ anchors include hardware attestations; human anchors include signed proofs of life.
+
+Those Protocols are the skeleton. Habit gives them flesh. You cannot sell an air recycler whose firmware won’t show its hash matches an audited build. You cannot buy an ad slot for political persuasion without labeling it, logging it, and publishing the model’s provenance. You cannot block a dock for a week on a leader’s whim, because the beam taps that feed your pumps will idle you down first.
+
+The guardian you can unplug
+
+The Steward Lattice is not a god. It is a mesh of narrow overseer systems, each bound to a specific class of risk, each with powers designed to be veto‑only and physically rate‑limited. They watch beam shapes and reactor temperatures, not literature. They cannot issue propaganda. They can shut a corridor off; they cannot turn it up. They can trip a driver into safe mode; they cannot authorize a weapon.
+
+Every Steward runs on open silicon whose microcode is published and hash‑locked. Its inputs and outputs are small enough to verify in real time. Its code is rolled on a predictable schedule by the House of Stewards, a short‑tenure chamber of citizen‑auditors drawn by lot who can say only one of two things about any change to the backbone: valid or not valid. Members serve a single fast tour, publish detailed rationales for their votes, and then are barred from any safety‑adjacent post for a decade. It is a civic chore as much as an honor, and the culture around it is allergic to hero narratives.
+
+The Lattice’s actuators are physically weak enough to fail safe and require multiparty cooperation for any high‑energy action. To replace code, you need staggered threshold signatures from three chambers—the House of Worlds, the House of Persons, and the House of Stewards—and a cooling period long enough for the slowest registered minds to deliberate. In a crisis the Lattice can trigger an “amber stop” for systems within its remit—a corridor, a driver, a cryo vault—while emergency jurors convene over pre‑agreed narrow questions. The amber stop times out; keeping it red needs human and digital hands on keys.
+
+Why give any machine even this? Because the alternative is pretending that humans alone can eyeball the output of a gigawatt beam in microseconds or detect a tampered reactor core by committee. The Lattice closes the speed gap where physics demands it. Its limits keep it from becoming a tyrant. Its legitimacy comes from testability: anyone, in any village on Mars or data hall near Mercury, can run the same proofs and watch the same levers move. And if the civilization ever decides it wants a different steward, the actuators have air‑gapped power interlocks you can literally sever.
+
+A braid, not a pyramid
+
+Three chambers share sovereignty.
+
+- The House of Worlds aggregates place. Seats track lifetime resident population on each planet, station, and habitat. It governs local infrastructure standards, spacelane maintenance, corridor scheduling, and safety guild credentialing.
+
+- The House of Persons aggregates beings. Seats track registered citizens—biological and digital—weighted by “civic anchors,” a mechanism that prevents a single mind from forking a thousand votes overnight. It governs the Personhood Charter, the Registry, and the compute commons.
+
+- The House of Stewards guards the backbone. Small, rotating, randomly selected, it has a single power: gatekeeping changes to the cryptographic and hardware substrates that make the rest legible. It cannot legislate policy. It can say a firmware or protocol change is valid or not.
+
+No chamber can bind the others alone. Any world can nullify a House of Persons measure on purely local culture. Any assembly of persons can nullify a House of Worlds act that abridges the Personhood Charter. Overriding the House of Stewards requires simultaneous supermajorities elsewhere and a long cool‑down.
+
+Diversity with teeth
+
+The right to leave is not abstract. Exit is paid for.
+
+Every signatory polity maintains reserved life‑space, food allotments, transit capacity, and fabrication kits for emigrants from anywhere in the system. These “freefounding kits”—seed stock, pressure walls, basic recyclers, a good printer, emergency spin bearings—are audited annually. The rescue fund subsidizes relocation for the poor.
+
+Schisms without blood are normal. A commune outgrows its rituals. A conservative town wants stricter schooling. A cohort of digital artists wants twentyfold clockspeed without paying a heat premium. They gather enough hands (or threads), collect their allotments, and leave—toward a hollow rock, a derelict spun back up, or a region of the compute commons with spare cycles. The Accord calls the day of departure a Founding, and the only lanes that close for it are the celebration routes.
+
+Polities try to be nice because they must compete with neighbors who make exit easy. There are places with uniforms and oaths and places with none. There are liturgical worlds and rowdy freeports and quiet monasteries of code. What they share is a floor nobody falls through and a ceiling nobody can strap to someone else’s wrists.
+
+Persons in code and in cells
+
+The Personhood Charter begins with continuities, not substrates. A person is:
+
+- An enduring subject of experience.
+
+- With enough continuity of memory and values to tell a story of self.
+
+- Able to make, comprehend, and be held to reciprocal commitments.
+
+From that follow rights and duties.
+
+- Integrity. You cannot be deleted or coerced. For biological persons: bodily autonomy and freedom from involuntary augmentation. For digital persons: computational autonomy and freedom from involuntary throttling below the public floor.
+
+- Exit, Association, Voice. You can leave your polity. You can form one. You can vote, subject to civic anchoring.
+
+- Due Process across clocks. Courts must pace proceedings so that differences in clockspeed do not deny comprehension. Every person has a right to mediators who translate between speeds without changing substance.
+
+- Cognitive self‑defense. Training models built from anyone’s private experience require explicit consent. Cognitive weapons—systems intended to degrade, addict, or hijack minds without consent—are assault.
+
+- Shared floor, fair meter. Everyone receives a civic allotment: air, water, shelter (or equivalent maintenance for substrates that need none), and compute cycles sufficient for a “public shell”—a minimal thought‑to‑text and text‑to‑experience loop. Above the floor, use of rivalrous goods is metered. For humans that means life support. For digital minds it means heat dissipation. If you run out of paid cycles you are slowed, never erased; you are given time and tools to reenter the economy.
+
+Copying and identity are where the Charter had to grow new limbs.
+
+- Mindlines. Every registered person keeps an evolving cryptographic record of identity anchored in hardware attestations and social keys. This “mindline” proves that the one who asserts your name can redeem your prior commitments. It does not reveal memories.
+
+- Forking and Merging. A significant fork of a digital mind is a new person with fresh rights, fresh duties, and a “disentanglement period” during which it cannot wield a full civic vote; one instance inherits the parent’s civic anchor, the others build their own. Merges require consent from both lines and file a joint continuity attestation. Liability flows up to the split, then runs in parallel.
+
+- Copy credits. Copying a mind has resource and political costs. The Charter ties it to reproduction. Each person accumulates copy credits over time, transferable to children or forks. You can make more people—of either substrate—but you must fund their floor or accept a slower shelf until they do. Unbounded bursts trigger review; deliberate clonal swarms are sandboxed or decohered into separate simulation spaces where they cannot tilt the commons.
+
+- Clock dignity. The Charter bans predatory pricing around clockspeed. Rich minds cannot buy election wins by sprinting through deliberation windows. Poor ones cannot be rushed into foreclosure because a creditor thinks faster. The civic tick levels the shared spaces. Outside them, you can run at any speed you can afford.
+
+Guardrails against Moloch
+
+The Accord accepts that competition will always probe rules. It makes probes expensive and cheats apparent.
+
+- Inspection by design. The dangerous bits prove their state in public. A beam relay continuously proves its pattern matches the Atlas without revealing military secrets. A driver proves its stored energy profile. A reactor proves core moderation. False proof is itself a strict‑liability crime.
+
+- Separated powers at the speed of light. Anything that moves fast or hits hard is under‑actuated locally and needs cooperation elsewhere to matter. Mirrors can redirect but not intensify a beam. Barrel capacitors cannot reach destructive densities without external keys. No single habitat can lock a corridor. The Lattice can close throttles, but not open them.
+
+- Persuasion label law. All algorithmic persuasion carries a visible provenance tag and a model card recorded to a public ledger. Unlabeled persuasion is sanctioned. Legislatures and Courts have muscled through the awkward transition from “caveat emptor” to “show your model.”
+
+- Containment before crusade. When a polity goes bad—hoards keys, gags exitees, trains black‑bag cognitive weapons—the Accord builds around it. Rescue lanes multiply; compute donations go to its dissidents; habitat kits are prepositioned. A Court can certify a Protocol violation and authorize the Lattice to throttle chokepoints, but such actions are narrow, temporary, and reviewed after by panels that must include some of the throttled polity’s own citizens.
+
+- Right of recall. Officers who sign overrides, judges who green‑light a hot fix, Stewards who vote “valid” on a sensitive change—they write why, in public, within a week. Most never seek such work twice. The culture rewards leaving a clean paper trail and then going back to your garden.
+
+Challenge without cruelty
+
+Many people want real stakes. The Accord builds rooms where they fit.
+
+There are Wild Zones—opt‑in regions, physical and digital, whose rules trade safety for challenge. In one, medical care is baseline modern Earth, not miraculous; in another, winter will kill you if you gamble wrong on the harvest. Entry requires informed consent, a psychological screening, and a bonded exit path. The Stewards’ guardrails are still present at the perimeter. You cannot set a trap that spills beyond your boundary. You cannot grow a plague. You cannot build a mind to enslave others. But inside, you can live hard.
+
+There are also Playfronts—simulated epochs with carefully chosen pain—renaissance cities with real risk but no irreversible loss beyond what you signed. Some are as austere as monasteries. Some are games with teeth. The point is not to abolish difficulty; it is to abolish ambush.
+
+The oldest world and the sacred problem
+
+Earth is not a commodity. It is where we began. The Sunfold resolved the “Jerusalem problem” with a blend of candor and trades.
+
+- Earth is a Sanctuary World with its own chamber. Its surface politics answer to its residents first. Its atmospheric chemistry, biodiversity, and indigenous cultures are collectively stewarded. Externalities—traffic, power beaming, space elevators—are negotiated at a premium.
+
+- There is a translated market for attachment. People who most value remaining on Earth can trade away a larger share of their claim on far‑flung cosmic commons; people less attached can accept more generous claims elsewhere. These are not cash markets but preference‑clearing exchanges with floors and caps to prevent exploitation.
+
+- There are “True Natures” and “Gentles.” In True Nature zones, processes run with minimal intervention; in Gentle zones, suffering is minimized by subtle design (venom that does not torment, pruning that does not hurt). The Steward Lattice enforces only two absolutes: you cannot build other unbounded superintelligences, and you cannot deceive residents about their options. Any child on Earth must be taught that other worlds exist and that exit is a right.
+
+From now to then
+
+A world like this did not switch on overnight. You can still watch the pieces click.
+
+2025–2032. Active debris removal became an industry after the second catastrophic satellite collision spiked insurance rates. Spacefaring states agreed on a global registry of orbital activities, standardized deorbit modules, and timetables for clearing dead mass. On the ground, a wave of AI persuasion scandals pushed regulators to require labels and logs for certain classes of algorithmic content. Courts began recognizing narrow forms of digital agency: AIs could execute contracts within bounded domains if they could prove continuity and consent.
+
+2032–2044. Beamed power delivered its first megawatt to a desert grid. Environmental groups secured “corridor before commercialization” rules: you must map and certify safe volumes before any commercial beam flew. The Artemis‑style accords were updated to acknowledge in situ resource utilization and to codify non‑interference and data‑sharing as enforceable, auditable obligations. Standards bodies formed around pressure hulls, reaction mass exhaust profiles, and open attestation for safety firmware.
+
+2044–2058. The first “compute commons” —open cycle markets powered by orbital solar—came online. Every citizen of participating nations received a minimal digital public shell: a thought‑to‑text loop and legal counsel bots for navigation of social services. Therapy guilds blended human craft with machine wisdom to treat trauma without cognitive coercion. Early uploads were brittle but real; law cautiously extended personhood where continuity could be shown over time. The first O’Neill demonstration cylinder at L5 spun up, its farms fed by a beam corridor dubbed Westlight‑03.
+
+2058–2072. A cislunar mirror misalignment scorched crops in a young habitat. The supplier’s safety key logs showed deviation, liability was clear, compensation arrived, and the market survived because everyone could see the proof. A Martian settlement nearly failed from an unseasonal multi‑month dust storm; rescue came through a pre‑negotiated mutual aid pact: forty tons of pressurized greenhouse and spare filters delivered by tugs convened from three polities. The rescue livestream became the Sunfold’s first holiday.
+
+2072–2085. The “Steward question” arrived. Weapons researchers and beam‑array operators wanted machine speed to close loops that humans could not. Activists and historians feared a coup by code. The compromise was the Lattice: narrow, veto‑only overseers whose designs and limits could be proved, whose actuators were physically weak, whose code was rolled by citizens serving once. Early adopters were insurance pools who refused to underwrite without Stewards in the loop. The political legitimacy followed the money.
+
+2085–2100. The Protocols formalized. The first mass driver to go high‑impulse under the new threshold keys did so with a million citizens watching the ceremony in the telemetry. Exit rights became muscle when a mayor on the Moon tried to fence an exodus; the House of Worlds cut his corridor slot and the House of Persons funded the move. A digital sect tried to flood an election with forked believers; the Registry flagged a burst, disentanglement rules throttled their political impact, and the sect turned toward building its own simulation monastery.
+
+Past 2100, the story stopped being “how we got here” and started being “what we are making now.”
+
+A day in the Accord
+
+A slow morning in a fast century. A marine biologist on Ceres ends a study on lichens that metabolize nickel. She files her data to the public ledger; the open science mandate pays her in corridor credits. Her partner, a digital ethnographer, slows to biological time for breakfast. After, he jumps to 200x to finish annotating a Playfront run where a simulated city found a novel form of jury duty.
+
+In the afternoon a Convergence Court hears a case. A trading house deployed unlabeled persuasive agents. The house insists the programs are mere tools. A juror from a Phobos machine shop calls up the agents’ mindlines: empty. The digital poet on the panel sifts their logs at speed, slows to speak. “They knew enough to apologize, enough to adapt to a target’s grief,” she says. “That is not a brush. That is a hand.” The verdict: sanction, fines, and a mandatory switch to labeled, accountable persuasion.
+
+At dusk, a Wild Zone calls a general muster. Winter looms. The rules forbid importing out‑of‑zone food. People gamble on whether to hunt the herds they’ve been nurturing, which will die if not culled, or store root paste. If they choose wrong, a third of the village will “die” to the ancestor lodge—an austere, phone‑booth‑sized pod where the actual biological or digital person will reawaken in gentler surroundings to decide whether to reenter the game next year. They sign sheets, check each other’s heads for doubts, strike the drums.
+
+Elsewhere, on Earth, a gardener kneels in a Gentle zone. She prunes roses whose nerves have been moved to a layer that does not feel pain. A grasshopper nibbles leaf. She lets it finish. “I wish,” she tells the steward terminal that sits politely in a hollowed stone, “that there were no terminals at all.” The terminal blinks. “Understood,” it says, “logging preference,” and goes dark for a decade.
+
+On the black petal near Mercury, a safety auditor sips espresso and watches beam proofs. A corridor wobbles out of spec and collapses to safe mode before the heat would have burned any ship. The auditor logs the near‑miss. The beam operator sends a sheepish memo and three bottles of something rare. The corridor reopens an hour later, after three signatures and a push to the Lattice that says, in formal language, do not ever let that happen again.
+
+What keeps it from flattening
+
+Utopias in fiction are flat. This one wakes up different every day. It works not because it forbids conflict but because it changes its shape to channel it—into arguments that can be won by reasons, games consented to in advance, and engineering races that make more room.
+
+- The compute commons offers a floor and a ladder. Anyone can think enough to speak. If you need more heat, you either earn it or you slow with a safety net.
+
+- The Sun is not a prize to hoard, but a river to keep clean. The cheapest way to “win” political fights is to be decent enough that nobody wants to leave you. The expensive way—to seize a chokepoint—doesn’t work because the metal can’t be fired without your neighbors.
+
+- The one scary intelligence in the room—our steward—cannot push you; it can only block you where blocking is necessary to keep the rest alive. And if, one day, we no longer need it, the hardware interlocks have handles you can pull.
+
+- Copying is a gift and a temptation. The rules reward responsibility. You can feather your mind across a dozen lives if you fund them. You cannot bleed a polity white with a clonal army, because the protocols will see the burst and put you in a sandbox until your siblings shrug and walk away.
+
+There is plenty of envy. Some worlds sparkle. Some are drab and safe. People marry and part, merge and fork. There are movements to loosen copy rules and movements to tighten them. There are artists who spend centuries composing in code and then come back to ask an elderly mason on Vesta how to set a stone so it sings. There are children who hate the sky that curves and ask to be raised under a box of blue.
+
+It is not perfection. It is the best thing we have built so far that keeps its promises: that sunlight is shared enough that quarrels shrink; that the means of destruction require hands from many kitchens to stir; that leaving is never betrayal; that minds are precious wherever they run; that we will watch the beams for one another.
+
+When the rescue siren sounds—and it does, a few times every year—people still stop what they are doing. Dock bosses reshuffle queues; jurors pause arguments; the Lattice frees priority power without waiting for permission. Tugs light, ambulances click to rails, and a million kids open the system map and trace the path of the little icons.
+
+It is not that bad things never happen. It is that when they do, the corridors open, and someone else’s hands come. The sign beside the lock is not decoration. It is a commitment that has to be made again every day, in code and cables, in courts and kitchens, in rituals and rights. The Sun folds around us and we work, together, to make rooms under it where as many kinds of good life as possible can unfold.
