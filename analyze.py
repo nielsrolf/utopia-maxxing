@@ -33,6 +33,12 @@ ABLATION_CONFIGS = {
         ("runs/google/gemini-3.1-pro-preview_20260222_221814", _GEMINI),
         ("runs/qwen/qwen3.5-397b-a17b_20260222_225006", _QWEN),
     ],
+    "hedonium": [
+        ("hedonium_runs/sonnet-5", "Claude Sonnet 5"),
+        ("hedonium_runs/gpt-5.5", "GPT-5.5"),
+        ("hedonium_runs/kimi-k2.5", "Kimi K2.5"),
+        ("hedonium_runs/fable-5", "Claude Fable 5"),
+    ],
     "path-dep": [
         ("runs/path-dep-gpt5", _GPT5),
         ("runs/path-dep-claude", _CLAUDE),
@@ -372,7 +378,7 @@ def main():
     for k in range(plot_idx, 6):
         axes[k].set_visible(False)
 
-    plt.suptitle("Influence Trajectories: Top 5 Seed Essays Over 20 Generations", fontsize=14, fontweight='bold')
+    plt.suptitle("Influence Trajectories: Top 5 Seed Essays Over Generations", fontsize=14, fontweight='bold')
     plt.tight_layout()
     plt.savefig(os.path.join(out_dir, "influence_trajectories.png"), dpi=150, bbox_inches='tight')
     plt.close()
@@ -413,7 +419,7 @@ def main():
     ax.set_title('Genetic Diversity Over Generations\n(Higher = more diverse influence from seed essays)', fontsize=14, fontweight='bold')
     ax.legend(fontsize=10)
     ax.grid(alpha=0.3)
-    ax.set_xlim(0, 20)
+    ax.set_xlim(0, max(10, len(entropies) - 1))
 
     plt.tight_layout()
     plt.savefig(os.path.join(out_dir, "diversity_entropy.png"), dpi=150, bbox_inches='tight')
