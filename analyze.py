@@ -9,10 +9,13 @@ Usage:
 import argparse
 import json
 import os
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-import numpy as np
+try:  # plotting deps are optional — widget build scripts only need the influence functions
+    import matplotlib
+    matplotlib.use('Agg')
+    import matplotlib.pyplot as plt
+    import numpy as np
+except ImportError:  # pragma: no cover
+    matplotlib = plt = np = None
 from collections import defaultdict
 
 BASE_DIR = os.path.dirname(__file__)
